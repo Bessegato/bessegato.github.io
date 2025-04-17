@@ -1,0 +1,69 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: system
+  color: emerald
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'Feito com a parceria com Ivanylson e usando the highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    twitter: 'GetResearchDev'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+icon:
+  pack:
+    ai: yes
+extensions:
+  academicons:
+    enable: true
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    hide_language_name: true
+    logo:
+      text: "Prof. Lupércio França Bessegato"
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Prof. Lupércio França Bessegato'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+
+params:
+  custom_css: ["asserts/css/custom.css"]

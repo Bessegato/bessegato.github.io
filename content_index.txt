@@ -1,0 +1,65 @@
+content:
+    subtitle: ""
+    text: ""
+    title: "\U0001F4DA Minhas Pesquisas"
+  design:
+    columns: "1"
+- block: collection
+  content:
+    filters:
+      featured_only: true
+      folders:
+      - publication
+    title: Publicações em destaque
+  design:
+    columns: 2
+    view: article-grid
+  id: papers
+- block: collection
+  content:
+    filters:
+      exclude_featured: false
+      folders:
+      - publication
+    text: ""
+    title: Recent Publications
+  design:
+    view: citation
+- block: collection
+  content:
+    filters:
+      folders:
+      - event
+    title: Recent & Upcoming Talks
+  design:
+    columns: 1
+    view: article-grid
+  id: talks
+- block: collection
+  content:
+    count: 5
+    filters:
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    page_type: post
+    subtitle: ""
+    text: ""
+    title: Recent News
+  design:
+    spacing:
+      padding:
+      - 0
+      - 0
+      - 0
+      - 0
+    view: date-title-summary
+  id: news
+- block: cta-card
+  
