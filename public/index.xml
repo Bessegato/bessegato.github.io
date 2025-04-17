@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prof. Lupércio França Bessegato</title>
+    <link>http://localhost:4321/</link>
+      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prof. Lupércio França Bessegato</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Prof. Lupércio França Bessegato</title>
+      <link>http://localhost:4321/</link>
+    </image>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:4321/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:4321/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alunos</title>
+      <link>http://localhost:4321/alunos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/alunos/</guid>
+      <description>&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cursos</title>
+      <link>http://localhost:4321/cursos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/cursos/</guid>
+      <description>&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disciplinas</title>
+      <link>http://localhost:4321/disciplinas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/disciplinas/</guid>
+      <description>&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
+&lt;p&gt;Semestre 2025/1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../disciplinas/est064/est064-251.html&#34;&gt;EST064 - LABORATÓRIO DE ESTATÍSTICA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../disciplinas/est066/est066-251.html&#34;&gt;EST066 - ESTATÍSTICA COMPUTACIONAL II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../disciplinas/est073/est073-251.html&#34;&gt;EST073 - ANÁLISE MULTIVARIADA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Livros</title>
+      <link>http://localhost:4321/livros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/livros/</guid>
+      <description>&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../livros/Rteste/_book/index.html&#34;&gt;meu livro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publicações</title>
+      <link>http://localhost:4321/publicacoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publicacoes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
