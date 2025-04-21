@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Prof. Lupércio França Bessegato"
+  navbar:
+    left: 
+      - text: "Inicial"
+        file: index.html
+      - text: "Alunos" 
+        file: alunos.html
+      - text: "Disciplinas"
+        file: disciplinas.html
+      - text: "Cursos"
+        file: cursos.html
+      - text: "Publicações"
+        file: publicacoes.html
+      - text: "Livros"
+        file: livros.html
+    right:
+      - icon: github
+        href: https://github.com/Bessegato/
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+
+editor: visual
+
