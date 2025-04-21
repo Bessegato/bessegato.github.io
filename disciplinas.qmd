@@ -5,7 +5,6 @@ format: html
 toc: true # Isso atribui o contéudo a direita
 ---
 
-## 2025.3
 
 ## 2025.1
 
