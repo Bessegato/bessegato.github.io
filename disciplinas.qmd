@@ -1,5 +1,14 @@
 ---
 title: "Disciplinas"
+lang: pt-BR
 format: html
+toc: true # Isso atribui o contéudo a direita
 ---
 
+## 2025.1
+
+-   [EST064 - LABORATÓRIO DE ESTATÍSTICA](https://ufjf.br)
+
+-   [EST066 - ESTATÍSTICA COMPUTACIONAL II](https://ufjf.br)
+
+-   [EST073 - ANÁLISE MULTIVARIADA](https://ufjf.br)
