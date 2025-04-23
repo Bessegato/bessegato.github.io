@@ -5,11 +5,15 @@ format: html
 author: Prof. Lupércio França Bessegato
 toc: true
 ---
-## 1. Metodologia.
+## Metodologia.
 
-A metodologia adotada no semestre 2025.1 está no [site](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
+Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no [site](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
 
-## 2. Geração de números pseudoaleatórios.
+## Números pseudoaleatórios.
+Algoritmos para geração de números pseudo-aleatórios e avaliação de sua qualidade.
+
+
+## Geração de números pseudoaleatórios.
 Métodos para geração de números e vetores aleatórios
 
 
@@ -41,28 +45,45 @@ Uso do método da aceitação/rejeição para construir geradores de número ale
 
 Métodos para a geração de vetores aleatórios normais multivariados a partir de sequência de variáveis aleatórias padrão independentes.
 
-[Geração de normal bivariada](){target="_blank" rel="noopener noreferrer"}.
+[Geração de normal bivariada](../EST066/04_geracao_bivariada.html){target="_blank" rel="noopener noreferrer"}.
 
 Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.
 
-[Estudo dirigido - Normal bivariada & mistura de distribuições](){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Normal bivariada & mistura de distribuições](../EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html){target="_blank" rel="noopener noreferrer"}.
 
 Geração de números aleatórios de misturas de distribuições.
 
-[Estudo dirigido - Mistura de distribuições](){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Mistura de distribuições](../EST066/Estudo dirigido - Mistura de distribuicoes.html){target="_blank" rel="noopener noreferrer"}.
 
 Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas.
 
-[Variáveis aleatórias discretas](){target="_blank" rel="noopener noreferrer"}.
+[Variáveis aleatórias discretas](../EST066/02.5_geracao_discretas.html){target="_blank" rel="noopener noreferrer"}.
 
 Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.
 
-[Estudo dirigido - Variáveis Aleatórias Discretas](){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Variáveis Aleatórias Discretas](../EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html){target="_blank" rel="noopener noreferrer"}.
 
-## 3. Biblioteca.
+## Integração Monte Carlo
+Métodos de integração Monte Carlo, uni e multidimensional
 
-A biblioteca adotada no semestre 2025.1 está no [site](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
 
-## 4. Atividades.
+## Simulação Monte Carlo
+Simulação de processo de Poisson homogêneo, não homogêneo e cadeias de Markov. Bootstrap paramétrico.
 
-As atividades adotada no semestre 2025.1 está no [site](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
+## Reamostragem
+Reamostragem boostrap, validação cruzada e jackknife
+
+## Otimização
+Métodos e algoritmos de otimização em R
+
+## Suavização
+Métodos de suavização e de estimação de funções: núcleo estimador e spline
+
+
+## Biblioteca.
+
+Material suplementar de apoio da disciplina do semestre 2025.1 está no [site](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
+
+##  Atividades.
+
+Atividades avaliativas da disciplina do semestre 2025.1 está no [site](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.

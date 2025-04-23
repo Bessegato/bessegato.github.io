@@ -39,6 +39,6 @@ Gerar sequência de números aleatórios de diversas distribuições usando sequ
 
 10. Ah, faça uma lista de exercícios.
 
-# Volta a disciplina
+# Voltar a disciplina
 
 [Voltar](../EST066/est066.html)
