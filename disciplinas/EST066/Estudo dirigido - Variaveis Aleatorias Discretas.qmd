@@ -1,0 +1,34 @@
+---
+title: "Estudo dirigido - Variáveis Aleatórias Discretas"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+date: "%d/%m/%y: 22 April 2025"
+---
+
+## Objetivo
+
+Construir códigos na linguagem R para gerar números aleatórios de distribuições discretas, continuando a usar, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando `runif()` em R.
+
+## Leituras sugeridas
+
+- ROBERT, P. C.; CASELLA, G. *Introducing Monte Carlo methods with R*. Springer, 2010.
+- ROSS, S. M. *Simulation*. 5th Ed. London, UK: Academic Press, 2006.
+
+## Estudo e desenvolvimento
+
+1. Leia a Seção 4.4 *The Acceptance-Rejection Technique*, pág. 56/315 de ROSS (2006) e implemente o algoritmo apresentado no exemplo 4f.
+
+2. Leia a Seção 4.5 *The Composition Approach*, pág. 58/315 de ROSS (2006) e implemente o algoritmo apresentado no exemplo 4g.
+
+3. Leia e resolva o Exercício 7, pág. 92/315 de ROSS (2006). Implemente algoritmo para construir gerador de números de uma mistura de populações normais com médias 0 e 2 e desvio padrão 1. Considere mesmo peso para as duas populações. Verifique o que acontece quando esses pesos vão se desequilibrando em favor de uma das populações.
+
+4. Implemente o proposto no post [Generating data from a truncated distribution](https://www.r-bloggers.com/2020/08/generating-data-from-a-truncated-distribution/) e estude seus resultados.
+
+5. Pergunta de interesse:  
+   - Como gerar valores de um processo estocástico, por exemplo, de um processo de Poisson ou de uma cadeia de Markov?
+
+# Voltar a disciplina
+
+[Voltar](../EST066/est066.html)

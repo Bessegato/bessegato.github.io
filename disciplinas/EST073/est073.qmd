@@ -1,0 +1,7 @@
+---
+title: "EST073 - ANÁLISE MULTIVARIADA"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---

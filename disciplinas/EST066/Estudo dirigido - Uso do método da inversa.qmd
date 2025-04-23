@@ -1,0 +1,44 @@
+---
+title: "Estudo dirigido - Uso do método da inversa"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+date: "%d/%m/%y: 22 April 2025"
+---
+
+# Objetivo
+
+Gerar sequência de números aleatórios de diversas distribuições usando sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando `runif()` em R. (poderíamos chamar de geração-raiz, né?)
+
+# Leituras sugeridas
+
+-   CASELLA, G.; BERGER, R. L. *Inferência estatística*. São Paulo: Centage Learning, 2010.
+-   ROSS, S. M. *Probabilidade: um curso moderno com aplicações*. Porto Alegre: Bookman, 2010.
+-   ROSS, S. M. *Simulation*. 5th Ed. London, UK: Academic Press, 2006.
+
+# Estudo e desenvolvimento
+
+1.  Pesquise em Casella e Berger (2010) e verifique todas as variáveis aleatórias que podem ser determinadas por meio de transformações envolvendo a variável aleatória uniforme (lembrem-se das aulas de Probabilidade!).
+
+2.  Leia atentamente e resuma a Seção 5.1: *The inverse transform algorithm*, página do livro de Ross (2006).
+
+3.  Use uma sequência de números aleatórios uniformemente distribuídos e implemente em R o algoritmo para gerar as variáveis aleatórias do exemplo 5a do livro de Ross (2006). **NÃO USE LOOP COM FOR!**
+
+4.  Use uma sequência de números aleatórios uniformemente distribuídos e implemente em R o algoritmo para gerar as variáveis aleatórias dos exemplos 5b do livro de Ross (2006). **NÃO USE LOOP COM FOR!**
+
+5.  Use uma sequência de números aleatórios uniformemente distribuídos e implemente em R o algoritmo para gerar as variáveis aleatórias do exemplo 5c do livro de Ross (2006). Aqui, antes de dizer "não entendi" (mesmo que em pensamento), retorne ao livro de Casella e Berger (2010) e Ross (2010) e verifique atentamente a relação entre as distribuições gama e exponencial. **NÃO USE LOOP COM FOR!**
+
+6.  Agora, retorne ao *Remark* do exemplo 5b e use uma sequência de números aleatórios uniformemente distribuídos e implemente em R o algoritmo para gerar valores aleatórios de uma Poisson (que é discreta!!). De novo, antes de dizer "não entendi" (mesmo que em pensamento), retorne ao livro de Casella e Berger (2010) e Ross (2010) e verifique atentamente a relação entre as distribuições Poisson e exponencial.
+
+7.  Para pensar e discutir (no fórum ou em nosso próximo encontro): como gerar números aleatórios com distribuição beta a partir de sequência de números aleatórios uniformemente distribuídos. De novo, peça ajuda ao Casella e Berger (2010) e ao Ross (2010). Há transformações determinísticas que levam uniformes à beta.
+
+8.  Para pensar um pouco mais e para discutir (no fórum ou em nosso próximo encontro): como gerar números aleatórios com distribuição normal a partir de sequência de números aleatórios uniformemente distribuídos. De novo, peça ajuda ao Casella e Berger (2010) e ao Ross (2010). Há transformações determinísticas que levam de uniforme a normais.
+
+9.  Outra coisa, como eu posso conferir ou comparar seu gerador de números aleatórios uniformemente distribuídos (no nosso caso o comando `runif()`)? Será que a sequência de uniformes produzida pelo Matlab, por exemplo, é melhor ou pior? Como comparar? Mais um roteiro para discussão! Que critérios deveria adotar para comparar procedimentos de geração de números aleatórios?
+
+10. Ah, faça uma lista de exercícios.
+
+# Volta a disciplina
+
+[Voltar](../EST066/est066.html)

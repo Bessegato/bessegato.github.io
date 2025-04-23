@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
     "objectID": "disciplinas.html",
     "href": "disciplinas.html",
     "title": "Disciplinas",
@@ -21,25 +14,11 @@
     "text": "EST064 - LABORATÓRIO DE ESTATÍSTICA\nEST066 - ESTATÍSTICA COMPUTACIONAL II\nEST073 - ANÁLISE MULTIVARIADA"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Prof. Lupércio",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Iniciei minha atuação no Departamento de Estatística em agosto de 2010, quando mudei-me para Juiz de Fora. Sou engenheiro eletricista desde 1976. Tenho mestrado (2001) e doutorado (2009) em Estatística, pela UFMG e especialização em Gestão Empresarial (1999), pela FGV. Na graduação, leciono, dentre outros, para os cursos de Estatística e Ciências Exatas. Na área acadêmica, tenho experiência em Probabilidade e Estatística Aplicadas, com ênfase em Estatística Industrial e Análise de Dados Multivariados. Sou membro do corpo docente permanente do Programa de Pós-Graduação em Educação Matemática da UFJF. Atuo também nos seguintes temas: Controle e Monitoramento de Processos, Técnicas Multivariadas Aplicadas e Estimação Funcional Não Paramétrica. Desenvolvo linha extensionista sobre dinâmicas e alternativas para professores da Escola Básica que ensinam Estatística. Atuei durante vinte e seis anos na construção de sistemas elétricos de de extra alta tensão, principalmente como administrador de contratos e como gerente de construção on-site, em projetos no Brasil e no Exterior. Fui gerente de planejamento e controle de projetos da Divisão de Transmission Lines, da ABB. Fui também consultor independente em planejamento e gestão de projetos e em gerenciamento de contratos de engenharia.\n“Todo mundo é um gênio, mas se você julgar um peixe por sua habilidade de subir em uma árvore. Ele viverá a vida inteira acreditando que é estúpido” (Albert Einstein)"
-  },
-  {
-    "objectID": "index.html#sobre-mim",
-    "href": "index.html#sobre-mim",
-    "title": "Prof. Lupércio",
-    "section": "",
-    "text": "Iniciei minha atuação no Departamento de Estatística em agosto de 2010, quando mudei-me para Juiz de Fora. Sou engenheiro eletricista desde 1976. Tenho mestrado (2001) e doutorado (2009) em Estatística, pela UFMG e especialização em Gestão Empresarial (1999), pela FGV. Na graduação, leciono, dentre outros, para os cursos de Estatística e Ciências Exatas. Na área acadêmica, tenho experiência em Probabilidade e Estatística Aplicadas, com ênfase em Estatística Industrial e Análise de Dados Multivariados. Sou membro do corpo docente permanente do Programa de Pós-Graduação em Educação Matemática da UFJF. Atuo também nos seguintes temas: Controle e Monitoramento de Processos, Técnicas Multivariadas Aplicadas e Estimação Funcional Não Paramétrica. Desenvolvo linha extensionista sobre dinâmicas e alternativas para professores da Escola Básica que ensinam Estatística. Atuei durante vinte e seis anos na construção de sistemas elétricos de de extra alta tensão, principalmente como administrador de contratos e como gerente de construção on-site, em projetos no Brasil e no Exterior. Fui gerente de planejamento e controle de projetos da Divisão de Transmission Lines, da ABB. Fui também consultor independente em planejamento e gestão de projetos e em gerenciamento de contratos de engenharia.\n“Todo mundo é um gênio, mas se você julgar um peixe por sua habilidade de subir em uma árvore. Ele viverá a vida inteira acreditando que é estúpido” (Albert Einstein)"
-  },
-  {
-    "objectID": "index_old.html",
-    "href": "index_old.html",
-    "title": "Prof. Lupércio França Bessegato",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 21, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 18, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "About this blog"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -49,10 +28,255 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "disciplinas/EST066/est066.html",
+    "href": "disciplinas/EST066/est066.html",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "",
+    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no site."
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#metodologia.",
+    "href": "disciplinas/EST066/est066.html#metodologia.",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "",
+    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no site."
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#geração-de-números-pseudoaleatórios.",
+    "href": "disciplinas/EST066/est066.html#geração-de-números-pseudoaleatórios.",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "Geração de números pseudoaleatórios.",
+    "text": "Geração de números pseudoaleatórios.\nMétodos para geração de números e vetores aleatórios\nApresenta-se um singelo, mas importante, teorema de probabilidade e a maneira pela qual ele pode ser usado para gerar números aleatórios por meio de transformações determinísticas de números aleatórios com distribuição uniforme entre 0 e 1, Esse teorema vai ser a base do estudo desta semana.\nMétodo da inversa.\nGeração de sequência de números aleatórios a partir da distribuição uniforme.\nEstudo dirigido - Uso do método da inversa.\nRecuperando brevemente Cálculo de Probabilidades, apresentam-se algumas transformações importantes entre variáveis aleatórias. A ideia de eficiência dos algoritmos é sugerida e propõe-se seu estudo.\nTransformação de Variáveis aleatórias.\nUso de transformações de variáveis aleatórias para construir geradores de número aleatórios\nEstudo dirigido - Transformação de variáveis aleatórias.\nO método da Aceitação/Rejeição é um ferramenta poderosa na geração de números aleatórios, principalmente quando o método da inversa ou as transformações de variáveis aleatórias não podem ser facilmente aplicados\nMétodo da Aceitação/Rejeição.\nUso do método da aceitação/rejeição para construir geradores de número aleatórios\nEstudo dirigido - Método da Aceitação/Rejeição.\nMétodos para a geração de vetores aleatórios normais multivariados a partir de sequência de variáveis aleatórias padrão independentes.\nGeração de normal bivariada.\nGeração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.\nEstudo dirigido - Normal bivariada & mistura de distribuições.\nGeração de números aleatórios de misturas de distribuições.\nEstudo dirigido - Mistura de distribuições.\nMétodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas.\nVariáveis aleatórias discretas.\nGeração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.\nEstudo dirigido - Variáveis Aleatórias Discretas."
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#biblioteca.",
+    "href": "disciplinas/EST066/est066.html#biblioteca.",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "Biblioteca.",
+    "text": "Biblioteca.\nMaterial suplementar de apoio da disciplina do semestre 2025.1 está no site."
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#atividades.",
+    "href": "disciplinas/EST066/est066.html#atividades.",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "Atividades.",
+    "text": "Atividades.\nAtividades avaliativas da disciplina do semestre 2025.1 está no site."
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "Prof. Lupércio França Bessegato",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 21, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 18, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prof. Lupércio F. Bessegato",
+    "section": "",
+    "text": "Iniciei minha atuação no Departamento de Estatística em agosto de 2010, quando mudei-me para Juiz de Fora. Sou engenheiro eletricista desde 1976. Tenho mestrado (2001) e doutorado (2009) em Estatística, pela UFMG e especialização em Gestão Empresarial (1999), pela FGV. Na graduação, leciono, dentre outros, para os cursos de Estatística e Ciências Exatas. Na área acadêmica, tenho experiência em Probabilidade e Estatística Aplicadas, com ênfase em Estatística Industrial e Análise de Dados Multivariados. Sou membro do corpo docente permanente do Programa de Pós-Graduação em Educação Matemática da UFJF. Atuo também nos seguintes temas: Controle e Monitoramento de Processos, Técnicas Multivariadas Aplicadas e Estimação Funcional Não Paramétrica. Desenvolvo linha extensionista sobre dinâmicas e alternativas para professores da Escola Básica que ensinam Estatística. Atuei durante vinte e seis anos na construção de sistemas elétricos de de extra alta tensão, principalmente como administrador de contratos e como gerente de construção on-site, em projetos no Brasil e no Exterior. Fui gerente de planejamento e controle de projetos da Divisão de Transmission Lines, da ABB. Fui também consultor independente em planejamento e gestão de projetos e em gerenciamento de contratos de engenharia.\n“Todo mundo é um gênio, mas se você julgar um peixe por sua habilidade de subir em uma árvore. Ele viverá a vida inteira acreditando que é estúpido” (Albert Einstein)"
+  },
+  {
+    "objectID": "index.html#sobre-mim",
+    "href": "index.html#sobre-mim",
+    "title": "Prof. Lupércio F. Bessegato",
+    "section": "",
+    "text": "Iniciei minha atuação no Departamento de Estatística em agosto de 2010, quando mudei-me para Juiz de Fora. Sou engenheiro eletricista desde 1976. Tenho mestrado (2001) e doutorado (2009) em Estatística, pela UFMG e especialização em Gestão Empresarial (1999), pela FGV. Na graduação, leciono, dentre outros, para os cursos de Estatística e Ciências Exatas. Na área acadêmica, tenho experiência em Probabilidade e Estatística Aplicadas, com ênfase em Estatística Industrial e Análise de Dados Multivariados. Sou membro do corpo docente permanente do Programa de Pós-Graduação em Educação Matemática da UFJF. Atuo também nos seguintes temas: Controle e Monitoramento de Processos, Técnicas Multivariadas Aplicadas e Estimação Funcional Não Paramétrica. Desenvolvo linha extensionista sobre dinâmicas e alternativas para professores da Escola Básica que ensinam Estatística. Atuei durante vinte e seis anos na construção de sistemas elétricos de de extra alta tensão, principalmente como administrador de contratos e como gerente de construção on-site, em projetos no Brasil e no Exterior. Fui gerente de planejamento e controle de projetos da Divisão de Transmission Lines, da ABB. Fui também consultor independente em planejamento e gestão de projetos e em gerenciamento de contratos de engenharia.\n“Todo mundo é um gênio, mas se você julgar um peixe por sua habilidade de subir em uma árvore. Ele viverá a vida inteira acreditando que é estúpido” (Albert Einstein)"
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Uso do método da inversa.html",
+    "href": "disciplinas/EST066/Estudo dirigido - Uso do método da inversa.html",
+    "title": "Estudo dirigido - Uso do método da inversa",
+    "section": "",
+    "text": "Objetivo\nGerar sequência de números aleatórios de diversas distribuições usando sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R. (poderíamos chamar de geração-raiz, né?)\n\n\nLeituras sugeridas\n\nCASELLA, G.; BERGER, R. L. Inferência estatística. São Paulo: Centage Learning, 2010.\nROSS, S. M. Probabilidade: um curso moderno com aplicações. Porto Alegre: Bookman, 2010.\nROSS, S. M. Simulation. 5th Ed. London, UK: Academic Press, 2006.\n\n\n\nEstudo e desenvolvimento\n\nPesquise em Casella e Berger (2010) e verifique todas as variáveis aleatórias que podem ser determinadas por meio de transformações envolvendo a variável aleatória uniforme (lembrem-se das aulas de Probabilidade!).\nLeia atentamente e resuma a Seção 5.1: The inverse transform algorithm, página do livro de Ross (2006).\nUse uma sequência de números aleatórios uniformemente distribuídos e implemente em R o algoritmo para gerar as variáveis aleatórias do exemplo 5a do livro de Ross (2006). NÃO USE LOOP COM FOR!\nUse uma sequência de números aleatórios uniformemente distribuídos e implemente em R o algoritmo para gerar as variáveis aleatórias dos exemplos 5b do livro de Ross (2006). NÃO USE LOOP COM FOR!\nUse uma sequência de números aleatórios uniformemente distribuídos e implemente em R o algoritmo para gerar as variáveis aleatórias do exemplo 5c do livro de Ross (2006). Aqui, antes de dizer “não entendi” (mesmo que em pensamento), retorne ao livro de Casella e Berger (2010) e Ross (2010) e verifique atentamente a relação entre as distribuições gama e exponencial. NÃO USE LOOP COM FOR!\nAgora, retorne ao Remark do exemplo 5b e use uma sequência de números aleatórios uniformemente distribuídos e implemente em R o algoritmo para gerar valores aleatórios de uma Poisson (que é discreta!!). De novo, antes de dizer “não entendi” (mesmo que em pensamento), retorne ao livro de Casella e Berger (2010) e Ross (2010) e verifique atentamente a relação entre as distribuições Poisson e exponencial.\nPara pensar e discutir (no fórum ou em nosso próximo encontro): como gerar números aleatórios com distribuição beta a partir de sequência de números aleatórios uniformemente distribuídos. De novo, peça ajuda ao Casella e Berger (2010) e ao Ross (2010). Há transformações determinísticas que levam uniformes à beta.\nPara pensar um pouco mais e para discutir (no fórum ou em nosso próximo encontro): como gerar números aleatórios com distribuição normal a partir de sequência de números aleatórios uniformemente distribuídos. De novo, peça ajuda ao Casella e Berger (2010) e ao Ross (2010). Há transformações determinísticas que levam de uniforme a normais.\nOutra coisa, como eu posso conferir ou comparar seu gerador de números aleatórios uniformemente distribuídos (no nosso caso o comando runif())? Será que a sequência de uniformes produzida pelo Matlab, por exemplo, é melhor ou pior? Como comparar? Mais um roteiro para discussão! Que critérios deveria adotar para comparar procedimentos de geração de números aleatórios?\nAh, faça uma lista de exercícios.\n\n\n\nVoltar a disciplina\nVoltar"
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Transformação de variáveis aleatórias.html",
+    "href": "disciplinas/EST066/Estudo dirigido - Transformação de variáveis aleatórias.html",
+    "title": "Estudo dirigido - Transformação de variáveis aleatórias",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de diversas distribuições usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R. Discutir o conceito de eficiência do algoritmo."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Transformação de variáveis aleatórias.html#objetivo",
+    "href": "disciplinas/EST066/Estudo dirigido - Transformação de variáveis aleatórias.html#objetivo",
+    "title": "Estudo dirigido - Transformação de variáveis aleatórias",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de diversas distribuições usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R. Discutir o conceito de eficiência do algoritmo."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Transformação de variáveis aleatórias.html#leituras-sugeridas",
+    "href": "disciplinas/EST066/Estudo dirigido - Transformação de variáveis aleatórias.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Transformação de variáveis aleatórias",
+    "section": "Leituras sugeridas",
+    "text": "Leituras sugeridas\n\nCASELLA, G.; BERGER, R. L. Inferência estatística. São Paulo: Centage Learning, 2010.\nROBERT, P. C.; CASELLA, G. Introducing Monte Carlo methods with R. Springer, 2010.\nROSS, S. M. Probabilidade: um curso moderno com aplicações. Porto Alegre: Bookman, 2010.\nROSS, S. M. Simulation. 5th Ed. London, UK: Academic Press, 2006."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Transformação de variáveis aleatórias.html#estudo-e-desenvolvimento",
+    "href": "disciplinas/EST066/Estudo dirigido - Transformação de variáveis aleatórias.html#estudo-e-desenvolvimento",
+    "title": "Estudo dirigido - Transformação de variáveis aleatórias",
+    "section": "Estudo e desenvolvimento",
+    "text": "Estudo e desenvolvimento\n\nLeia atentamente o material postado sobre transformações de variáveis aleatórias. Revise os conceitos e instrumentos aprendidos em Cálculo de Probabilidade, porque eles serão usados intensivamente na disciplina. Os conceitos de distribuição conjunta, marginal, condicional serão usados intensamente, assim como transformações (principalmente o uso de jacobiano em transformações).\nConstrua os algoritmos de todos os geradores de números aleatórios discutidos no material postado sobre transformações de variáveis aleatórias. Refaça e entenda todas as transformações envolvidas.\nLeia o Capítulo 4.1 Generating discrete random variables, de ROSS (2006). Use apenas a função runif e implemente os geradores de números aleatórios dos exemplos 4a, 4b, 4c e 4d.\nLeia a Seção 1.1.1 e verifique os procedimentos que poderiam ser utilizados para verificar a qualidade de seu gerador de números aleatórios uniformemente distribuídos. Aplique-os em seu gerador, analise e conclua sobre sua qualidade.\nLeia a Seção 4.3: Generating binomial random variables, entenda as relações probabilísticas envolvidas e implemente o algoritmo proposto.\nLeia a Seção 4.4: Generating Poisson random variables, entenda as relações probabilísticas envolvidas e implemente o algoritmo proposto. Compare seus resultados com aqueles obtidos com o algoritmo sugerido no material postado sobre transformações de variáveis aleatórias.\nLeia os posts “Proof of the Box-Muller Method” e acompanhe a prova da relação entre Uniformes independentes e normais padrão independentes. Refaça a prova usando o método do Jacobiano para provar a relação de Box-Muller.\nhttps://math.stackexchange.com/questions/1110168/proof-of-the-box-muller-method\nPerguntas para motivar uma pesquisa sobre o tema:\n\nComo gerar a distribuição t-Student usando a representação mistura de sua densidade?\n\nComo gerar a distribuição qui-quadrado não-central usando a representação mistura de sua densidade?"
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Método da Aceitação_Rejeição.html",
+    "href": "disciplinas/EST066/Estudo dirigido - Método da Aceitação_Rejeição.html",
+    "title": "Estudo dirigido - Método da Aceitação/Rejeição",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de diversas distribuições aplicando o método da aceitação/rejeição. Continuar usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Método da Aceitação_Rejeição.html#objetivo",
+    "href": "disciplinas/EST066/Estudo dirigido - Método da Aceitação_Rejeição.html#objetivo",
+    "title": "Estudo dirigido - Método da Aceitação/Rejeição",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de diversas distribuições aplicando o método da aceitação/rejeição. Continuar usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Método da Aceitação_Rejeição.html#leituras-sugeridas",
+    "href": "disciplinas/EST066/Estudo dirigido - Método da Aceitação_Rejeição.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Método da Aceitação/Rejeição",
+    "section": "Leituras sugeridas",
+    "text": "Leituras sugeridas\n\nROBERT, P. C.; CASELLA, G. Introducing Monte Carlo methods with R. Springer, 2010.\nROSS, S. M. Simulation. 5th Ed. London, UK: Academic Press, 2006."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Método da Aceitação_Rejeição.html#estudo-e-desenvolvimento",
+    "href": "disciplinas/EST066/Estudo dirigido - Método da Aceitação_Rejeição.html#estudo-e-desenvolvimento",
+    "title": "Estudo dirigido - Método da Aceitação/Rejeição",
+    "section": "Estudo e desenvolvimento",
+    "text": "Estudo e desenvolvimento\n\nLeia atentamente o material postado sobre o método da aceitação/rejeição. Revise os conceitos e entenda o procedimento para escolher um valor de (M) adequado.\nConstrua o código em R para o exemplo postado no material de método de aceitação/rejeição.\nLeia o Capítulo 5.2 The Rejection Method, de ROSS (2006). Use apenas a função runif e implemente os geradores de números aleatórios dos exemplos 5.d, 5.e, 5.f e 5.g.\nLeia a Seção 2.3 Accept/reject methods de ROBERT e CASELLA (2010) e acompanhe seus exemplos.\nPesquise e estude sobre a quantidade média de iterações necessárias para gerar os números aleatórios de interesse.\nLeia o post “Generating data from a truncated distribution” e entenda o que é uma distribuição truncada e as peculiaridades em gerar números aleatórios desse tipo de distribuição, sem o uso de pacotes especializados.\nPergunta de interesse:\n\nComo gerar valores de uma distribuição bivariada?\n\nE de uma distribuição multivariada?"
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html",
+    "href": "disciplinas/EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html",
+    "title": "Estudo dirigido - Normal bivariada & mistura de distribuições",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de distribuições normais bivariadas e de misturas de distribuições. Continuar usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html#objetivo",
+    "href": "disciplinas/EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html#objetivo",
+    "title": "Estudo dirigido - Normal bivariada & mistura de distribuições",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de distribuições normais bivariadas e de misturas de distribuições. Continuar usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html#leituras-sugeridas",
+    "href": "disciplinas/EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Normal bivariada & mistura de distribuições",
+    "section": "Leituras sugeridas",
+    "text": "Leituras sugeridas\n\nROBERT, P. C.; CASELLA, G. Introducing Monte Carlo methods with R. Springer, 2010.\nROSS, S. M. Simulation. 5th Ed. London, UK: Academic Press, 2006."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html#estudo-e-desenvolvimento",
+    "href": "disciplinas/EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html#estudo-e-desenvolvimento",
+    "title": "Estudo dirigido - Normal bivariada & mistura de distribuições",
+    "section": "Estudo e desenvolvimento",
+    "text": "Estudo e desenvolvimento\n\nReveja as definições e propriedades da distribuição normal multivariada.\nLeia atentamente o material postado sobre o método para gerar normais bivariadas. Revise os conceitos e entenda o procedimento para conduzir a decomposição de Choleski.\nImplemente algoritmo para gerar vetores normais bivariados. Simule e verifique a normalidade dos resultados. Como?\nUse a decomposição de Choleski pelo R e implemente algoritmo para gerar números de uma normal tri-variada. Simule e verifique os resultados. Como?\nLeia a Seção 2.2.3 Mixture representations de ROBERT e CASELLA (2010) e acompanhe seu exemplo.\nLeia a Seção 4.4 The Acceptance-Rejection Technique de ROSS (2006) e implemente o algoritmo apresentado no exemplo 4e.\nLeia a Seção 4.5 The Composition Approach de ROSS (2006) e implemente o algoritmo apresentado no exemplo 4f.\nLeia e resolva o Exercício 7, pág. 92/315 de ROSS (2006). Implemente algoritmo para construir gerador de números de uma mistura de populações normais com médias 0 e 2 e desvio padrão 1. Considere mesmo peso para as duas populações. Verifique o que acontece quando esses pesos vão se desequilibrando em favor de uma das populações.\nImplemente o proposto no post Generating data from a truncated distribution e estude seus resultados.\nPergunta de interesse:\n\nComo gerar valores de um processo estocástico, por exemplo, de um processo de Poisson ou de uma cadeia de Markov?"
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Mistura de distribuicoes.html",
+    "href": "disciplinas/EST066/Estudo dirigido - Mistura de distribuicoes.html",
+    "title": "Estudo dirigido - Mistura de distribuições",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de misturas de distribuições. Continuar usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Mistura de distribuicoes.html#objetivo",
+    "href": "disciplinas/EST066/Estudo dirigido - Mistura de distribuicoes.html#objetivo",
+    "title": "Estudo dirigido - Mistura de distribuições",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de misturas de distribuições. Continuar usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Mistura de distribuicoes.html#leituras-sugeridas",
+    "href": "disciplinas/EST066/Estudo dirigido - Mistura de distribuicoes.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Mistura de distribuições",
+    "section": "Leituras sugeridas",
+    "text": "Leituras sugeridas\n\nROBERT, P. C.; CASELLA, G. Introducing Monte Carlo methods with R. Springer, 2010.\nROSS, S. M. Simulation. 5th Ed. London, UK: Academic Press, 2006."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Mistura de distribuicoes.html#estudo-e-desenvolvimento",
+    "href": "disciplinas/EST066/Estudo dirigido - Mistura de distribuicoes.html#estudo-e-desenvolvimento",
+    "title": "Estudo dirigido - Mistura de distribuições",
+    "section": "Estudo e desenvolvimento",
+    "text": "Estudo e desenvolvimento\n\nLeia a Seção 2.2.3 Mixture representations de ROBERT e CASELLA (2010) e acompanhe seu exemplo.\nLeia a Seção 4.5 The Composition Approach de ROSS (2006) e implemente o algoritmo apresentado no exemplo 4g.\nLeia e resolva o Exercício 7 (The Composition Method), pág. 92/315 de ROSS (2006). Implemente algoritmo para construir gerador de números de uma mistura de populações normais com médias 0 e 2 e desvio padrão 1. Considere mesmo peso para as duas populações. Verifique o que acontece quando esses pesos são desequilibrados em favor de uma das populações.\nImplemente o proposto no post Generating data from a truncated distribution e estude seus resultados.\nPergunta de interesse:\n\nComo gerar valores de um processo estocástico, como por exemplo de um processo de Poisson ou de uma cadeia de Markov?"
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html",
+    "href": "disciplinas/EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html",
+    "title": "Estudo dirigido - Variáveis Aleatórias Discretas",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de distribuições discretas, continuando a usar, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html#objetivo",
+    "href": "disciplinas/EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html#objetivo",
+    "title": "Estudo dirigido - Variáveis Aleatórias Discretas",
+    "section": "",
+    "text": "Construir códigos na linguagem R para gerar números aleatórios de distribuições discretas, continuando a usar, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html#leituras-sugeridas",
+    "href": "disciplinas/EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Variáveis Aleatórias Discretas",
+    "section": "Leituras sugeridas",
+    "text": "Leituras sugeridas\n\nROBERT, P. C.; CASELLA, G. Introducing Monte Carlo methods with R. Springer, 2010.\nROSS, S. M. Simulation. 5th Ed. London, UK: Academic Press, 2006."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html#estudo-e-desenvolvimento",
+    "href": "disciplinas/EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html#estudo-e-desenvolvimento",
+    "title": "Estudo dirigido - Variáveis Aleatórias Discretas",
+    "section": "Estudo e desenvolvimento",
+    "text": "Estudo e desenvolvimento\n\nLeia a Seção 4.4 The Acceptance-Rejection Technique, pág. 56/315 de ROSS (2006) e implemente o algoritmo apresentado no exemplo 4f.\nLeia a Seção 4.5 The Composition Approach, pág. 58/315 de ROSS (2006) e implemente o algoritmo apresentado no exemplo 4g.\nLeia e resolva o Exercício 7, pág. 92/315 de ROSS (2006). Implemente algoritmo para construir gerador de números de uma mistura de populações normais com médias 0 e 2 e desvio padrão 1. Considere mesmo peso para as duas populações. Verifique o que acontece quando esses pesos vão se desequilibrando em favor de uma das populações.\nImplemente o proposto no post Generating data from a truncated distribution e estude seus resultados.\nPergunta de interesse:\n\nComo gerar valores de um processo estocástico, por exemplo, de um processo de Poisson ou de uma cadeia de Markov?"
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#números-pseudoaleatórios.",
+    "href": "disciplinas/EST066/est066.html#números-pseudoaleatórios.",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "Números pseudoaleatórios.",
+    "text": "Números pseudoaleatórios.\nAlgoritmos para geração de números pseudo-aleatórios e avaliação de sua qualidade."
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#integração-monte-carlo",
+    "href": "disciplinas/EST066/est066.html#integração-monte-carlo",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "Integração Monte Carlo",
+    "text": "Integração Monte Carlo\nMétodos de integração Monte Carlo, uni e multidimensional"
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#simulação-monte-carlo",
+    "href": "disciplinas/EST066/est066.html#simulação-monte-carlo",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "Simulação Monte Carlo",
+    "text": "Simulação Monte Carlo\nSimulação de processo de Poisson homogêneo, não homogêneo e cadeias de Markov. Bootstrap paramétrico."
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#reamostragem",
+    "href": "disciplinas/EST066/est066.html#reamostragem",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "Reamostragem",
+    "text": "Reamostragem\nReamostragem boostrap, validação cruzada e jackknife"
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#otimização",
+    "href": "disciplinas/EST066/est066.html#otimização",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "Otimização",
+    "text": "Otimização\nMétodos e algoritmos de otimização em R"
+  },
+  {
+    "objectID": "disciplinas/EST066/est066.html#suavização",
+    "href": "disciplinas/EST066/est066.html#suavização",
+    "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
+    "section": "Suavização",
+    "text": "Suavização\nMétodos de suavização e de estimação de funções: núcleo estimador e spline"
   }
 ]

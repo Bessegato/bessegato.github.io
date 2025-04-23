@@ -1,0 +1,7 @@
+---
+title: "EST064 - LABORATÓRIO DE ESTATÍSTICA"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---

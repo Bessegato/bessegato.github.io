@@ -16,8 +16,6 @@ website:
         file: cursos.html
       - text: "Publicações"
         file: publicacoes.html
-      - text: "Livros"
-        file: livros.html
     right:
       - icon: github
         href: https://github.com/Bessegato/

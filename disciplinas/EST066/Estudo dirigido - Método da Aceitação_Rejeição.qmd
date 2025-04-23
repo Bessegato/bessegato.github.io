@@ -1,0 +1,38 @@
+---
+title: "Estudo dirigido - Método da Aceitação/Rejeição"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+date: "%d/%m/%y: 22 April 2025"
+---
+## Objetivo
+
+Construir códigos na linguagem R para gerar números aleatórios de diversas distribuições aplicando o método da aceitação/rejeição. Continuar usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando `runif()` em R.
+
+## Leituras sugeridas
+
+- ROBERT, P. C.; CASELLA, G. *Introducing Monte Carlo methods with R*. Springer, 2010.
+- ROSS, S. M. *Simulation*. 5th Ed. London, UK: Academic Press, 2006.
+
+## Estudo e desenvolvimento
+
+1. Leia atentamente o material postado sobre o método da aceitação/rejeição. Revise os conceitos e entenda o procedimento para escolher um valor de \(M\) adequado.
+
+2. Construa o código em R para o exemplo postado no material de método de aceitação/rejeição.
+
+3. Leia o Capítulo 5.2 *The Rejection Method*, de ROSS (2006). Use apenas a função `runif` e implemente os geradores de números aleatórios dos exemplos 5.d, 5.e, 5.f e 5.g.
+
+4. Leia a Seção 2.3 *Accept/reject methods* de ROBERT e CASELLA (2010) e acompanhe seus exemplos.
+
+5. Pesquise e estude sobre a quantidade média de iterações necessárias para gerar os números aleatórios de interesse.
+
+6. Leia o post ["Generating data from a truncated distribution"](https://www.r-bloggers.com/2020/08/generating-data-from-a-truncated-distribution/) e entenda o que é uma distribuição truncada e as peculiaridades em gerar números aleatórios desse tipo de distribuição, sem o uso de pacotes especializados.
+
+7. Pergunta de interesse:  
+   - Como gerar valores de uma distribuição bivariada?  
+   - E de uma distribuição multivariada?
+
+# Volta a disciplina
+
+[Voltar](../EST066/est066.html)

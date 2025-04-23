@@ -5,11 +5,10 @@ format: html
 toc: true # Isso atribui o contéudo a direita
 ---
 
-
 ## 2025.1
 
--   [EST064 - LABORATÓRIO DE ESTATÍSTICA](https://ufjf.br)
+-   [EST064 - LABORATÓRIO DE ESTATÍSTICA](../disciplinas/EST064/est064.html)
 
--   [EST066 - ESTATÍSTICA COMPUTACIONAL II](https://ufjf.br)
+-   [EST066 - ESTATÍSTICA COMPUTACIONAL II](../disciplinas/EST066/est066.html)
 
--   [EST073 - ANÁLISE MULTIVARIADA](https://ufjf.br)
+-   [EST073 - ANÁLISE MULTIVARIADA](../disciplinas/EST073/est073.html)

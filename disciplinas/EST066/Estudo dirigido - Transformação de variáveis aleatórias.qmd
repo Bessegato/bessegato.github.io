@@ -1,0 +1,44 @@
+---
+title: "Estudo dirigido - Transformação de variáveis aleatórias"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+date: "%d/%m/%y: 22 April 2025"
+---
+## Objetivo
+
+Construir códigos na linguagem R para gerar números aleatórios de diversas distribuições usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando `runif()` em R. Discutir o conceito de eficiência do algoritmo.
+
+## Leituras sugeridas
+
+- CASELLA, G.; BERGER, R. L. *Inferência estatística*. São Paulo: Centage Learning, 2010.
+- ROBERT, P. C.; CASELLA, G. *Introducing Monte Carlo methods with R*. Springer, 2010.
+- ROSS, S. M. *Probabilidade: um curso moderno com aplicações*. Porto Alegre: Bookman, 2010.
+- ROSS, S. M. *Simulation*. 5th Ed. London, UK: Academic Press, 2006.
+
+## Estudo e desenvolvimento
+
+1. Leia atentamente o material postado sobre transformações de variáveis aleatórias. Revise os conceitos e instrumentos aprendidos em Cálculo de Probabilidade, porque eles serão usados intensivamente na disciplina. Os conceitos de distribuição conjunta, marginal, condicional serão usados intensamente, assim como transformações (principalmente o uso de jacobiano em transformações).
+
+2. Construa os algoritmos de todos os geradores de números aleatórios discutidos no material postado sobre transformações de variáveis aleatórias. Refaça e entenda todas as transformações envolvidas.
+
+3. Leia o Capítulo 4.1 *Generating discrete random variables*, de ROSS (2006). Use apenas a função `runif` e implemente os geradores de números aleatórios dos exemplos 4a, 4b, 4c e 4d.
+
+4. Leia a Seção 1.1.1 e verifique os procedimentos que poderiam ser utilizados para verificar a qualidade de seu gerador de números aleatórios uniformemente distribuídos. Aplique-os em seu gerador, analise e conclua sobre sua qualidade.
+
+5. Leia a Seção 4.3: *Generating binomial random variables*, entenda as relações probabilísticas envolvidas e implemente o algoritmo proposto.
+
+6. Leia a Seção 4.4: *Generating Poisson random variables*, entenda as relações probabilísticas envolvidas e implemente o algoritmo proposto. Compare seus resultados com aqueles obtidos com o algoritmo sugerido no material postado sobre transformações de variáveis aleatórias.
+
+7. Leia os posts "Proof of the Box-Muller Method" e acompanhe a prova da relação entre Uniformes independentes e normais padrão independentes. Refaça a prova usando o método do Jacobiano para provar a relação de Box-Muller.  
+   [https://math.stackexchange.com/questions/1110168/proof-of-the-box-muller-method](https://math.stackexchange.com/questions/1110168/proof-of-the-box-muller-method)
+
+8. Perguntas para motivar uma pesquisa sobre o tema:  
+   - Como gerar a distribuição t-Student usando a representação mistura de sua densidade?  
+   - Como gerar a distribuição qui-quadrado não-central usando a representação mistura de sua densidade?
+
+# Volta a disciplina
+
+[Voltar](../EST066/est066.html)
+
