@@ -11,6 +11,12 @@ toc: true
 As revisões sugeridas estão postadas a seguir:
 
 ## Nomenclatura de variáveis e funções
+(Conteúdo detalhado sobre práticas recomendadas para nomeação de objetos em R)
+
 
 ## Usando Operadores Básicos
+[Usando Operadores Básicos](../EST064/00_operadores_basicos.html){target="_blank" rel="noopener noreferrer"}.
+
+# Voltar a disciplina  
+[Voltar](../EST064/est064.html)
 

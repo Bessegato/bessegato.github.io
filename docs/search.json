@@ -298,21 +298,21 @@
     "href": "disciplinas/EST064/est064.html#introdução-à-linguagem-r.",
     "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
     "section": "Introdução à linguagem R.",
-    "text": "Introdução à linguagem R.\nFundamentos da linguagem estatística R e da interface gráfica RStudio\nSlides apresentados em sala. Slides - Introdução à Linguagem R.\nInteressando-se pela linguagem R.\nDicas do post:“Top Tips for Learning R from Africa R’s Shelmith Kariuki”, do R Bloggers https://tinyurl.com/y6zw5blb\nEste é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem). Ajuda no R.\nSugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos\nUma revisão de fundamentos da linguagem R."
+    "text": "Introdução à linguagem R.\nFundamentos da linguagem estatística R e da interface gráfica RStudio\nSlides apresentados em sala. Slides - Introdução à Linguagem R.\nInteressando-se pela linguagem R.\nDicas do post:“Top Tips for Learning R from Africa R’s Shelmith Kariuki”, do R Bloggers https://tinyurl.com/y6zw5blb\nEste é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem). Ajuda no R.\nSugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos\nUma revisão de fundamentos da linguagem R.\nAlguns comandos e exercícios desse contato inicial com a linguagem R. Uso inicial do R (1).\nLive apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, com apresentação de: uso inicial do R: tipo de dados, ajuda no R, operações aritméticas. Live: Uso inicial do R (ERE)"
   },
   {
     "objectID": "disciplinas/EST064/est064.html#tipos-e-classes-de-dados-em-r.",
     "href": "disciplinas/EST064/est064.html#tipos-e-classes-de-dados-em-r.",
     "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
     "section": "Tipos e classes de dados em R.",
-    "text": "Tipos e classes de dados em R."
+    "text": "Tipos e classes de dados em R.\nCategorias baseadas em características compartilhadas pelos dados."
   },
   {
     "objectID": "disciplinas/EST064/est064.html#estruturas-de-dados-em-r.",
     "href": "disciplinas/EST064/est064.html#estruturas-de-dados-em-r.",
     "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
     "section": "Estruturas de dados em R.",
-    "text": "Estruturas de dados em R."
+    "text": "Estruturas de dados em R.\nDiferentes estruturas disponíveis no R para organizar seus dados."
   },
   {
     "objectID": "disciplinas/EST064/est064.html#organização-colaboração-e-reprodução.",
@@ -375,6 +375,27 @@
     "href": "disciplinas/EST064/Uma revisão de fundamentos da linguagem R.html",
     "title": "Uma revisão de fundamentos da linguagem R",
     "section": "",
-    "text": "As revisões sugeridas estão postadas a seguir:"
+    "text": "As revisões sugeridas estão postadas a seguir:\n\n\n(Conteúdo detalhado sobre práticas recomendadas para nomeação de objetos em R)\n\n\n\nUsando Operadores Básicos."
+  },
+  {
+    "objectID": "disciplinas/EST064/Uma revisão de fundamentos da linguagem R.html#usando-operadores-básicos",
+    "href": "disciplinas/EST064/Uma revisão de fundamentos da linguagem R.html#usando-operadores-básicos",
+    "title": "Uma revisão de fundamentos da linguagem R",
+    "section": "",
+    "text": "Usando Operadores Básicos."
+  },
+  {
+    "objectID": "disciplinas/EST064/Uso inicial do R (1).html",
+    "href": "disciplinas/EST064/Uso inicial do R (1).html",
+    "title": "Uso inicial do R (1)",
+    "section": "",
+    "text": "Sugiro alguns tópicos e exercícios do material de Victor Lemes Landeiro, cuja apostila “Introdução ao uso do programa R”, pode ser encontrada no link abaixo:\nIntrodução ao uso do programa R\nhttps://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf\n\nLeiam atentamente e refaçam todos os exemplos dos itens da Seção Uso Inicial do R:\n\nO R como calculadora\n\nFunções do R\n\nComo acessar a ajuda do R (help)\n\nUsando algumas funções\n\nObjetos do R (O que são?)\n\nDemonstrações\n\nFaça os exercícios indicados abaixo e leve suas dúvidas para nosso próximo encontro (ou marque um atendimento para tirar dúvidas):\n\nExercícios 2, 4 e 5 (página 14)\n\nUse a função help sempre que deparar um comando novo. É muito importante conhecer a sintaxe, os argumentos e exemplos do uso de cada comando\n\nAcostume-se a procurar no Google suas dúvidas sobre as funções no R\n\n\n\nVoltar a disciplina\nVoltar"
+  },
+  {
+    "objectID": "disciplinas/EST064/Uma revisão de fundamentos da linguagem R.html#nomenclatura-de-variáveis-e-funções",
+    "href": "disciplinas/EST064/Uma revisão de fundamentos da linguagem R.html#nomenclatura-de-variáveis-e-funções",
+    "title": "Uma revisão de fundamentos da linguagem R",
+    "section": "",
+    "text": "(Conteúdo detalhado sobre práticas recomendadas para nomeação de objetos em R)"
   }
 ]

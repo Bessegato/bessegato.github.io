@@ -1,0 +1,29 @@
+---
+title: "Uso inicial do R (1)"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+
+
+Sugiro alguns tópicos e exercícios do material de Victor Lemes Landeiro, cuja apostila "Introdução ao uso do programa R", pode ser encontrada no link abaixo:  
+**Introdução ao uso do programa R**  
+https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf  
+
+1. **Leiam atentamente e refaçam todos os exemplos dos itens da Seção Uso Inicial do R:**  
+   - O R como calculadora  
+   - Funções do R  
+   - Como acessar a ajuda do R (help)  
+   - Usando algumas funções  
+   - Objetos do R (O que são?)  
+   - Demonstrações  
+
+2. **Faça os exercícios indicados abaixo e leve suas dúvidas para nosso próximo encontro (ou marque um atendimento para tirar dúvidas):**  
+   - Exercícios 2, 4 e 5 (página 14)  
+   - Use a função `help` sempre que deparar um comando novo. É muito importante conhecer a sintaxe, os argumentos e exemplos do uso de cada comando  
+   - Acostume-se a procurar no Google suas dúvidas sobre as funções no R 
+   
+# Voltar a disciplina  
+[Voltar](../EST064/est064.html)
+

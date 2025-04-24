@@ -19,20 +19,31 @@ Slides apresentados em sala. [Slides - Introdução à Linguagem R](../EST064/01
 
 [Interessando-se pela linguagem R](../EST064/Interessando-se pela linguagem R.html){target="_blank" rel="noopener noreferrer"}.
 
-Dicas do post:"Top Tips for Learning R from Africa R’s Shelmith Kariuki", do R Bloggers
-https://tinyurl.com/y6zw5blb
-
+Dicas do post:"Top Tips for Learning R from Africa R’s Shelmith Kariuki", do [R Bloggers](https://tinyurl.com/y6zw5blb)
 
 Este é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem).
 [Ajuda no R](../EST064/Ajuda no R.html){target="_blank" rel="noopener noreferrer"}.
 
 Sugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos
 
-[Uma revisão de fundamentos da linguagem R](../EST064/Ajuda no R.html){target="_blank" rel="noopener noreferrer"}.
+[Uma revisão de fundamentos da linguagem R](../EST064/Uma revisão de fundamentos da linguagem R.html){target="_blank" rel="noopener noreferrer"}.
+
+Alguns comandos e exercícios desse contato inicial com a linguagem R. 
+[Uso inicial do R (1)](../EST064/Uso inicial do R (1).html){target="_blank" rel="noopener noreferrer"}.
+
+
+Live apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, com apresentação de: uso inicial do R: tipo de dados, ajuda no R, operações aritméticas.
+[Live: Uso inicial do R (ERE)](https://drive.google.com/file/d/1qm59WYfAFXgJ8UB_MCX-kZgraGN0VjLD/view?usp=sharing)
+
 
 ## Tipos e classes de dados em R.
+Categorias baseadas em características compartilhadas pelos dados.
+
 
 ## Estruturas de dados em R.
+Diferentes estruturas disponíveis no R para organizar seus dados.
+
+
 
 ## Organização, colaboração e reprodução.
 
