@@ -1,0 +1,27 @@
+---
+title: "Ajuda no R"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+
+# Ajuda no R
+
+Caminhos possíveis para pedir ajuda:
+
+1. **Se você sabe o nome do comando**, o primeiro passo é conferir a documentação do R  
+   `help(comando)`  
+   Este post do R Bloggers ajuda a trabalhar legal com a documentação d R: *"Analysis essentials: Using the help page for a function in R"*.  
+   O *Statistical tools for high-throughput data analysis* oferece um amplo suporte para utilização do R em análise de dados.  
+   Apresenta muitos exemplos detalhados sobre o uso das principais ferramentas estatísticas. Esta página oferece uma bom panorama dos comandos em R que auxiliam na ajuda com documentação das funções: *"Getting Help with Functions in R"*.
+
+2. **O Google** será o grande companheiro para tirar dúvidas e entender como os comandos funcionam. Converse com ele em inglês e a ajuda provavelmente chegará mais rápido.
+
+3. **Conversar com os colegas** é uma fonte importante de aprendizado. Como o tempo cada um de vocês se especializará em aspectos peculiares da análise e modelagem de dados, ou seja, estará especializado em algumas funcionalidades da linguagem R. A interação e a troca de informações é bastante importante para resolver problemas de programação com o R.
+
+4. **Participar de fóruns e de grupos** na web e nas redes sociais. Há muitos grupos, muitos fóruns. Na web, quase toda pergunta que faço ao Google me leva ao Stackoverflow e ao R Bloggers.
+
+
+# Voltar a disciplina  
+[Voltar](../EST064/est064.html)

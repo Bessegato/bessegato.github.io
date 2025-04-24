@@ -8,7 +8,7 @@
 
 <meta name="author" content="Prof.&nbsp;Lupércio França Bessegato">
 
-<title>EST066 - ESTATÍSTICA COMPUTACIONAL II – Prof.&nbsp;Lupércio França Bessegato</title>
+<title>Interessando-se pela linguagem R – Prof.&nbsp;Lupércio França Bessegato</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -135,16 +135,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Nesta página</h2>
    
   <ul>
-  <li><a href="#metodologia." id="toc-metodologia." class="nav-link active" data-scroll-target="#metodologia.">Metodologia.</a></li>
-  <li><a href="#números-pseudoaleatórios." id="toc-números-pseudoaleatórios." class="nav-link" data-scroll-target="#números-pseudoaleatórios.">Números pseudoaleatórios.</a></li>
-  <li><a href="#geração-de-números-pseudoaleatórios." id="toc-geração-de-números-pseudoaleatórios." class="nav-link" data-scroll-target="#geração-de-números-pseudoaleatórios.">Geração de números pseudoaleatórios.</a></li>
-  <li><a href="#integração-monte-carlo" id="toc-integração-monte-carlo" class="nav-link" data-scroll-target="#integração-monte-carlo">Integração Monte Carlo</a></li>
-  <li><a href="#simulação-monte-carlo" id="toc-simulação-monte-carlo" class="nav-link" data-scroll-target="#simulação-monte-carlo">Simulação Monte Carlo</a></li>
-  <li><a href="#reamostragem" id="toc-reamostragem" class="nav-link" data-scroll-target="#reamostragem">Reamostragem</a></li>
-  <li><a href="#otimização" id="toc-otimização" class="nav-link" data-scroll-target="#otimização">Otimização</a></li>
-  <li><a href="#suavização" id="toc-suavização" class="nav-link" data-scroll-target="#suavização">Suavização</a></li>
-  <li><a href="#biblioteca." id="toc-biblioteca." class="nav-link" data-scroll-target="#biblioteca.">Biblioteca.</a></li>
-  <li><a href="#atividades." id="toc-atividades." class="nav-link" data-scroll-target="#atividades.">Atividades.</a></li>
+  <li><a href="#interessando-se-pela-linguagem-r" id="toc-interessando-se-pela-linguagem-r" class="nav-link active" data-scroll-target="#interessando-se-pela-linguagem-r">Interessando-se pela linguagem R</a></li>
+  <li><a href="#voltar-a-disciplina" id="toc-voltar-a-disciplina" class="nav-link" data-scroll-target="#voltar-a-disciplina">Voltar a disciplina</a></li>
   </ul>
 </nav>
     </div>
@@ -153,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">EST066 - ESTATÍSTICA COMPUTACIONAL II</h1>
+<h1 class="title">Interessando-se pela linguagem R</h1>
 </div>
 
 
@@ -176,67 +168,26 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="metodologia." class="level2">
-<h2 class="anchored" data-anchor-id="metodologia.">Metodologia.</h2>
-<p>Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7961" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
+<section id="interessando-se-pela-linguagem-r" class="level2">
+<h2 class="anchored" data-anchor-id="interessando-se-pela-linguagem-r">Interessando-se pela linguagem R</h2>
+<p><strong>Não pesquise no Google às cegas</strong><br>
+Pesquise o quanto quiser, mas aprenda e entenda as respostas que encontrar. Não use apenas o copiar/colar de código ou comando. Entenda como funciona cada função que descobriu e qual sua finalidade.</p>
+<p><strong>Veja o que os outros estão fazendo com o R</strong><br>
+Ajuda a entender como o R é usado no mundo real e leva você a descobrir para que deseja usá-lo.</p>
+<p><strong>Envolva-se com a comunidade global do R, mas encontre colegas localmente</strong><br>
+Acompanhe o que pesquisadores e analistas de dados estão fazendo com R mundialmente, mas também aprenda e interaja com pessoas ao seu redor. Há muitas áreas além da Estatística em que o R é muito usado.</p>
+<p><strong>Construir projetos</strong><br>
+Exponha e compartilhe suas habilidades e o que está aprendendo com o R. Você nunca sabe que oportunidades isso pode trazer para você.</p>
+<p><strong>Comece pequeno</strong><br>
+Os edifícios sólidos não são construídos em um único dia. Não se distraia com a intensidade da onda de uma nova tecnologia ou com a tentação de tentar aprender tudo.</p>
+<p><strong>Ensine outras pessoas e explique seu código</strong><br>
+Isso ajuda você a aprender e também beneficia outras pessoas.</p>
+<p><strong>Arrisque-se pedindo ajuda e ajudando os outros</strong><br>
+Quando você pede ajuda, o pior que pode acontecer é escutar um não. Faça seus pedidos de ajuda e, assim que tiver experiência, ajude outros com suas dúvidas.</p>
 </section>
-<section id="números-pseudoaleatórios." class="level2">
-<h2 class="anchored" data-anchor-id="números-pseudoaleatórios.">Números pseudoaleatórios.</h2>
-<p>Algoritmos para geração de números pseudo-aleatórios e avaliação de sua qualidade.</p>
-</section>
-<section id="geração-de-números-pseudoaleatórios." class="level2">
-<h2 class="anchored" data-anchor-id="geração-de-números-pseudoaleatórios.">Geração de números pseudoaleatórios.</h2>
-<p>Métodos para geração de números e vetores aleatórios</p>
-<p>Apresenta-se um singelo, mas importante, teorema de probabilidade e a maneira pela qual ele pode ser usado para gerar números aleatórios por meio de transformações determinísticas de números aleatórios com distribuição uniforme entre 0 e 1, Esse teorema vai ser a base do estudo desta semana.</p>
-<p><a href="../EST066/02_gercao_variaveis.html" target="_blank" rel="noopener noreferrer">Método da inversa</a>.</p>
-<p>Geração de sequência de números aleatórios a partir da distribuição uniforme.</p>
-<p><a href="../EST066/Estudo dirigido - Uso do método da inversa.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Uso do método da inversa</a>.</p>
-<p>Recuperando brevemente Cálculo de Probabilidades, apresentam-se algumas transformações importantes entre variáveis aleatórias. A ideia de eficiência dos algoritmos é sugerida e propõe-se seu estudo.</p>
-<p><a href="../EST066/03_geracao_transformacao.html" target="_blank" rel="noopener noreferrer">Transformação de Variáveis aleatórias</a>.</p>
-<p>Uso de transformações de variáveis aleatórias para construir geradores de número aleatórios</p>
-<p><a href="../EST066/Estudo dirigido - Transformação de variáveis aleatórias.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Transformação de variáveis aleatórias</a>.</p>
-<p>O método da Aceitação/Rejeição é um ferramenta poderosa na geração de números aleatórios, principalmente quando o método da inversa ou as transformações de variáveis aleatórias não podem ser facilmente aplicados</p>
-<p><a href="../EST066/04_geracao_rejeicao.html" target="_blank" rel="noopener noreferrer">Método da Aceitação/Rejeição</a>.</p>
-<p>Uso do método da aceitação/rejeição para construir geradores de número aleatórios</p>
-<p><a href="../EST066/Estudo dirigido - Método da Aceitação_Rejeição.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Método da Aceitação/Rejeição</a>.</p>
-<p>Métodos para a geração de vetores aleatórios normais multivariados a partir de sequência de variáveis aleatórias padrão independentes.</p>
-<p><a href="../EST066/04_geracao_bivariada.html" target="_blank" rel="noopener noreferrer">Geração de normal bivariada</a>.</p>
-<p>Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.</p>
-<p><a href="../EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Normal bivariada &amp; mistura de distribuições</a>.</p>
-<p>Geração de números aleatórios de misturas de distribuições.</p>
-<p><a href="../EST066/Estudo dirigido - Mistura de distribuicoes.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Mistura de distribuições</a>.</p>
-<p>Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas.</p>
-<p><a href="../EST066/02.5_geracao_discretas.html" target="_blank" rel="noopener noreferrer">Variáveis aleatórias discretas</a>.</p>
-<p>Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.</p>
-<p><a href="../EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Variáveis Aleatórias Discretas</a>.</p>
-</section>
-<section id="integração-monte-carlo" class="level2">
-<h2 class="anchored" data-anchor-id="integração-monte-carlo">Integração Monte Carlo</h2>
-<p>Métodos de integração Monte Carlo, uni e multidimensional</p>
-</section>
-<section id="simulação-monte-carlo" class="level2">
-<h2 class="anchored" data-anchor-id="simulação-monte-carlo">Simulação Monte Carlo</h2>
-<p>Simulação de processo de Poisson homogêneo, não homogêneo e cadeias de Markov. Bootstrap paramétrico.</p>
-</section>
-<section id="reamostragem" class="level2">
-<h2 class="anchored" data-anchor-id="reamostragem">Reamostragem</h2>
-<p>Reamostragem boostrap, validação cruzada e jackknife</p>
-</section>
-<section id="otimização" class="level2">
-<h2 class="anchored" data-anchor-id="otimização">Otimização</h2>
-<p>Métodos e algoritmos de otimização em R</p>
-</section>
-<section id="suavização" class="level2">
-<h2 class="anchored" data-anchor-id="suavização">Suavização</h2>
-<p>Métodos de suavização e de estimação de funções: núcleo estimador e spline</p>
-</section>
-<section id="biblioteca." class="level2">
-<h2 class="anchored" data-anchor-id="biblioteca.">Biblioteca.</h2>
-<p>Material suplementar de apoio da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7961" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
-</section>
-<section id="atividades." class="level2">
-<h2 class="anchored" data-anchor-id="atividades.">Atividades.</h2>
-<p>Atividades avaliativas da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7961" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
+<section id="voltar-a-disciplina" class="level1">
+<h1>Voltar a disciplina</h1>
+<p><a href="../EST064/est064.html">Voltar</a></p>
 
 
 </section>

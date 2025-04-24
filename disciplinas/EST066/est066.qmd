@@ -5,26 +5,26 @@ format: html
 author: Prof. Lupércio França Bessegato
 toc: true
 ---
+
 ## Metodologia.
 
-Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no [site](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
+Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
 
 ## Números pseudoaleatórios.
+
 Algoritmos para geração de números pseudo-aleatórios e avaliação de sua qualidade.
 
-
 ## Geração de números pseudoaleatórios.
-Métodos para geração de números e vetores aleatórios
 
+Métodos para geração de números e vetores aleatórios
 
 Apresenta-se um singelo, mas importante, teorema de probabilidade e a maneira pela qual ele pode ser usado para gerar números aleatórios por meio de transformações determinísticas de números aleatórios com distribuição uniforme entre 0 e 1, Esse teorema vai ser a base do estudo desta semana.
 
 [Método da inversa](../EST066/02_gercao_variaveis.html){target="_blank" rel="noopener noreferrer"}.
 
-
 Geração de sequência de números aleatórios a partir da distribuição uniforme.
 
-[Estudo dirigido - Uso do método da inversa](../EST066/Estudo dirigido - Uso do método da inversa.html){target="_blank" rel="noopener noreferrer"}. 
+[Estudo dirigido - Uso do método da inversa](../EST066/Estudo%20dirigido%20-%20Uso%20do%20método%20da%20inversa.html){target="_blank" rel="noopener noreferrer"}.
 
 Recuperando brevemente Cálculo de Probabilidades, apresentam-se algumas transformações importantes entre variáveis aleatórias. A ideia de eficiência dos algoritmos é sugerida e propõe-se seu estudo.
 
@@ -32,7 +32,7 @@ Recuperando brevemente Cálculo de Probabilidades, apresentam-se algumas transfo
 
 Uso de transformações de variáveis aleatórias para construir geradores de número aleatórios
 
-[Estudo dirigido - Transformação de variáveis aleatórias](../EST066/Estudo dirigido - Transformação de variáveis aleatórias.html){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Transformação de variáveis aleatórias](../EST066/Estudo%20dirigido%20-%20Transformação%20de%20variáveis%20aleatórias.html){target="_blank" rel="noopener noreferrer"}.
 
 O método da Aceitação/Rejeição é um ferramenta poderosa na geração de números aleatórios, principalmente quando o método da inversa ou as transformações de variáveis aleatórias não podem ser facilmente aplicados
 
@@ -40,8 +40,7 @@ O método da Aceitação/Rejeição é um ferramenta poderosa na geração de n�
 
 Uso do método da aceitação/rejeição para construir geradores de número aleatórios
 
-[Estudo dirigido - Método da Aceitação/Rejeição](../EST066/Estudo dirigido - Método da Aceitação_Rejeição.html){target="_blank" rel="noopener noreferrer"}.
-
+[Estudo dirigido - Método da Aceitação/Rejeição](../EST066/Estudo%20dirigido%20-%20Método%20da%20Aceitação_Rejeição.html){target="_blank" rel="noopener noreferrer"}.
 
 Métodos para a geração de vetores aleatórios normais multivariados a partir de sequência de variáveis aleatórias padrão independentes.
 
@@ -49,11 +48,11 @@ Métodos para a geração de vetores aleatórios normais multivariados a partir 
 
 Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.
 
-[Estudo dirigido - Normal bivariada & mistura de distribuições](../EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Normal bivariada & mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Normal%20bivariada%20e%20mistura%20de%20distribuições.html){target="_blank" rel="noopener noreferrer"}.
 
 Geração de números aleatórios de misturas de distribuições.
 
-[Estudo dirigido - Mistura de distribuições](../EST066/Estudo dirigido - Mistura de distribuicoes.html){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Mistura%20de%20distribuicoes.html){target="_blank" rel="noopener noreferrer"}.
 
 Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas.
 
@@ -61,29 +60,32 @@ Métodos da transformação inversa e da Aceitação/Rejeição aplicados no con
 
 Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.
 
-[Estudo dirigido - Variáveis Aleatórias Discretas](../EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Variáveis Aleatórias Discretas](../EST066/Estudo%20dirigido%20-%20Variaveis%20Aleatorias%20Discretas.html){target="_blank" rel="noopener noreferrer"}.
 
 ## Integração Monte Carlo
+
 Métodos de integração Monte Carlo, uni e multidimensional
 
-
 ## Simulação Monte Carlo
+
 Simulação de processo de Poisson homogêneo, não homogêneo e cadeias de Markov. Bootstrap paramétrico.
 
 ## Reamostragem
+
 Reamostragem boostrap, validação cruzada e jackknife
 
 ## Otimização
+
 Métodos e algoritmos de otimização em R
 
 ## Suavização
-Métodos de suavização e de estimação de funções: núcleo estimador e spline
 
+Métodos de suavização e de estimação de funções: núcleo estimador e spline
 
 ## Biblioteca.
 
-Material suplementar de apoio da disciplina do semestre 2025.1 está no [site](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
+Material suplementar de apoio da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
 
-##  Atividades.
+## Atividades.
 
-Atividades avaliativas da disciplina do semestre 2025.1 está no [site](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
+Atividades avaliativas da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.

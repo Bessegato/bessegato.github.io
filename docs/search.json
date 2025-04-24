@@ -32,14 +32,14 @@
     "href": "disciplinas/EST066/est066.html",
     "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
     "section": "",
-    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no site."
+    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no Moodle da Disciplina."
   },
   {
     "objectID": "disciplinas/EST066/est066.html#metodologia.",
     "href": "disciplinas/EST066/est066.html#metodologia.",
     "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
     "section": "",
-    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no site."
+    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no Moodle da Disciplina."
   },
   {
     "objectID": "disciplinas/EST066/est066.html#geração-de-números-pseudoaleatórios.",
@@ -53,14 +53,14 @@
     "href": "disciplinas/EST066/est066.html#biblioteca.",
     "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
     "section": "Biblioteca.",
-    "text": "Biblioteca.\nMaterial suplementar de apoio da disciplina do semestre 2025.1 está no site."
+    "text": "Biblioteca.\nMaterial suplementar de apoio da disciplina do semestre 2025.1 está no Moodle da Disciplina."
   },
   {
     "objectID": "disciplinas/EST066/est066.html#atividades.",
     "href": "disciplinas/EST066/est066.html#atividades.",
     "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
     "section": "Atividades.",
-    "text": "Atividades.\nAtividades avaliativas da disciplina do semestre 2025.1 está no site."
+    "text": "Atividades.\nAtividades avaliativas da disciplina do semestre 2025.1 está no Moodle da Disciplina."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -278,5 +278,103 @@
     "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
     "section": "Suavização",
     "text": "Suavização\nMétodos de suavização e de estimação de funções: núcleo estimador e spline"
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html",
+    "href": "disciplinas/EST064/est064.html",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "",
+    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no Moodle da Disciplina."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#metodologia.",
+    "href": "disciplinas/EST064/est064.html#metodologia.",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "",
+    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no Moodle da Disciplina."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#introdução-à-linguagem-r.",
+    "href": "disciplinas/EST064/est064.html#introdução-à-linguagem-r.",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Introdução à linguagem R.",
+    "text": "Introdução à linguagem R.\nFundamentos da linguagem estatística R e da interface gráfica RStudio\nSlides apresentados em sala. Slides - Introdução à Linguagem R.\nInteressando-se pela linguagem R.\nDicas do post:“Top Tips for Learning R from Africa R’s Shelmith Kariuki”, do R Bloggers https://tinyurl.com/y6zw5blb\nEste é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem). Ajuda no R.\nSugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos\nUma revisão de fundamentos da linguagem R."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#tipos-e-classes-de-dados-em-r.",
+    "href": "disciplinas/EST064/est064.html#tipos-e-classes-de-dados-em-r.",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Tipos e classes de dados em R.",
+    "text": "Tipos e classes de dados em R."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#estruturas-de-dados-em-r.",
+    "href": "disciplinas/EST064/est064.html#estruturas-de-dados-em-r.",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Estruturas de dados em R.",
+    "text": "Estruturas de dados em R."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#organização-colaboração-e-reprodução.",
+    "href": "disciplinas/EST064/est064.html#organização-colaboração-e-reprodução.",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Organização, colaboração e reprodução.",
+    "text": "Organização, colaboração e reprodução."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#visualização-e-descrição-de-dados-em-r.",
+    "href": "disciplinas/EST064/est064.html#visualização-e-descrição-de-dados-em-r.",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Visualização e descrição de dados em R.",
+    "text": "Visualização e descrição de dados em R."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#probabilidade-de-eventos",
+    "href": "disciplinas/EST064/est064.html#probabilidade-de-eventos",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Probabilidade de eventos",
+    "text": "Probabilidade de eventos"
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#biblioteca.",
+    "href": "disciplinas/EST064/est064.html#biblioteca.",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Biblioteca.",
+    "text": "Biblioteca.\nMaterial suplementar de apoio da disciplina do semestre 2025.1 está no Moodle da Disciplina."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#atividades.",
+    "href": "disciplinas/EST064/est064.html#atividades.",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Atividades.",
+    "text": "Atividades.\nAtividades avaliativas da disciplina do semestre 2025.1 está no Moodle da Disciplina."
+  },
+  {
+    "objectID": "disciplinas/EST064/Interessando-se pela linguagem R.html",
+    "href": "disciplinas/EST064/Interessando-se pela linguagem R.html",
+    "title": "Interessando-se pela linguagem R",
+    "section": "",
+    "text": "Não pesquise no Google às cegas\nPesquise o quanto quiser, mas aprenda e entenda as respostas que encontrar. Não use apenas o copiar/colar de código ou comando. Entenda como funciona cada função que descobriu e qual sua finalidade.\nVeja o que os outros estão fazendo com o R\nAjuda a entender como o R é usado no mundo real e leva você a descobrir para que deseja usá-lo.\nEnvolva-se com a comunidade global do R, mas encontre colegas localmente\nAcompanhe o que pesquisadores e analistas de dados estão fazendo com R mundialmente, mas também aprenda e interaja com pessoas ao seu redor. Há muitas áreas além da Estatística em que o R é muito usado.\nConstruir projetos\nExponha e compartilhe suas habilidades e o que está aprendendo com o R. Você nunca sabe que oportunidades isso pode trazer para você.\nComece pequeno\nOs edifícios sólidos não são construídos em um único dia. Não se distraia com a intensidade da onda de uma nova tecnologia ou com a tentação de tentar aprender tudo.\nEnsine outras pessoas e explique seu código\nIsso ajuda você a aprender e também beneficia outras pessoas.\nArrisque-se pedindo ajuda e ajudando os outros\nQuando você pede ajuda, o pior que pode acontecer é escutar um não. Faça seus pedidos de ajuda e, assim que tiver experiência, ajude outros com suas dúvidas."
+  },
+  {
+    "objectID": "disciplinas/EST064/Interessando-se pela linguagem R.html#interessando-se-pela-linguagem-r",
+    "href": "disciplinas/EST064/Interessando-se pela linguagem R.html#interessando-se-pela-linguagem-r",
+    "title": "Interessando-se pela linguagem R",
+    "section": "",
+    "text": "Não pesquise no Google às cegas\nPesquise o quanto quiser, mas aprenda e entenda as respostas que encontrar. Não use apenas o copiar/colar de código ou comando. Entenda como funciona cada função que descobriu e qual sua finalidade.\nVeja o que os outros estão fazendo com o R\nAjuda a entender como o R é usado no mundo real e leva você a descobrir para que deseja usá-lo.\nEnvolva-se com a comunidade global do R, mas encontre colegas localmente\nAcompanhe o que pesquisadores e analistas de dados estão fazendo com R mundialmente, mas também aprenda e interaja com pessoas ao seu redor. Há muitas áreas além da Estatística em que o R é muito usado.\nConstruir projetos\nExponha e compartilhe suas habilidades e o que está aprendendo com o R. Você nunca sabe que oportunidades isso pode trazer para você.\nComece pequeno\nOs edifícios sólidos não são construídos em um único dia. Não se distraia com a intensidade da onda de uma nova tecnologia ou com a tentação de tentar aprender tudo.\nEnsine outras pessoas e explique seu código\nIsso ajuda você a aprender e também beneficia outras pessoas.\nArrisque-se pedindo ajuda e ajudando os outros\nQuando você pede ajuda, o pior que pode acontecer é escutar um não. Faça seus pedidos de ajuda e, assim que tiver experiência, ajude outros com suas dúvidas."
+  },
+  {
+    "objectID": "disciplinas/EST064/Ajuda no R.html",
+    "href": "disciplinas/EST064/Ajuda no R.html",
+    "title": "Ajuda no R",
+    "section": "",
+    "text": "Ajuda no R\nCaminhos possíveis para pedir ajuda:\n\nSe você sabe o nome do comando, o primeiro passo é conferir a documentação do R\nhelp(comando)\nEste post do R Bloggers ajuda a trabalhar legal com a documentação d R: “Analysis essentials: Using the help page for a function in R”.\nO Statistical tools for high-throughput data analysis oferece um amplo suporte para utilização do R em análise de dados.\nApresenta muitos exemplos detalhados sobre o uso das principais ferramentas estatísticas. Esta página oferece uma bom panorama dos comandos em R que auxiliam na ajuda com documentação das funções: “Getting Help with Functions in R”.\nO Google será o grande companheiro para tirar dúvidas e entender como os comandos funcionam. Converse com ele em inglês e a ajuda provavelmente chegará mais rápido.\nConversar com os colegas é uma fonte importante de aprendizado. Como o tempo cada um de vocês se especializará em aspectos peculiares da análise e modelagem de dados, ou seja, estará especializado em algumas funcionalidades da linguagem R. A interação e a troca de informações é bastante importante para resolver problemas de programação com o R.\nParticipar de fóruns e de grupos na web e nas redes sociais. Há muitos grupos, muitos fóruns. Na web, quase toda pergunta que faço ao Google me leva ao Stackoverflow e ao R Bloggers.\n\n\n\nVoltar a disciplina\nVoltar"
+  },
+  {
+    "objectID": "disciplinas/EST064/Uma revisão de fundamentos da linguagem R.html",
+    "href": "disciplinas/EST064/Uma revisão de fundamentos da linguagem R.html",
+    "title": "Uma revisão de fundamentos da linguagem R",
+    "section": "",
+    "text": "As revisões sugeridas estão postadas a seguir:"
   }
 ]

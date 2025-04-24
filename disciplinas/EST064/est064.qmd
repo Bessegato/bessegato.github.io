@@ -5,3 +5,45 @@ format: html
 author: Prof. Lupércio França Bessegato
 toc: true
 ---
+## Metodologia.
+
+Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7959){target="_blank" rel="noopener noreferrer"}.
+
+
+## Introdução à linguagem R.
+
+Fundamentos da linguagem estatística R e da interface gráfica RStudio
+
+Slides apresentados em sala. [Slides - Introdução à Linguagem R](../EST064/01.1_introducao_fundamentos.pdf){target="_blank" rel="noopener noreferrer"}.
+
+
+[Interessando-se pela linguagem R](../EST064/Interessando-se pela linguagem R.html){target="_blank" rel="noopener noreferrer"}.
+
+Dicas do post:"Top Tips for Learning R from Africa R’s Shelmith Kariuki", do R Bloggers
+https://tinyurl.com/y6zw5blb
+
+
+Este é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem).
+[Ajuda no R](../EST064/Ajuda no R.html){target="_blank" rel="noopener noreferrer"}.
+
+Sugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos
+
+[Uma revisão de fundamentos da linguagem R](../EST064/Ajuda no R.html){target="_blank" rel="noopener noreferrer"}.
+
+## Tipos e classes de dados em R.
+
+## Estruturas de dados em R.
+
+## Organização, colaboração e reprodução.
+
+## Visualização e descrição de dados em R.
+
+## Probabilidade de eventos
+
+## Biblioteca.
+
+Material suplementar de apoio da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7959){target="_blank" rel="noopener noreferrer"}.
+
+## Atividades.
+
+Atividades avaliativas da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7959){target="_blank" rel="noopener noreferrer"}.

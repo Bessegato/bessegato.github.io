@@ -1,0 +1,16 @@
+---
+title: "Uma revisão de fundamentos da linguagem R"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+
+# Revisões sugeridas
+
+As revisões sugeridas estão postadas a seguir:
+
+## Nomenclatura de variáveis e funções
+
+## Usando Operadores Básicos
+
