@@ -1,0 +1,37 @@
+---
+title: "Estudo dirigido - Sistema gráfico do R Base"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+
+Leituras sugeridas:
+
+1. Introductory Statistics with R, by Peter Dalgaard. Leiam e refaçam exemplos da Seção 3.2.2: Empirical cumulative distribution, na página 63; da Seção 3.2.3: Q-Q plots, na página 64; da Seção 3.5: Tables, na página 72; e da Seção 3.6: Graphical display of tables, na página 75.
+
+2. An Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team. Leiam atentamente, refaçam exemplos e resumam conteúdo do Chapter 12: Graphical procedures, a saber: Seção 12.2.1 Mathematical annotation, Seção 12.2.3 Interacting with graphics e Seção 12.6: Device drivers, todos a partir da página 69.
+
+3. Leiam atentamente o post sugerido e aprendam mais sobre a função plot(). Ela é uma das funções gráficas mais usadas no sistema de construção de gráficos do R Base. É uma função de high-level, que abre o dispositivo gráfico e permite a atuação de inúmeras funções de low-level, tais como abline(), lines(), points(), text(), arrows(), polygon(), segments(), mtext(), etc. Entendam profundamente seus argumentos (comandos e valores). Importante: o tipo de gráfico produzido depende do tipo ou da classe de seu primeiro argumento. TESTEM!!  
+Understanding plot() Function in R – Basics of Graph Plotting  
+https://www.journaldev.com/36083/plot-function-in-r
+
+4. Leiam os links sugeridos e entendam como funciona a anotação matemática em gráficos no R. A anotação tem similaridade com o LaTeX e permite escrever qualquer expressão ou símbolo no R, inclusive letras gregas. Modificar gráficos e explorar as possibilidades de apresentar detalhes é muito importante sempre.  
+Math Notation for R Plot Titles: expression, bquote, & Greek Letters  
+https://trinkerrstuff.wordpress.com/2018/03/15/2246/  
+Mathematical Annotation in R  
+https://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/plotmath.html  
+Mathematical Annotation in R  
+http://magnusmetz.github.io/2013/04/mathematical-annotation-in-r/
+
+5. Verifiquem atentamente o help de cada comando gráfico e sempre trabalhem com a documentação do comando par() aberta, basta teclarem help(par).
+
+6. Importante: construir gráficos costuma ser trabalhoso em qualquer software. Não tentem queimar etapas ou procurar caminhos mais fáceis. Vocês têm de entender a estrutura com que os gráficos são construídos no R Base para conseguir, no futuro, resolver qualquer problema na construção de gráficos.
+
+7. SÓ ACEITO GRÁFICOS CONSTRUÍDOS NO R BASE. NÃO ACEITO FUNÇÕES DE NENHUM PACOTE GRÁFICO!
+
+Reexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos, pergunte ao R, ao Google, aos colegas (Fórum) e para o professor, nessa ordem (ou pode ser pra mim primeiro). Tudo que você aprender agora você utilizará quando estiver trabalhando com conjuntos de dados com milhões de colunas e milhares de colunas. Os comandos serão essencialmente os mesmos, embora você vá agregar a dificuldade do tempo para importação e de se seu computador será capaz de fazê-lo.
+
+# Voltar a disciplina
+
+[Voltar](../EST064/est064.html)

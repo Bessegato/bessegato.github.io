@@ -1,0 +1,16 @@
+---
+title: "Estudo dirigido - R Markdown"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+
+Dois roteiros para estudo do R MArkdown, preparados por colegas do curso. O R Markdown é extensamente usado em todo o curso de Estatístico. Você poderá fazer relatórios, apresentações e até trabalhos escritos mais robustos utilizando suas funcionalidades. Você poderá escrever, executar comandos e apresentar resultados, construir tabelas, gráficos. Poderá usar o LaTeX para escrever anotações matemáticas. Poderá formatar parágrafos, endentar e enumerar, enfim, poderá fazer relatórios de todo o tipo. Todas nossas listas e avaliações deverão ser apresentadas usando o R Markdown a partir de agora. Aproveitem tudo que ele tem a oferecer.. Sejam curiosos e criativos em usar seus recursos. Grande parte dos blogs de R que vocês visitam são escritos com ele.
+
+[Download](../EST064/Estudo dirigido - R Markdown-20250426.zip){target="_blank" rel="noopener noreferrer"}.
+
+
+# Voltar a disciplina
+
+[Voltar](../EST064/est064.html)

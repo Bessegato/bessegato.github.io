@@ -5,26 +5,26 @@ format: html
 author: Prof. Lupércio França Bessegato
 toc: true
 ---
+
 ## Leituras sugeridas
 
-1. **Introductory Statistics with R, by Peter Dalgaard**  
-Leiam e refaçam exemplos da Seção 1.2.9: Data frames, na página 18; da Seção 1.2.10: Indexing, na página 19; da Seção 1.2.11: Conditional selection, na página 20; Seção 1.2.12: Indexing of data frames, na página 21; Seção 1.2.15: Sorting, na pág. 24 e seção 1.5: Session managment, a partir da pág. 34.
+1.  **Introductory Statistics with R, by Peter Dalgaard**\
+    Leiam e refaçam exemplos da Seção 1.2.9: Data frames, na página 18; da Seção 1.2.10: Indexing, na página 19; da Seção 1.2.11: Conditional selection, na página 20; Seção 1.2.12: Indexing of data frames, na página 21; Seção 1.2.15: Sorting, na pág. 24 e seção 1.5: Session managment, a partir da pág. 34.
 
-2. **An Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team**  
-Leiam atentamente, refaçam exemplos e resumam o conteúdo da Seção 6.3: Data frames, na página 33.
+2.  **An Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team**\
+    Leiam atentamente, refaçam exemplos e resumam o conteúdo da Seção 6.3: Data frames, na página 33.
 
-3. **Post: "21 Data Manipulation Task For Beginners In R"**  
-Leiam atentamente, refaçam os exemplos e resumam o conteúdo do post que apresenta as tarefas mais importantes na manipulação de dados em data frames.  
-Link: <https://www.r-bloggers.com/2020/05/21-data-manipulation-task-for-beginners-in-r/>
+3.  **Post: "21 Data Manipulation Task For Beginners In R"**\
+    Leiam atentamente, refaçam os exemplos e resumam o conteúdo do post que apresenta as tarefas mais importantes na manipulação de dados em data frames.\
+    Link: <https://www.r-bloggers.com/2020/05/21-data-manipulation-task-for-beginners-in-r/>
 
-4. **Post: "15 Easy Solutions To Your Data Frame Problems In R"**  
-Leiam atentamente e façam todos os exercícios propostos no post.  
-Link: <https://www.datacamp.com/community/tutorials/15-easy-solutions-data-frame-problems-r>
+4.  **Post: "15 Easy Solutions To Your Data Frame Problems In R"**\
+    Leiam atentamente e façam todos os exercícios propostos no post.\
+    Link: <https://www.datacamp.com/community/tutorials/15-easy-solutions-data-frame-problems-r>
 
-**Observação final:**  
+**Observação final:**\
 Reexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos. Em caso de dúvidas, consulte nesta ordem: R (via `help()`), Google, colegas (Fórum) e professor.
 
 # Voltar a disciplina
 
 [Voltar](../EST064/est064.html)
-

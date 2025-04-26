@@ -8,7 +8,7 @@
 
 <meta name="author" content="Prof.&nbsp;Lupércio França Bessegato">
 
-<title>EST064 - LABORATÓRIO DE ESTATÍSTICA – Prof.&nbsp;Lupércio França Bessegato</title>
+<title>Estudo dirigido - Visualização gráfica e descrição de dados – Prof.&nbsp;Lupércio França Bessegato</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -135,20 +135,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Nesta página</h2>
    
   <ul>
-  <li><a href="#metodologia." id="toc-metodologia." class="nav-link active" data-scroll-target="#metodologia.">Metodologia.</a></li>
-  <li><a href="#introdução-à-linguagem-r." id="toc-introdução-à-linguagem-r." class="nav-link" data-scroll-target="#introdução-à-linguagem-r.">Introdução à linguagem R.</a></li>
-  <li><a href="#tipos-e-classes-de-dados-em-r." id="toc-tipos-e-classes-de-dados-em-r." class="nav-link" data-scroll-target="#tipos-e-classes-de-dados-em-r.">Tipos e classes de dados em R.</a></li>
-  <li><a href="#estruturas-de-dados-em-r." id="toc-estruturas-de-dados-em-r." class="nav-link" data-scroll-target="#estruturas-de-dados-em-r.">Estruturas de dados em R.</a></li>
-  <li><a href="#organização-colaboração-e-reprodução." id="toc-organização-colaboração-e-reprodução." class="nav-link" data-scroll-target="#organização-colaboração-e-reprodução.">Organização, colaboração e reprodução.</a>
-  <ul class="collapse">
-  <li><a href="#funcionalidades-do-r-markdown" id="toc-funcionalidades-do-r-markdown" class="nav-link" data-scroll-target="#funcionalidades-do-r-markdown">Funcionalidades do R Markdown</a></li>
-  <li><a href="#fonte" id="toc-fonte" class="nav-link" data-scroll-target="#fonte">Fonte</a></li>
-  <li><a href="#referências" id="toc-referências" class="nav-link" data-scroll-target="#referências">Referências</a></li>
-  </ul></li>
-  <li><a href="#visualização-e-descrição-de-dados-em-r." id="toc-visualização-e-descrição-de-dados-em-r." class="nav-link" data-scroll-target="#visualização-e-descrição-de-dados-em-r.">Visualização e descrição de dados em R.</a></li>
-  <li><a href="#probabilidade-de-eventos" id="toc-probabilidade-de-eventos" class="nav-link" data-scroll-target="#probabilidade-de-eventos">Probabilidade de eventos</a></li>
-  <li><a href="#biblioteca." id="toc-biblioteca." class="nav-link" data-scroll-target="#biblioteca.">Biblioteca.</a></li>
-  <li><a href="#atividades." id="toc-atividades." class="nav-link" data-scroll-target="#atividades.">Atividades.</a></li>
+  <li><a href="#voltar-a-disciplina" id="toc-voltar-a-disciplina" class="nav-link active" data-scroll-target="#voltar-a-disciplina">Voltar a disciplina</a></li>
   </ul>
 </nav>
     </div>
@@ -157,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">EST064 - LABORATÓRIO DE ESTATÍSTICA</h1>
+<h1 class="title">Estudo dirigido - Visualização gráfica e descrição de dados</h1>
 </div>
 
 
@@ -180,145 +167,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="metodologia." class="level2">
-<h2 class="anchored" data-anchor-id="metodologia.">Metodologia.</h2>
-<p>Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7959" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
-</section>
-<section id="introdução-à-linguagem-r." class="level2">
-<h2 class="anchored" data-anchor-id="introdução-à-linguagem-r.">Introdução à linguagem R.</h2>
-<p>Fundamentos da linguagem estatística R e da interface gráfica RStudio</p>
-<p>Slides apresentados em sala. <a href="../EST064/01.1_introducao_fundamentos.pdf" target="_blank" rel="noopener noreferrer">Slides - Introdução à Linguagem R</a>.</p>
-<p><a href="../EST064/Interessando-se pela linguagem R.html" target="_blank" rel="noopener noreferrer">Interessando-se pela linguagem R</a>.</p>
-<p>Dicas do post:“Top Tips for Learning R from Africa R’s Shelmith Kariuki”, do <a href="https://tinyurl.com/y6zw5blb">R Bloggers</a></p>
-<p>Este é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem). <a href="../EST064/Ajuda no R.html" target="_blank" rel="noopener noreferrer">Ajuda no R</a>.</p>
-<p>Sugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos</p>
-<p><a href="../EST064/Uma revisão de fundamentos da linguagem R.html" target="_blank" rel="noopener noreferrer">Uma revisão de fundamentos da linguagem R</a>.</p>
-<p>Alguns comandos e exercícios desse contato inicial com a linguagem R. <a href="../EST064/Uso inicial do R (1).html" target="_blank" rel="noopener noreferrer">Uso inicial do R (1)</a>.</p>
-<p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, com apresentação de: uso inicial do R: tipo de dados, ajuda no R, operações aritméticas. <a href="https://drive.google.com/file/d/1qm59WYfAFXgJ8UB_MCX-kZgraGN0VjLD/view?usp=sharing">Live: Uso inicial do R (ERE)</a></p>
-</section>
-<section id="tipos-e-classes-de-dados-em-r." class="level2">
-<h2 class="anchored" data-anchor-id="tipos-e-classes-de-dados-em-r.">Tipos e classes de dados em R.</h2>
-<p>Categorias baseadas em características compartilhadas pelos dados.</p>
-</section>
-<section id="estruturas-de-dados-em-r." class="level2">
-<h2 class="anchored" data-anchor-id="estruturas-de-dados-em-r.">Estruturas de dados em R.</h2>
-<p><a href="../EST064/00_nomenclaturas.html" target="_blank" rel="noopener noreferrer">Nomenclatura de objetos</a>.</p>
-<p><a href="../EST064/01.2_introducao_vetores.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com vetores</a>.</p>
-<p><a href="../EST064/Estudo dirigido - Vetores no R.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Vetores no R</a>.</p>
-<p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. <a href="https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing">Live: Manipulação e operação com vetores (ERE)</a></p>
-<p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. <a href="https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing">Live: Vetorização (ERE)</a></p>
-<p><a href="../EST064/00_operadores_basicos.html" target="_blank" rel="noopener noreferrer">Operadores básicos</a>.</p>
-<p>Leituras e estudos recomendados sobre operadores lógicos e funções relacionadas.</p>
-<p><a href="../EST064/OperadoresLogicos.html" target="_blank" rel="noopener noreferrer">Operadores básicos</a>.</p>
-<p>Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. <a href="https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing">Live: Operadores Lógicos</a></p>
-<p><a href="../EST064/01.3_introducao_matfatlis.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com matrizes, fatores e listas</a>.</p>
-<p><a href="../EST064/Estudo dirigido - matrizes fatores e listas no R.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - matrizes fatores e listas no R</a>.</p>
-<p>Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. <a href="https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing">Matrizes em R</a></p>
-<p>Slides sobre data frames em R. <a href="../EST064/01.4_introducao_data-frames.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com data frames</a>.</p>
-<ul>
-<li><p>Repetir cuidadosamente cada exemplo em um script.</p></li>
-<li><p>se errar, descubra o erro, repita e deixe no script apenas os comandos corretos.</p></li>
-<li><p>Organize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.</p></li>
-<li><p>Para documentar, inicie a linha com #. O R não irá executar a partir deste caractere</p></li>
-<li><p>Não se restrinja a esse material. Estude o material indicado e faça a atividade proposta!</p></li>
-</ul>
-<p><a href="../EST064/Estudo dirigido - Data frames.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Data frames</a>.</p>
-<p><a href="../EST064/01.5_import.pdf" target="_blank" rel="noopener noreferrer">Importação e exportação de data frames</a>.</p>
-<p><a href="../EST064/Estudo dirigido - Mais sobre data frames.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Mais sobre data frames</a>.</p>
-</section>
-<section id="organização-colaboração-e-reprodução." class="level2">
-<h2 class="anchored" data-anchor-id="organização-colaboração-e-reprodução.">Organização, colaboração e reprodução.</h2>
-<p>Diferentes estruturas disponíveis no R para organizar seus dados.</p>
-<p>O RMarkdown permite entrelaçar códigos LaTeX e HTML com códigos R e de outras linguagens como Phyton e C++ podendo gerar textos em vários formatos: HTML, PDF e DOC. Dessa maneira, é uma ferramenta adequada para transformar suas análises estatísticas em documentos, relatórios, apresentações e até mesmo dashboards. Foi desenvolvida visando a reprodutibilidade de resultados, já que tanto código quanto narrativa estão no mesmo documento, com os resultados sendo gerados automaticamente a partir do código presente no documento.</p>
-<section id="funcionalidades-do-r-markdown" class="level3">
-<h3 class="anchored" data-anchor-id="funcionalidades-do-r-markdown">Funcionalidades do R Markdown</h3>
-<ul>
-<li>Compilar um documento em um relatório em diferentes formatos de saída, como PDF, HTML e Word.</li>
-<li>Produzir slides para apresentações.</li>
-<li>Criar dashboards interativas, com layouts que se adaptam à tela do usuário.</li>
-<li>Criar relatórios interativos com Shiny.</li>
-<li>Escrever artigos científicos ou livros.</li>
-<li>Criar blogs ou sites.</li>
-</ul>
-</section>
-<section id="fonte" class="level3">
-<h3 class="anchored" data-anchor-id="fonte">Fonte</h3>
-<p>Módulo 5: Apresentação de dados com relatórios, de Sillas Gonzaga<br>
-<a href="http://sillasgonzaga.com/material/curso_visualizacao/apresentacao-de-dados-com_relatorios.html" class="uri">http://sillasgonzaga.com/material/curso_visualizacao/apresentacao-de-dados-com_relatorios.html</a></p>
-</section>
-<section id="referências" class="level3">
-<h3 class="anchored" data-anchor-id="referências">Referências</h3>
-<ul>
-<li>Cheatsheet do R Markdown</li>
-<li>Guia de referência do R Markdown</li>
-<li>Site do R Markdown</li>
-<li>XIE, Y.; ALLAIRE, J. J.; GROLEMUND, G. R Markdown: The definitive guide. New York: Chapman and Hall, 2018.<br>
-<a href="https://bookdown.org/yihui/rmarkdown/" class="uri">https://bookdown.org/yihui/rmarkdown/</a></li>
-</ul>
-<p><a href="https://www.latex-project.org/">The LaTeX ProjectURL</a></p>
-<p><a href="../EST064/Aula3.pdf" target="_blank" rel="noopener noreferrer">LaTeX</a> – A document preparation system.</p>
-<p><a href="https://pt.wikipedia.org/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/F%C3%B3rmulas_TeX">Guia de edição/Fórmulas TeX (Wikipedia)</a></p>
-<p>Sistema de tipografia <a href="https://pt.wikipedia.org/wiki/TeX">TeX</a>, para representar fórmulas matemáticas.</p>
-<p><a href="https://www.tablesgenerator.com/markdown_tables">Gerador de Tabelas em Markdown</a> It’s a online generator which will allow you to generate <a href="../EST064/Aula3.pdf" target="_blank" rel="noopener noreferrer">LaTeX</a> code you can just copy &amp; paste into your document’s source.</p>
-<p><a href="https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html">Tabelas em HTML</a></p>
-<p>Create Awesome HTML Table with <code>knitr::kable</code> and <code>kableExtra</code>, por Hao Zhu The goal of kableExtra is to help you build common complex tables and manipulate table styles. It imports the pipe %&gt;% symbol from magrittr and verbalize all the functions, so basically you can add “layers” to a kable output in a way that is similar with ggplot2 and plotly</p>
-<p><a href="../EST064/Estudo dirigido - R Markdown.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - R Markdown</a>.</p>
-<p>Anotações de aula sobre LaTeX, do minicurso “Elaboração de Relatórios Técnicos e Páginas Web Usando R Markdown”, ministrado por Calvin Silva Rodrigues. <a href="../EST064/Aula3.pdf" target="_blank" rel="noopener noreferrer">LaTeX</a></p>
-<p>Arquivos extensão .Rmd e sua compilação em .html, desenvolvidos na aula de 15/05/2023. <a href="../EST064/Arquivos da aula de 15052023-20250426.zip" target="_blank" rel="noopener noreferrer">Arquivos da aula de 15/05/2023</a></p>
-<p><a href="https://www.youtube.com/watch?v=tKUufzpoHDE">R Markdown - aula do dia 21/10/2020</a></p>
-<p>Arquivos extensão .Rmd e sua compilação em .html <a href="../EST064/Arquivos da aula de 21102020-20250426.zip" target="_blank" rel="noopener noreferrer">Arquivos da aula de 21/10/2020</a></p>
-<p>===========================================================================</p>
-<p>Minicurso</p>
-<p>Elaboração de Relatórios Técnicos e Páginas Web Usando R Markdown</p>
-<p>Ministrante: Calvin Rodrigues</p>
-<p>Playlist das videoaulas, slides das apresentações e material de apoio</p>
-<p><a href="https://sites.google.com/ice.ufjf.br/encontroscomaestatistica/mincursos/minicurso-elabora%C3%A7%C3%A3o-de-relat%C3%B3rios-t%C3%A9cnicos-e-paginas-web-usando-r-markdow?authuser=0">Minicurso: Elaboração de Relatórios Técnicos e Paginas Web Usando R Markdown</a></p>
-<p><a href="../EST064/Apresentação minicurso.pdf" target="_blank" rel="noopener noreferrer">Apresentações do minicurso</a>.</p>
-<p>Introdução ao RStudio e ao R Markdown:</p>
-<p>Comandos básicos <a href="https://youtu.be/XkCWL0DU_8A" target="_blank" rel="noopener noreferrer">Videoaula 1 - Introdução</a>.</p>
-<p>Gabarito da aula 1 (arquivos Rmd e pdf) <a href="../EST064/Aula 1 - Material de apoio-20250426.zip" target="_blank" rel="noopener noreferrer">Aula 1 - Material de apoio</a>.</p>
-<p>Relatórios Técnicos: Introdução, estrutura, formatação e referências bibliográficas</p>
-<p><a href="https://youtu.be/eTH4w-hhcZY" target="_blank" rel="noopener noreferrer">Parte I: Introdução aos relatórios técnicos</a>.</p>
-<p><a href="https://youtu.be/6hYBG9RZBUE" target="_blank" rel="noopener noreferrer">Parte II: Estrutura, formatação e referências bibliográficas</a>.</p>
-<p>Gabarito da aula 2 (arquivos Rmd, html e pdf)</p>
-<p><a href="../EST064/Aula 2 - Material de apoio-20250426.zip" target="_blank" rel="noopener noreferrer">Aula 2 - Material de apoio</a>.</p>
-<p>Introdução ao LaTeX LaTeX é um sistema ou programa de marcação para a editoração de documentos de alta qualidades tipográfica específico para a elaboração de textos científicos.</p>
-<p><a href="https://youtu.be/2-tIKlCzdxM" target="_blank" rel="noopener noreferrer">Videoaula 3 - LaTeX</a>.</p>
-<p><a href="../EST064/Aula 3 - Material de apoio-20250426.zip" target="_blank" rel="noopener noreferrer">Aula 3 - Material de apoio</a>.</p>
-<p>Introdução à construção de dashboards usando o R Markdown.</p>
-<p>Introdução à construção de dashboards: Dashboard é um painel visual que contém informações, métricas e indicadores de uma situação qualquer (por exemplo, uma empresa ou projeto). Ela tem as seguintes funcionalidades: apresentar indicadores e métricas de forma objetiva e clara; embasar a tomada de decisão; acompanhar o desempenho da situação (por exemplo, empresa ou projeto); facilitar o monitoramento de dados.</p>
-<p><a href="https://youtu.be/B5yl880J94k" target="_blank" rel="noopener noreferrer">Videoaula 4 - Dashboards</a>.</p>
-<p>Construção de páginas web com o R Markdown:</p>
-<p><a href="https://youtu.be/z4PrhZXAevM" target="_blank" rel="noopener noreferrer">Videoaula 5 - Tópicos Avançados</a>.</p>
-<p>Dashboard postada no RPubs, criada por Calvin Rodrigues</p>
-<p><a href="https://rpubs.com/calvinRod/aula4" target="_blank" rel="noopener noreferrer">Exemplo de dashboard</a>.</p>
-</section>
-</section>
-<section id="visualização-e-descrição-de-dados-em-r." class="level2">
-<h2 class="anchored" data-anchor-id="visualização-e-descrição-de-dados-em-r.">Visualização e descrição de dados em R.</h2>
-<p>Introdução à visualização e descrição de dados em R base.</p>
-<p><a href="../EST064/02.1_visualizacao-e-descricaopdf.pdf" target="_blank" rel="noopener noreferrer">Slides - Visualização e descrição de dados</a>.</p>
-<p><a href="../EST064/Estudo dirigido - Visualização gráfica e descrição de dados.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Visualização gráfica e descrição de dados</a>.</p>
-<p><a href="../EST064/Estudo dirigido - Sistema gráfico do R Base.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Sistema gráfico do R Base</a>.</p>
-<p>A função plot() é uma função genérica em R, o que significa que seu comportamento pode mudar dependendo de quais tipos de dados de entrada são utilizados como argumento para a função. Em geral é usada para desenhar diagramas de dispersão, tendo com entrada os vetores com as coordenadas dos pontos. É essencial que comprendam o funcionamento da construção de gráficos no R BASE.</p>
-<p><a href="../EST064/02_Funcao_plot.html" target="_blank" rel="noopener noreferrer">Função plot()</a>.</p>
-</section>
-<section id="probabilidade-de-eventos" class="level2">
-<h2 class="anchored" data-anchor-id="probabilidade-de-eventos">Probabilidade de eventos</h2>
-<p>Aplicações em probabilidade de eventos usando o R</p>
-<p>Anotações de aula sobre probabilidades de eventos e distribuições de probabilidade. Leiam atentamente, refaçam e entendam seus resultados. Foquem nas funções sample() e replicate() que serão usadas intensamente em simulações.</p>
-<p><a href="../EST064/03_probabilidade.html" target="_blank" rel="noopener noreferrer">Probabilidade</a>.</p>
-<p><a href="../EST064/Estudo dirigido - Probabilidade.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Probabilidade</a>.</p>
-<p>Estude atentamente estas anotações e, caso deseje, execute a atividade suplementar indicada ao final do estudo dirigido. Ela é OPCIONAL.</p>
-<p><a href="../EST064/04_simulacao-2021.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Simulação</a>.</p>
-</section>
-<section id="biblioteca." class="level2">
-<h2 class="anchored" data-anchor-id="biblioteca.">Biblioteca.</h2>
-<p>Material suplementar de apoio da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7959" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
-</section>
-<section id="atividades." class="level2">
-<h2 class="anchored" data-anchor-id="atividades.">Atividades.</h2>
-<p>Atividades avaliativas da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7959" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
+<p>Leituras sugeridas:</p>
+<ol type="1">
+<li><p>Introductory Statistics with R, by Peter Dalgaard. Leiam e refaçam exemplos da Seção 3.1: Summary statistics for a single group, na página 57; da Seção 3.2.1: Empirical cumulative distribution, na página 61; da Seção 3.2.4: Bosplots, na página 65; Seção 3.3: Summary statistics by groups, na página 65; e da Seção 3.4: Graphics for grouped data, na página 67.</p></li>
+<li><p>An Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team. Leiam atentamente, refaçam exemplos e resumam conteúdo do Chapter 12: Graphical procedures, a saber: Seção 12.1.1 The plot() function, Seção 12.1.3 Display graphics, Seção 12.1.4 Arguments to high-level plotting functions, Seção 12.2 Low-level plotting commands e Seção 12.5.1 Graphical elements, todos a partir da página 69.</p></li>
+<li><p>Verifiquem atentamente o help de cada comando gráfico e sempre trabalhem com a documentação do comando par() aberta, basta teclarem help(par).</p></li>
+<li><p>Importante: construir gráficos costuma ser trabalhoso em qualquer software. Não tentem queimar etapas ou procurar caminhos mais fáceis. Vocês têm de entender a estrutura com que os gráficos são construídos no R Base para conseguir, no futuro, resolver qualquer problema na construção de gráficos.</p></li>
+<li><p>SÓ ACEITO GRÁFICOS CONSTRUÍDOS NO R BASE. NÃO ACEITO FUNÇÕES DE NENHUM PACOTE GRÁFICO!</p></li>
+</ol>
+<p>Reexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos, pergunte ao R, ao Google, aos colegas (Fórum) e para o professor, nessa ordem (ou pode ser pra mim primeiro). Tudo que você aprender agora você utilizará quando estiver trabalhando com conjuntos de dados com milhões de colunas e milhares de colunas. Os comandos serão essencialmente os mesmos, embora você vá agregar a dificuldade do tempo para importação e de se seu computador será capaz de fazê-lo.</p>
+<section id="voltar-a-disciplina" class="level1">
+<h1>Voltar a disciplina</h1>
+<p><a href="../EST064/est064.html">Voltar</a></p>
 
 
 </section>

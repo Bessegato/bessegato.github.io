@@ -1,0 +1,25 @@
+---
+title: "Estudo dirigido - Probabilidade"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+
+Leituras sugeridas:
+
+1. Introductory Statistics with R, by Peter Dalgaard. Leiam e refaçam exemplos do Chapter 2: Probability and distributions, a partir da página 45.
+
+2. An Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team. Leiam atentamente, refaçam exemplos e resumam conteúdo do Section 8.1: R as a set of statistical tables, na página 39/105; Section 8.2: Examining the distribution of a set of data, a partir da página 40/105.
+
+3. Verifiquem atentamente o help de cada comando novo que encontrarem. No caso de gráficos, sempre trabalhem com a documentação do comando par() aberta, basta teclarem help(par).
+
+4. Importante: construir gráficos costuma ser trabalhoso em qualquer software. Não tentem queimar etapas ou procurar caminhos mais fáceis. Vocês têm de entender a estrutura com que os gráficos são construídos no R Base para conseguir, no futuro, resolver qualquer problema na construção de gráficos.
+
+5. Só pra lembrar: construam todos os gráficos em R Base. Não utilizem funções gráficas de NENHUM pacote!
+
+Reexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos, pergunte ao R, ao Google, aos colegas (Fórum) e para o professor, nessa ordem (ou pode ser pra mim primeiro). Tudo que você aprender agora você utilizará quando estiver trabalhando com conjuntos de dados com milhões de colunas e milhares de colunas. Os comandos serão essencialmente os mesmos, embora você vá agregar a dificuldade do tempo para importação e de se seu computador será capaz de fazê-lo.
+
+# Voltar a disciplina
+
+[Voltar](../EST064/est064.html)

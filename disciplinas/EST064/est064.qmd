@@ -38,6 +38,10 @@ Live apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, 
 ## Tipos e classes de dados em R.
 Categorias baseadas em características compartilhadas pelos dados.
 
+
+
+## Estruturas de dados em R.
+
 [Nomenclatura de objetos](../EST064/00_nomenclaturas.html){target="_blank" rel="noopener noreferrer"}.
 
 [Trabalhando com vetores](../EST064/01.2_introducao_vetores.pdf){target="_blank" rel="noopener noreferrer"}.
@@ -83,7 +87,8 @@ Slides sobre data frames em R. [Trabalhando com data frames](../EST064/01.4_intr
 [Estudo dirigido - Mais sobre data frames](../EST064/Estudo dirigido - Mais sobre data frames.html){target="_blank" rel="noopener noreferrer"}.
 
 
-## Estruturas de dados em R.
+## Organização, colaboração e reprodução.
+
 Diferentes estruturas disponíveis no R para organizar seus dados.
 
 O RMarkdown permite entrelaçar códigos LaTeX e HTML com códigos R e de outras linguagens como Phyton e C++ podendo gerar textos em vários formatos: HTML, PDF e DOC. Dessa maneira, é uma ferramenta adequada para transformar suas análises estatísticas em documentos, relatórios, apresentações e até mesmo dashboards. Foi desenvolvida visando a reprodutibilidade de resultados, já que tanto código quanto narrativa estão no mesmo documento, com os resultados sendo gerados automaticamente a partir do código presente no documento.
@@ -110,14 +115,121 @@ Módulo 5: Apresentação de dados com relatórios, de Sillas Gonzaga
 - XIE, Y.; ALLAIRE, J. J.; GROLEMUND, G. R Markdown: The definitive guide. New York: Chapman and Hall, 2018.  
   <https://bookdown.org/yihui/rmarkdown/>
 
+[The LaTeX ProjectURL](https://www.latex-project.org/)
+
+[LaTeX](../EST064/Aula3.pdf){target="_blank" rel="noopener noreferrer"} – A document preparation system.
+
+[Guia de edição/Fórmulas TeX (Wikipedia)](https://pt.wikipedia.org/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/F%C3%B3rmulas_TeX)
+
+Sistema de tipografia [TeX](https://pt.wikipedia.org/wiki/TeX), para representar fórmulas matemáticas.
+
+[Gerador de Tabelas em Markdown](https://www.tablesgenerator.com/markdown_tables)
+It's a online generator which will allow you to generate [LaTeX](../EST064/Aula3.pdf){target="_blank" rel="noopener noreferrer"} code you can just copy & paste into your document's source.
 
 
+[Tabelas em HTML](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
 
-## Organização, colaboração e reprodução.
+Create Awesome HTML Table with `knitr::kable` and `kableExtra`, por Hao Zhu
+The goal of kableExtra is to help you build common complex tables and manipulate table styles. It imports the pipe %>% symbol from
+magrittr and verbalize all the functions, so basically you can add “layers” to a kable output in a way that is similar with ggplot2 and
+plotly
+
+[Estudo dirigido - R Markdown](../EST064/Estudo dirigido - R Markdown.html){target="_blank" rel="noopener noreferrer"}.
+
+Anotações de aula sobre LaTeX, do minicurso "Elaboração de Relatórios Técnicos e Páginas Web Usando R Markdown", ministrado por Calvin Silva Rodrigues. [LaTeX](../EST064/Aula3.pdf){target="_blank" rel="noopener noreferrer"}
+
+Arquivos extensão .Rmd e sua compilação em .html, desenvolvidos na aula de 15/05/2023. [Arquivos da aula de 15/05/2023](../EST064/Arquivos da aula de 15052023-20250426.zip){target="_blank" rel="noopener noreferrer"}
+
+[R Markdown - aula do dia 21/10/2020](https://www.youtube.com/watch?v=tKUufzpoHDE)
+
+Arquivos extensão .Rmd e sua compilação em .html [Arquivos da aula de 21/10/2020](../EST064/Arquivos da aula de 21102020-20250426.zip){target="_blank" rel="noopener noreferrer"}
+
+===========================================================================
+
+Minicurso
+
+Elaboração de Relatórios Técnicos e Páginas Web Usando R Markdown
+
+Ministrante: Calvin Rodrigues
+
+Playlist das videoaulas, slides das apresentações e material de apoio
+
+[Minicurso: Elaboração de Relatórios Técnicos e Paginas Web Usando R Markdown](https://sites.google.com/ice.ufjf.br/encontroscomaestatistica/mincursos/minicurso-elabora%C3%A7%C3%A3o-de-relat%C3%B3rios-t%C3%A9cnicos-e-paginas-web-usando-r-markdow?authuser=0)
+
+[Apresentações do minicurso](../EST064/Apresentação minicurso.pdf){target="_blank" rel="noopener noreferrer"}.
+
+Introdução ao RStudio e ao R Markdown: 
+
+Comandos básicos [Videoaula 1 - Introdução](https://youtu.be/XkCWL0DU_8A){target="_blank" rel="noopener noreferrer"}.
+
+Gabarito da aula 1 (arquivos Rmd e pdf)
+[Aula 1 - Material de apoio](../EST064/Aula 1 - Material de apoio-20250426.zip){target="_blank" rel="noopener noreferrer"}.
+
+Relatórios Técnicos: Introdução, estrutura, formatação e referências bibliográficas
+
+[Parte  I: Introdução aos relatórios técnicos](https://youtu.be/eTH4w-hhcZY){target="_blank" rel="noopener noreferrer"}.
+
+[Parte II: Estrutura, formatação e referências bibliográficas](https://youtu.be/6hYBG9RZBUE){target="_blank" rel="noopener noreferrer"}.
+
+Gabarito da aula 2 (arquivos Rmd, html e pdf)
+
+[Aula 2 - Material de apoio](../EST064/Aula 2 - Material de apoio-20250426.zip){target="_blank" rel="noopener noreferrer"}.
+
+Introdução ao LaTeX
+LaTeX é um sistema ou programa de marcação para a editoração de documentos de alta qualidades tipográfica específico para a elaboração de textos científicos.
+
+[Videoaula 3 - LaTeX](https://youtu.be/2-tIKlCzdxM){target="_blank" rel="noopener noreferrer"}.
+
+[Aula 3 - Material de apoio](../EST064/Aula 3 - Material de apoio-20250426.zip){target="_blank" rel="noopener noreferrer"}.
+
+Introdução à construção de dashboards usando o R Markdown.
+
+Introdução à construção de dashboards:
+Dashboard é um painel visual que contém informações, métricas e indicadores de uma situação qualquer (por exemplo, uma empresa ou projeto). Ela tem as seguintes funcionalidades: apresentar indicadores e métricas de forma objetiva e clara; embasar a tomada de decisão; acompanhar o desempenho da situação (por exemplo, empresa ou projeto); facilitar o monitoramento de dados.
+
+[Videoaula 4 - Dashboards](https://youtu.be/B5yl880J94k){target="_blank" rel="noopener noreferrer"}.
+
+
+Construção de páginas web com o R Markdown:
+
+[Videoaula 5 - Tópicos Avançados](https://youtu.be/z4PrhZXAevM){target="_blank" rel="noopener noreferrer"}.
+
+Dashboard postada no RPubs, criada por Calvin Rodrigues
+
+[Exemplo de dashboard](https://rpubs.com/calvinRod/aula4){target="_blank" rel="noopener noreferrer"}.
+
 
 ## Visualização e descrição de dados em R.
 
+Introdução à visualização e descrição de dados em R base.
+
+[Slides - Visualização e descrição de dados](../EST064/02.1_visualizacao-e-descricaopdf.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Estudo dirigido - Visualização gráfica e descrição de dados](../EST064/Estudo dirigido - Visualização gráfica e descrição de dados.html){target="_blank" rel="noopener noreferrer"}.
+
+
+[Estudo dirigido - Sistema gráfico do R Base](../EST064/Estudo dirigido - Sistema gráfico do R Base.html){target="_blank" rel="noopener noreferrer"}.
+
+
+A função plot() é uma função genérica em R, o que significa que seu comportamento pode mudar dependendo de quais tipos de dados de entrada são utilizados como argumento para a função. Em geral é usada para desenhar diagramas de dispersão, tendo com entrada os vetores com as coordenadas dos pontos. É essencial que comprendam o funcionamento da construção de gráficos no R BASE.
+
+[Função plot()](../EST064/02_Funcao_plot.html){target="_blank" rel="noopener noreferrer"}.
+
+
 ## Probabilidade de eventos
+
+Aplicações em probabilidade de eventos usando o R
+
+Anotações de aula sobre probabilidades de eventos e distribuições de probabilidade. Leiam atentamente, refaçam e entendam seus resultados. Foquem nas funções sample() e replicate() que serão usadas intensamente em simulações.
+
+[Probabilidade](../EST064/03_probabilidade.html){target="_blank" rel="noopener noreferrer"}.
+
+
+[Estudo dirigido - Probabilidade](../EST064/Estudo dirigido - Probabilidade.html){target="_blank" rel="noopener noreferrer"}.
+
+Estude atentamente estas anotações e, caso deseje, execute a atividade suplementar indicada ao final do estudo dirigido. Ela é OPCIONAL.
+
+[Estudo dirigido - Simulação](../EST064/04_simulacao-2021.html){target="_blank" rel="noopener noreferrer"}.
 
 ## Biblioteca.
 
