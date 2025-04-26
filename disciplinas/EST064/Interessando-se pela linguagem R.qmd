@@ -5,27 +5,28 @@ format: html
 author: Prof. Lupércio França Bessegato
 toc: true
 ---
+
 ## Interessando-se pela linguagem R
 
-**Não pesquise no Google às cegas**  
+**Não pesquise no Google às cegas**\
 Pesquise o quanto quiser, mas aprenda e entenda as respostas que encontrar. Não use apenas o copiar/colar de código ou comando. Entenda como funciona cada função que descobriu e qual sua finalidade.
 
-**Veja o que os outros estão fazendo com o R**  
+**Veja o que os outros estão fazendo com o R**\
 Ajuda a entender como o R é usado no mundo real e leva você a descobrir para que deseja usá-lo.
 
-**Envolva-se com a comunidade global do R, mas encontre colegas localmente**  
+**Envolva-se com a comunidade global do R, mas encontre colegas localmente**\
 Acompanhe o que pesquisadores e analistas de dados estão fazendo com R mundialmente, mas também aprenda e interaja com pessoas ao seu redor. Há muitas áreas além da Estatística em que o R é muito usado.
 
-**Construir projetos**  
+**Construir projetos**\
 Exponha e compartilhe suas habilidades e o que está aprendendo com o R. Você nunca sabe que oportunidades isso pode trazer para você.
 
-**Comece pequeno**  
+**Comece pequeno**\
 Os edifícios sólidos não são construídos em um único dia. Não se distraia com a intensidade da onda de uma nova tecnologia ou com a tentação de tentar aprender tudo.
 
-**Ensine outras pessoas e explique seu código**  
+**Ensine outras pessoas e explique seu código**\
 Isso ajuda você a aprender e também beneficia outras pessoas.
 
-**Arrisque-se pedindo ajuda e ajudando os outros**  
+**Arrisque-se pedindo ajuda e ajudando os outros**\
 Quando você pede ajuda, o pior que pode acontecer é escutar um não. Faça seus pedidos de ajuda e, assim que tiver experiência, ajude outros com suas dúvidas.
 
 # Voltar a disciplina

@@ -1,0 +1,43 @@
+---
+title: "Estudo dirigido - Vetores no R"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+## Leituras sugeridas
+
+1. **LANDEIRO, Victor Lemes. Introdução ao uso do programa R.**  
+   Manaus: Instituto Nacional de Pesquisas da Amazônia, 2011.  
+   Nas páginas 9/50 a 11/50 (6 a 8, no documento original), leiam atentamente os seguintes tópicos:  
+   - Como criar objetos  
+   - Operações com vetores  
+   - Transformar dados  
+   - Listar e remover objetos salvos  
+   - Geração de sequência e repetições  
+   **Exercícios:** 1, 6, 8, 10 e 12 (página 14/50 [11 original]).  
+   Disponível em: <https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf>
+
+2. **Introductory Statistics with R, by Peter Dalgaard**  
+   - **Seção 1.1.3:** Vectorized arithmetic (página 4)  
+   - **Seção 1.2.3:** Vectors (página 12)  
+   - **Seção 1.2.4:** Missing values (página 13)  
+   - **Seção 1.2.5:** Functions that create vectors (página 13)
+
+3. **An Introduction to R, by Venables, Smith & R Core Team**  
+   **Capítulo 2:** Simple manipulations; numbers and vectors (páginas 13-18 do PDF).  
+   Refazer exemplos e resumir o conteúdo.
+
+4. **Sequences of Numbers (post online)**  
+   - Revisar exemplos de construção de sequências determinísticas (números, strings, lógicos).  
+   Disponível em: <http://www.simonqueenborough.info/R/basic/lessons/Sequences_of_Numbers.html>
+
+---
+
+**Orientações finais:**  
+Reexecute exemplos pertinentes dos materiais, pesquise comandos novos utilizando `?função` no R, consulte o Google, o Fórum da turma e o professor, nessa ordem.
+
+# Voltar a disciplina
+
+[Voltar](../EST064/est064.html)
+

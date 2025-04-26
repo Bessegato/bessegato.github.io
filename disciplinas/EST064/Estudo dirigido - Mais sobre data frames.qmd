@@ -1,0 +1,46 @@
+---
+title: "Estudo dirigido - Mais sobre data frames"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+## Leituras sugeridas  
+
+1. **Introductory Statistics with R, by Peter Dalgaard**  
+Leiam e refaçam exemplos da Seção 1.2.13: Subset and transform, na página 22; da Seção 1.2.14: Grouped data and data frames, na página 23; da Seção 1.2.11: Conditional selection, na página 20, Seção 1.2.16: Implicit loops, na página 26 e Seção 1.6: Data entry, na pág. 39.  
+
+2. **An Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team**  
+Leiam atentamente, refaçam exemplos e resumam o conteúdo do Chapter 7: Reading data from files, na página 30.  
+
+3. **Manual R Data Import/Export**  
+Leiam a versão mais recente do manual do R denominado R Data Import/Export e verifique todas as peculiaridades da tarefa de, principalmente, importar conjuntos de dados.  
+Link: <https://cran.r-project.org/doc/manuals/R-data.html>  
+
+4. **Post: Reading Excel files in R**  
+Leiam o post e verifiquem como a tarefa de importar conjuntos de dados não é simples.  
+Link: <https://www.r-bloggers.com/2020/06/reading-excel-files-in-r/>  
+
+5. **Post: Manipulating Data Frames in R**  
+Leiam atentamente, estudem os comandos apresentados e refaçam todos os exemplos do post que utiliza o conjunto de dados mtcars.  
+Link: <https://www.r-bloggers.com/2018/09/manipulating-data-frames-in-r/>  
+
+6. **Posts adicionais sobre importação/exportação:**  
+- *Reading Data From TXT|CSV Files: R Base Functions*  
+Link: <http://www.sthda.com/english/wiki/reading-data-from-txt-csv-files-r-base-functions>  
+- *R Data Import/Export (PDF)*  
+Link: <http://cran.radicaldevelop.com/doc/manuals/r-release/R-data.pdf>  
+- *Reading and writing files*  
+Link: <http://www.homogenisation.org/admin/docs/RWfiles.pdf>  
+- *This R Data Import Tutorial Is Everything You Need*  
+Link: <https://www.datacamp.com/community/tutorials/r-data-import-tutorial>  
+- *Importing Data Into R - Part Two*  
+Link: <https://www.datacamp.com/community/tutorials/importing-data-r-part-two>  
+
+**Observação final:**  
+Reexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos, pergunte ao R, ao Google, aos
+colegas (Fórum) e para o professor, nessa ordem (ou pode ser pra mim primeiro). Tudo que você aprender agora você utilizará quando estiver trabalhando com conjuntos de dados com milhões de colunas e milhares de colunas. Os comandos serão essencialmente os mesmo, embora você vá agregar a dificuldade do tempo para importação e de se seu computador será capaz de fazê-lo.
+
+# Voltar a disciplina
+
+[Voltar](../EST064/est064.html)

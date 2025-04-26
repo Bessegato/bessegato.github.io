@@ -8,7 +8,7 @@
 
 <meta name="author" content="Prof.&nbsp;Lupércio França Bessegato">
 
-<title>EST064 - LABORATÓRIO DE ESTATÍSTICA – Prof.&nbsp;Lupércio França Bessegato</title>
+<title>Estudo dirigido - matrizes fatores e listas no R – Prof.&nbsp;Lupércio França Bessegato</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -135,20 +135,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Nesta página</h2>
    
   <ul>
-  <li><a href="#metodologia." id="toc-metodologia." class="nav-link active" data-scroll-target="#metodologia.">Metodologia.</a></li>
-  <li><a href="#introdução-à-linguagem-r." id="toc-introdução-à-linguagem-r." class="nav-link" data-scroll-target="#introdução-à-linguagem-r.">Introdução à linguagem R.</a></li>
-  <li><a href="#tipos-e-classes-de-dados-em-r." id="toc-tipos-e-classes-de-dados-em-r." class="nav-link" data-scroll-target="#tipos-e-classes-de-dados-em-r.">Tipos e classes de dados em R.</a></li>
-  <li><a href="#estruturas-de-dados-em-r." id="toc-estruturas-de-dados-em-r." class="nav-link" data-scroll-target="#estruturas-de-dados-em-r.">Estruturas de dados em R.</a>
-  <ul class="collapse">
-  <li><a href="#funcionalidades-do-r-markdown" id="toc-funcionalidades-do-r-markdown" class="nav-link" data-scroll-target="#funcionalidades-do-r-markdown">Funcionalidades do R Markdown</a></li>
-  <li><a href="#fonte" id="toc-fonte" class="nav-link" data-scroll-target="#fonte">Fonte</a></li>
-  <li><a href="#referências" id="toc-referências" class="nav-link" data-scroll-target="#referências">Referências</a></li>
-  </ul></li>
-  <li><a href="#organização-colaboração-e-reprodução." id="toc-organização-colaboração-e-reprodução." class="nav-link" data-scroll-target="#organização-colaboração-e-reprodução.">Organização, colaboração e reprodução.</a></li>
-  <li><a href="#visualização-e-descrição-de-dados-em-r." id="toc-visualização-e-descrição-de-dados-em-r." class="nav-link" data-scroll-target="#visualização-e-descrição-de-dados-em-r.">Visualização e descrição de dados em R.</a></li>
-  <li><a href="#probabilidade-de-eventos" id="toc-probabilidade-de-eventos" class="nav-link" data-scroll-target="#probabilidade-de-eventos">Probabilidade de eventos</a></li>
-  <li><a href="#biblioteca." id="toc-biblioteca." class="nav-link" data-scroll-target="#biblioteca.">Biblioteca.</a></li>
-  <li><a href="#atividades." id="toc-atividades." class="nav-link" data-scroll-target="#atividades.">Atividades.</a></li>
+  <li><a href="#leituras-sugeridas" id="toc-leituras-sugeridas" class="nav-link active" data-scroll-target="#leituras-sugeridas">Leituras sugeridas</a></li>
+  <li><a href="#voltar-a-disciplina" id="toc-voltar-a-disciplina" class="nav-link" data-scroll-target="#voltar-a-disciplina">Voltar a disciplina</a></li>
   </ul>
 </nav>
     </div>
@@ -157,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">EST064 - LABORATÓRIO DE ESTATÍSTICA</h1>
+<h1 class="title">Estudo dirigido - matrizes fatores e listas no R</h1>
 </div>
 
 
@@ -180,96 +168,43 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="metodologia." class="level2">
-<h2 class="anchored" data-anchor-id="metodologia.">Metodologia.</h2>
-<p>Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7959" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
-</section>
-<section id="introdução-à-linguagem-r." class="level2">
-<h2 class="anchored" data-anchor-id="introdução-à-linguagem-r.">Introdução à linguagem R.</h2>
-<p>Fundamentos da linguagem estatística R e da interface gráfica RStudio</p>
-<p>Slides apresentados em sala. <a href="../EST064/01.1_introducao_fundamentos.pdf" target="_blank" rel="noopener noreferrer">Slides - Introdução à Linguagem R</a>.</p>
-<p><a href="../EST064/Interessando-se pela linguagem R.html" target="_blank" rel="noopener noreferrer">Interessando-se pela linguagem R</a>.</p>
-<p>Dicas do post:“Top Tips for Learning R from Africa R’s Shelmith Kariuki”, do <a href="https://tinyurl.com/y6zw5blb">R Bloggers</a></p>
-<p>Este é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem). <a href="../EST064/Ajuda no R.html" target="_blank" rel="noopener noreferrer">Ajuda no R</a>.</p>
-<p>Sugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos</p>
-<p><a href="../EST064/Uma revisão de fundamentos da linguagem R.html" target="_blank" rel="noopener noreferrer">Uma revisão de fundamentos da linguagem R</a>.</p>
-<p>Alguns comandos e exercícios desse contato inicial com a linguagem R. <a href="../EST064/Uso inicial do R (1).html" target="_blank" rel="noopener noreferrer">Uso inicial do R (1)</a>.</p>
-<p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, com apresentação de: uso inicial do R: tipo de dados, ajuda no R, operações aritméticas. <a href="https://drive.google.com/file/d/1qm59WYfAFXgJ8UB_MCX-kZgraGN0VjLD/view?usp=sharing">Live: Uso inicial do R (ERE)</a></p>
-</section>
-<section id="tipos-e-classes-de-dados-em-r." class="level2">
-<h2 class="anchored" data-anchor-id="tipos-e-classes-de-dados-em-r.">Tipos e classes de dados em R.</h2>
-<p>Categorias baseadas em características compartilhadas pelos dados.</p>
-<p><a href="../EST064/00_nomenclaturas.html" target="_blank" rel="noopener noreferrer">Nomenclatura de objetos</a>.</p>
-<p><a href="../EST064/01.2_introducao_vetores.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com vetores</a>.</p>
-<p><a href="../EST064/Estudo dirigido - Vetores no R.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Vetores no R</a>.</p>
-<p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. <a href="https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing">Live: Manipulação e operação com vetores (ERE)</a></p>
-<p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. <a href="https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing">Live: Vetorização (ERE)</a></p>
-<p><a href="../EST064/00_operadores_basicos.html" target="_blank" rel="noopener noreferrer">Operadores básicos</a>.</p>
-<p>Leituras e estudos recomendados sobre operadores lógicos e funções relacionadas.</p>
-<p><a href="../EST064/OperadoresLogicos.html" target="_blank" rel="noopener noreferrer">Operadores básicos</a>.</p>
-<p>Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. <a href="https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing">Live: Operadores Lógicos</a></p>
-<p><a href="../EST064/01.3_introducao_matfatlis.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com matrizes, fatores e listas</a>.</p>
-<p><a href="../EST064/Estudo dirigido - matrizes fatores e listas no R.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - matrizes fatores e listas no R</a>.</p>
-<p>Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. <a href="https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing">Matrizes em R</a></p>
-<p>Slides sobre data frames em R. <a href="../EST064/01.4_introducao_data-frames.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com data frames</a>.</p>
+<section id="leituras-sugeridas" class="level2">
+<h2 class="anchored" data-anchor-id="leituras-sugeridas">Leituras sugeridas</h2>
+<ol type="1">
+<li><strong>Introductory Statistics with R, by Peter Dalgaard</strong>
 <ul>
-<li><p>Repetir cuidadosamente cada exemplo em um script.</p></li>
-<li><p>se errar, descubra o erro, repita e deixe no script apenas os comandos corretos.</p></li>
-<li><p>Organize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.</p></li>
-<li><p>Para documentar, inicie a linha com #. O R não irá executar a partir deste caractere</p></li>
-<li><p>Não se restrinja a esse material. Estude o material indicado e faça a atividade proposta!</p></li>
-</ul>
-<p><a href="../EST064/Estudo dirigido - Data frames.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Data frames</a>.</p>
-<p><a href="../EST064/01.5_import.pdf" target="_blank" rel="noopener noreferrer">Importação e exportação de data frames</a>.</p>
-<p><a href="../EST064/Estudo dirigido - Mais sobre data frames.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Mais sobre data frames</a>.</p>
-</section>
-<section id="estruturas-de-dados-em-r." class="level2">
-<h2 class="anchored" data-anchor-id="estruturas-de-dados-em-r.">Estruturas de dados em R.</h2>
-<p>Diferentes estruturas disponíveis no R para organizar seus dados.</p>
-<p>O RMarkdown permite entrelaçar códigos LaTeX e HTML com códigos R e de outras linguagens como Phyton e C++ podendo gerar textos em vários formatos: HTML, PDF e DOC. Dessa maneira, é uma ferramenta adequada para transformar suas análises estatísticas em documentos, relatórios, apresentações e até mesmo dashboards. Foi desenvolvida visando a reprodutibilidade de resultados, já que tanto código quanto narrativa estão no mesmo documento, com os resultados sendo gerados automaticamente a partir do código presente no documento.</p>
-<section id="funcionalidades-do-r-markdown" class="level3">
-<h3 class="anchored" data-anchor-id="funcionalidades-do-r-markdown">Funcionalidades do R Markdown</h3>
+<li><strong>Seção 1.2.6:</strong> Matrices and arrays (página 14)<br>
+</li>
+<li><strong>Seção 1.2.7:</strong> Factors (página 16)<br>
+</li>
+<li><strong>Seção 1.2.8:</strong> Lists (página 17)</li>
+</ul></li>
+<li><strong>An Introduction to R, by Venables, Smith &amp; R Core Team</strong>
 <ul>
-<li>Compilar um documento em um relatório em diferentes formatos de saída, como PDF, HTML e Word.</li>
-<li>Produzir slides para apresentações.</li>
-<li>Criar dashboards interativas, com layouts que se adaptam à tela do usuário.</li>
-<li>Criar relatórios interativos com Shiny.</li>
-<li>Escrever artigos científicos ou livros.</li>
-<li>Criar blogs ou sites.</li>
-</ul>
-</section>
-<section id="fonte" class="level3">
-<h3 class="anchored" data-anchor-id="fonte">Fonte</h3>
-<p>Módulo 5: Apresentação de dados com relatórios, de Sillas Gonzaga<br>
-<a href="http://sillasgonzaga.com/material/curso_visualizacao/apresentacao-de-dados-com_relatorios.html" class="uri">http://sillasgonzaga.com/material/curso_visualizacao/apresentacao-de-dados-com_relatorios.html</a></p>
-</section>
-<section id="referências" class="level3">
-<h3 class="anchored" data-anchor-id="referências">Referências</h3>
+<li><strong>Capítulo 4:</strong> Ordered and unordered factors (páginas 22-23)<br>
+</li>
+<li><strong>Seção 5:</strong> Arrays and matrices (páginas 24-31, <em>excluir 5.7.4 e 5.7.5</em>)<br>
+</li>
+<li><strong>Seções 6.1-6.2:</strong> Lists (páginas 32-33)</li>
+</ul></li>
+<li><strong>Tutoriais online</strong>
 <ul>
-<li>Cheatsheet do R Markdown</li>
-<li>Guia de referência do R Markdown</li>
-<li>Site do R Markdown</li>
-<li>XIE, Y.; ALLAIRE, J. J.; GROLEMUND, G. R Markdown: The definitive guide. New York: Chapman and Hall, 2018.<br>
-<a href="https://bookdown.org/yihui/rmarkdown/" class="uri">https://bookdown.org/yihui/rmarkdown/</a></li>
-</ul>
+<li><strong>Understanding Factors:</strong><br>
+Estrutura e uso de fatores.<br>
+Disponível em: <a href="https://swcarpentry.github.io/r-novice-inflammation/12-supp-factors/index.html" class="uri">https://swcarpentry.github.io/r-novice-inflammation/12-supp-factors/index.html</a><br>
+</li>
+<li><strong>R List Tutorial:</strong><br>
+Funcionalidades avançadas de listas no R.<br>
+Disponível em: <a href="https://data-flair.training/blogs/r-list-tutorial/" class="uri">https://data-flair.training/blogs/r-list-tutorial/</a></li>
+</ul></li>
+</ol>
+<hr>
+<p><strong>Orientações finais:</strong><br>
+Reexecute exemplos pertinentes dos materiais, pesquise comandos novos utilizando <code>?função</code> no R, consulte o Google, o Fórum da turma e o professor (ou o professor primeiro), nessa ordem.</p>
 </section>
-</section>
-<section id="organização-colaboração-e-reprodução." class="level2">
-<h2 class="anchored" data-anchor-id="organização-colaboração-e-reprodução.">Organização, colaboração e reprodução.</h2>
-</section>
-<section id="visualização-e-descrição-de-dados-em-r." class="level2">
-<h2 class="anchored" data-anchor-id="visualização-e-descrição-de-dados-em-r.">Visualização e descrição de dados em R.</h2>
-</section>
-<section id="probabilidade-de-eventos" class="level2">
-<h2 class="anchored" data-anchor-id="probabilidade-de-eventos">Probabilidade de eventos</h2>
-</section>
-<section id="biblioteca." class="level2">
-<h2 class="anchored" data-anchor-id="biblioteca.">Biblioteca.</h2>
-<p>Material suplementar de apoio da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7959" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
-</section>
-<section id="atividades." class="level2">
-<h2 class="anchored" data-anchor-id="atividades.">Atividades.</h2>
-<p>Atividades avaliativas da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7959" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
+<section id="voltar-a-disciplina" class="level1">
+<h1>Voltar a disciplina</h1>
+<p><a href="../EST064/est064.html">Voltar</a></p>
 
 
 </section>

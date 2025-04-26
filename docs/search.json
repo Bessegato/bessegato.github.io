@@ -298,21 +298,21 @@
     "href": "disciplinas/EST064/est064.html#introdução-à-linguagem-r.",
     "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
     "section": "Introdução à linguagem R.",
-    "text": "Introdução à linguagem R.\nFundamentos da linguagem estatística R e da interface gráfica RStudio\nSlides apresentados em sala. Slides - Introdução à Linguagem R.\nInteressando-se pela linguagem R.\nDicas do post:“Top Tips for Learning R from Africa R’s Shelmith Kariuki”, do R Bloggers https://tinyurl.com/y6zw5blb\nEste é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem). Ajuda no R.\nSugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos\nUma revisão de fundamentos da linguagem R.\nAlguns comandos e exercícios desse contato inicial com a linguagem R. Uso inicial do R (1).\nLive apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, com apresentação de: uso inicial do R: tipo de dados, ajuda no R, operações aritméticas. Live: Uso inicial do R (ERE)"
+    "text": "Introdução à linguagem R.\nFundamentos da linguagem estatística R e da interface gráfica RStudio\nSlides apresentados em sala. Slides - Introdução à Linguagem R.\nInteressando-se pela linguagem R.\nDicas do post:“Top Tips for Learning R from Africa R’s Shelmith Kariuki”, do R Bloggers\nEste é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem). Ajuda no R.\nSugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos\nUma revisão de fundamentos da linguagem R.\nAlguns comandos e exercícios desse contato inicial com a linguagem R. Uso inicial do R (1).\nLive apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, com apresentação de: uso inicial do R: tipo de dados, ajuda no R, operações aritméticas. Live: Uso inicial do R (ERE)"
   },
   {
     "objectID": "disciplinas/EST064/est064.html#tipos-e-classes-de-dados-em-r.",
     "href": "disciplinas/EST064/est064.html#tipos-e-classes-de-dados-em-r.",
     "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
     "section": "Tipos e classes de dados em R.",
-    "text": "Tipos e classes de dados em R.\nCategorias baseadas em características compartilhadas pelos dados."
+    "text": "Tipos e classes de dados em R.\nCategorias baseadas em características compartilhadas pelos dados.\nNomenclatura de objetos.\nTrabalhando com vetores.\nEstudo dirigido - Vetores no R.\nLive apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. Live: Manipulação e operação com vetores (ERE)\nLive apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. Live: Vetorização (ERE)\nOperadores básicos.\nLeituras e estudos recomendados sobre operadores lógicos e funções relacionadas.\nOperadores básicos.\nClipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. Live: Operadores Lógicos\nTrabalhando com matrizes, fatores e listas.\nEstudo dirigido - matrizes fatores e listas no R.\nLive realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. Matrizes em R\nSlides sobre data frames em R. Trabalhando com data frames.\n\nRepetir cuidadosamente cada exemplo em um script.\nse errar, descubra o erro, repita e deixe no script apenas os comandos corretos.\nOrganize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.\nPara documentar, inicie a linha com #. O R não irá executar a partir deste caractere\nNão se restrinja a esse material. Estude o material indicado e faça a atividade proposta!\n\nEstudo dirigido - Data frames.\nImportação e exportação de data frames.\nEstudo dirigido - Mais sobre data frames."
   },
   {
     "objectID": "disciplinas/EST064/est064.html#estruturas-de-dados-em-r.",
     "href": "disciplinas/EST064/est064.html#estruturas-de-dados-em-r.",
     "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
     "section": "Estruturas de dados em R.",
-    "text": "Estruturas de dados em R.\nDiferentes estruturas disponíveis no R para organizar seus dados."
+    "text": "Estruturas de dados em R.\nDiferentes estruturas disponíveis no R para organizar seus dados.\nO RMarkdown permite entrelaçar códigos LaTeX e HTML com códigos R e de outras linguagens como Phyton e C++ podendo gerar textos em vários formatos: HTML, PDF e DOC. Dessa maneira, é uma ferramenta adequada para transformar suas análises estatísticas em documentos, relatórios, apresentações e até mesmo dashboards. Foi desenvolvida visando a reprodutibilidade de resultados, já que tanto código quanto narrativa estão no mesmo documento, com os resultados sendo gerados automaticamente a partir do código presente no documento.\n\nFuncionalidades do R Markdown\n\nCompilar um documento em um relatório em diferentes formatos de saída, como PDF, HTML e Word.\nProduzir slides para apresentações.\nCriar dashboards interativas, com layouts que se adaptam à tela do usuário.\nCriar relatórios interativos com Shiny.\nEscrever artigos científicos ou livros.\nCriar blogs ou sites.\n\n\n\nFonte\nMódulo 5: Apresentação de dados com relatórios, de Sillas Gonzaga\nhttp://sillasgonzaga.com/material/curso_visualizacao/apresentacao-de-dados-com_relatorios.html\n\n\nReferências\n\nCheatsheet do R Markdown\nGuia de referência do R Markdown\nSite do R Markdown\nXIE, Y.; ALLAIRE, J. J.; GROLEMUND, G. R Markdown: The definitive guide. New York: Chapman and Hall, 2018.\nhttps://bookdown.org/yihui/rmarkdown/"
   },
   {
     "objectID": "disciplinas/EST064/est064.html#organização-colaboração-e-reprodução.",
@@ -397,5 +397,103 @@
     "title": "Uma revisão de fundamentos da linguagem R",
     "section": "",
     "text": "(Conteúdo detalhado sobre práticas recomendadas para nomeação de objetos em R)"
+  },
+  {
+    "objectID": "disciplinas/EST064/Estudo dirigido - Vetores no R.html",
+    "href": "disciplinas/EST064/Estudo dirigido - Vetores no R.html",
+    "title": "Estudo dirigido - Vetores no R",
+    "section": "",
+    "text": "LANDEIRO, Victor Lemes. Introdução ao uso do programa R.\nManaus: Instituto Nacional de Pesquisas da Amazônia, 2011.\nNas páginas 9/50 a 11/50 (6 a 8, no documento original), leiam atentamente os seguintes tópicos:\n\nComo criar objetos\n\nOperações com vetores\n\nTransformar dados\n\nListar e remover objetos salvos\n\nGeração de sequência e repetições\nExercícios: 1, 6, 8, 10 e 12 (página 14/50 [11 original]).\nDisponível em: https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf\n\nIntroductory Statistics with R, by Peter Dalgaard\n\nSeção 1.1.3: Vectorized arithmetic (página 4)\n\nSeção 1.2.3: Vectors (página 12)\n\nSeção 1.2.4: Missing values (página 13)\n\nSeção 1.2.5: Functions that create vectors (página 13)\n\nAn Introduction to R, by Venables, Smith & R Core Team\nCapítulo 2: Simple manipulations; numbers and vectors (páginas 13-18 do PDF).\nRefazer exemplos e resumir o conteúdo.\nSequences of Numbers (post online)\n\nRevisar exemplos de construção de sequências determinísticas (números, strings, lógicos).\nDisponível em: http://www.simonqueenborough.info/R/basic/lessons/Sequences_of_Numbers.html\n\n\n\nOrientações finais:\nReexecute exemplos pertinentes dos materiais, pesquise comandos novos utilizando ?função no R, consulte o Google, o Fórum da turma e o professor, nessa ordem."
+  },
+  {
+    "objectID": "disciplinas/EST064/Estudo dirigido - Vetores no R.html#leituras-sugeridas",
+    "href": "disciplinas/EST064/Estudo dirigido - Vetores no R.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Vetores no R",
+    "section": "",
+    "text": "LANDEIRO, Victor Lemes. Introdução ao uso do programa R.\nManaus: Instituto Nacional de Pesquisas da Amazônia, 2011.\nNas páginas 9/50 a 11/50 (6 a 8, no documento original), leiam atentamente os seguintes tópicos:\n\nComo criar objetos\n\nOperações com vetores\n\nTransformar dados\n\nListar e remover objetos salvos\n\nGeração de sequência e repetições\nExercícios: 1, 6, 8, 10 e 12 (página 14/50 [11 original]).\nDisponível em: https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf\n\nIntroductory Statistics with R, by Peter Dalgaard\n\nSeção 1.1.3: Vectorized arithmetic (página 4)\n\nSeção 1.2.3: Vectors (página 12)\n\nSeção 1.2.4: Missing values (página 13)\n\nSeção 1.2.5: Functions that create vectors (página 13)\n\nAn Introduction to R, by Venables, Smith & R Core Team\nCapítulo 2: Simple manipulations; numbers and vectors (páginas 13-18 do PDF).\nRefazer exemplos e resumir o conteúdo.\nSequences of Numbers (post online)\n\nRevisar exemplos de construção de sequências determinísticas (números, strings, lógicos).\nDisponível em: http://www.simonqueenborough.info/R/basic/lessons/Sequences_of_Numbers.html\n\n\n\nOrientações finais:\nReexecute exemplos pertinentes dos materiais, pesquise comandos novos utilizando ?função no R, consulte o Google, o Fórum da turma e o professor, nessa ordem."
+  },
+  {
+    "objectID": "disciplinas/EST064/OperadoresLogicos.html",
+    "href": "disciplinas/EST064/OperadoresLogicos.html",
+    "title": "Operadores Lógicos",
+    "section": "",
+    "text": "LANDEIRO, Victor Lemes. Introdução ao uso do programa R.\nManaus: Instituto Nacional de Pesquisas da Amazônia, 2011.\nPáginas 29/50 e 30/50 (26-27 original):\nComandos de lógica: Opções para manipular conjunto de dados.\nDisponível em: https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf\nIntroductory Statistics with R, by Peter Dalgaard\n\nSeção 1.1.3: Vectorized arithmetic (página 4)\n\nSeção 1.2.3: Vectors (página 12)\n\nSeção 1.2.4: Missing values (página 13)\n\nSeção 1.2.5: Functions that create vectors (página 13)\n\nR - Operators (resumo)\nTipos de operadores: aritméticos, relacionais, lógicos, de atribuição e diversos.\nDisponível em: https://www.tutorialspoint.com/r/r_operators.htm\nR operators (post)\nExemplos práticos de operadores e suas aplicações.\nDisponível em: https://r-coder.com/operators-r/\nLogical Operators in R (post)\nComandos lógicos e estruturas de controle com exemplos.\nDisponível em: https://www.tutorialgateway.org/logical-operators-in-r/\n\n\nOrientações finais:\nReexecute exemplos pertinentes dos materiais, pesquise comandos novos utilizando ?função no R, consulte o Google, o Fórum da turma e o professor, nessa ordem."
+  },
+  {
+    "objectID": "disciplinas/EST064/OperadoresLogicos.html#leituras-sugeridas",
+    "href": "disciplinas/EST064/OperadoresLogicos.html#leituras-sugeridas",
+    "title": "Operadores Lógicos",
+    "section": "",
+    "text": "LANDEIRO, Victor Lemes. Introdução ao uso do programa R.\nManaus: Instituto Nacional de Pesquisas da Amazônia, 2011.\nPáginas 29/50 e 30/50 (26-27 original):\nComandos de lógica: Opções para manipular conjunto de dados.\nDisponível em: https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf\nIntroductory Statistics with R, by Peter Dalgaard\n\nSeção 1.1.3: Vectorized arithmetic (página 4)\n\nSeção 1.2.3: Vectors (página 12)\n\nSeção 1.2.4: Missing values (página 13)\n\nSeção 1.2.5: Functions that create vectors (página 13)\n\nR - Operators (resumo)\nTipos de operadores: aritméticos, relacionais, lógicos, de atribuição e diversos.\nDisponível em: https://www.tutorialspoint.com/r/r_operators.htm\nR operators (post)\nExemplos práticos de operadores e suas aplicações.\nDisponível em: https://r-coder.com/operators-r/\nLogical Operators in R (post)\nComandos lógicos e estruturas de controle com exemplos.\nDisponível em: https://www.tutorialgateway.org/logical-operators-in-r/\n\n\nOrientações finais:\nReexecute exemplos pertinentes dos materiais, pesquise comandos novos utilizando ?função no R, consulte o Google, o Fórum da turma e o professor, nessa ordem."
+  },
+  {
+    "objectID": "disciplinas/EST064/Estudo dirigido - matrizes fatores e listas no R.html",
+    "href": "disciplinas/EST064/Estudo dirigido - matrizes fatores e listas no R.html",
+    "title": "Estudo dirigido - matrizes fatores e listas no R",
+    "section": "",
+    "text": "Introductory Statistics with R, by Peter Dalgaard\n\nSeção 1.2.6: Matrices and arrays (página 14)\n\nSeção 1.2.7: Factors (página 16)\n\nSeção 1.2.8: Lists (página 17)\n\nAn Introduction to R, by Venables, Smith & R Core Team\n\nCapítulo 4: Ordered and unordered factors (páginas 22-23)\n\nSeção 5: Arrays and matrices (páginas 24-31, excluir 5.7.4 e 5.7.5)\n\nSeções 6.1-6.2: Lists (páginas 32-33)\n\nTutoriais online\n\nUnderstanding Factors:\nEstrutura e uso de fatores.\nDisponível em: https://swcarpentry.github.io/r-novice-inflammation/12-supp-factors/index.html\n\nR List Tutorial:\nFuncionalidades avançadas de listas no R.\nDisponível em: https://data-flair.training/blogs/r-list-tutorial/\n\n\n\nOrientações finais:\nReexecute exemplos pertinentes dos materiais, pesquise comandos novos utilizando ?função no R, consulte o Google, o Fórum da turma e o professor (ou o professor primeiro), nessa ordem."
+  },
+  {
+    "objectID": "disciplinas/EST064/Estudo dirigido - matrizes fatores e listas no R.html#leituras-sugeridas",
+    "href": "disciplinas/EST064/Estudo dirigido - matrizes fatores e listas no R.html#leituras-sugeridas",
+    "title": "Estudo dirigido - matrizes fatores e listas no R",
+    "section": "",
+    "text": "Introductory Statistics with R, by Peter Dalgaard\n\nSeção 1.2.6: Matrices and arrays (página 14)\n\nSeção 1.2.7: Factors (página 16)\n\nSeção 1.2.8: Lists (página 17)\n\nAn Introduction to R, by Venables, Smith & R Core Team\n\nCapítulo 4: Ordered and unordered factors (páginas 22-23)\n\nSeção 5: Arrays and matrices (páginas 24-31, excluir 5.7.4 e 5.7.5)\n\nSeções 6.1-6.2: Lists (páginas 32-33)\n\nTutoriais online\n\nUnderstanding Factors:\nEstrutura e uso de fatores.\nDisponível em: https://swcarpentry.github.io/r-novice-inflammation/12-supp-factors/index.html\n\nR List Tutorial:\nFuncionalidades avançadas de listas no R.\nDisponível em: https://data-flair.training/blogs/r-list-tutorial/\n\n\n\nOrientações finais:\nReexecute exemplos pertinentes dos materiais, pesquise comandos novos utilizando ?função no R, consulte o Google, o Fórum da turma e o professor (ou o professor primeiro), nessa ordem."
+  },
+  {
+    "objectID": "disciplinas/EST064/Estudo dirigido - Data frames.html",
+    "href": "disciplinas/EST064/Estudo dirigido - Data frames.html",
+    "title": "Estudo dirigido - Data frames",
+    "section": "",
+    "text": "Introductory Statistics with R, by Peter Dalgaard\nLeiam e refaçam exemplos da Seção 1.2.9: Data frames, na página 18; da Seção 1.2.10: Indexing, na página 19; da Seção 1.2.11: Conditional selection, na página 20; Seção 1.2.12: Indexing of data frames, na página 21; Seção 1.2.15: Sorting, na pág. 24 e seção 1.5: Session managment, a partir da pág. 34.\nAn Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team\nLeiam atentamente, refaçam exemplos e resumam o conteúdo da Seção 6.3: Data frames, na página 33.\nPost: “21 Data Manipulation Task For Beginners In R”\nLeiam atentamente, refaçam os exemplos e resumam o conteúdo do post que apresenta as tarefas mais importantes na manipulação de dados em data frames.\nLink: https://www.r-bloggers.com/2020/05/21-data-manipulation-task-for-beginners-in-r/\nPost: “15 Easy Solutions To Your Data Frame Problems In R”\nLeiam atentamente e façam todos os exercícios propostos no post.\nLink: https://www.datacamp.com/community/tutorials/15-easy-solutions-data-frame-problems-r\n\nObservação final:\nReexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos. Em caso de dúvidas, consulte nesta ordem: R (via help()), Google, colegas (Fórum) e professor."
+  },
+  {
+    "objectID": "disciplinas/EST064/Estudo dirigido - Data frames.html#leituras-sugeridas",
+    "href": "disciplinas/EST064/Estudo dirigido - Data frames.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Data frames",
+    "section": "",
+    "text": "Introductory Statistics with R, by Peter Dalgaard\nLeiam e refaçam exemplos da Seção 1.2.9: Data frames, na página 18; da Seção 1.2.10: Indexing, na página 19; da Seção 1.2.11: Conditional selection, na página 20; Seção 1.2.12: Indexing of data frames, na página 21; Seção 1.2.15: Sorting, na pág. 24 e seção 1.5: Session managment, a partir da pág. 34.\nAn Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team\nLeiam atentamente, refaçam exemplos e resumam o conteúdo da Seção 6.3: Data frames, na página 33.\nPost: “21 Data Manipulation Task For Beginners In R”\nLeiam atentamente, refaçam os exemplos e resumam o conteúdo do post que apresenta as tarefas mais importantes na manipulação de dados em data frames.\nLink: https://www.r-bloggers.com/2020/05/21-data-manipulation-task-for-beginners-in-r/\nPost: “15 Easy Solutions To Your Data Frame Problems In R”\nLeiam atentamente e façam todos os exercícios propostos no post.\nLink: https://www.datacamp.com/community/tutorials/15-easy-solutions-data-frame-problems-r\n\nObservação final:\nReexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos. Em caso de dúvidas, consulte nesta ordem: R (via help()), Google, colegas (Fórum) e professor."
+  },
+  {
+    "objectID": "disciplinas/EST064/Estudo dirigido - Mais sobre data frames.html",
+    "href": "disciplinas/EST064/Estudo dirigido - Mais sobre data frames.html",
+    "title": "Estudo dirigido - Mais sobre data frames",
+    "section": "",
+    "text": "Introductory Statistics with R, by Peter Dalgaard\nLeiam e refaçam exemplos da Seção 1.2.13: Subset and transform, na página 22; da Seção 1.2.14: Grouped data and data frames, na página 23; da Seção 1.2.11: Conditional selection, na página 20, Seção 1.2.16: Implicit loops, na página 26 e Seção 1.6: Data entry, na pág. 39.\nAn Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team\nLeiam atentamente, refaçam exemplos e resumam o conteúdo do Chapter 7: Reading data from files, na página 30.\nManual R Data Import/Export\nLeiam a versão mais recente do manual do R denominado R Data Import/Export e verifique todas as peculiaridades da tarefa de, principalmente, importar conjuntos de dados.\nLink: https://cran.r-project.org/doc/manuals/R-data.html\nPost: Reading Excel files in R\nLeiam o post e verifiquem como a tarefa de importar conjuntos de dados não é simples.\nLink: https://www.r-bloggers.com/2020/06/reading-excel-files-in-r/\nPost: Manipulating Data Frames in R\nLeiam atentamente, estudem os comandos apresentados e refaçam todos os exemplos do post que utiliza o conjunto de dados mtcars.\nLink: https://www.r-bloggers.com/2018/09/manipulating-data-frames-in-r/\nPosts adicionais sobre importação/exportação:\n\n\n\nReading Data From TXT|CSV Files: R Base Functions\nLink: http://www.sthda.com/english/wiki/reading-data-from-txt-csv-files-r-base-functions\n\nR Data Import/Export (PDF)\nLink: http://cran.radicaldevelop.com/doc/manuals/r-release/R-data.pdf\n\nReading and writing files\nLink: http://www.homogenisation.org/admin/docs/RWfiles.pdf\n\nThis R Data Import Tutorial Is Everything You Need\nLink: https://www.datacamp.com/community/tutorials/r-data-import-tutorial\n\nImporting Data Into R - Part Two\nLink: https://www.datacamp.com/community/tutorials/importing-data-r-part-two\n\nObservação final:\nReexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos, pergunte ao R, ao Google, aos colegas (Fórum) e para o professor, nessa ordem (ou pode ser pra mim primeiro). Tudo que você aprender agora você utilizará quando estiver trabalhando com conjuntos de dados com milhões de colunas e milhares de colunas. Os comandos serão essencialmente os mesmo, embora você vá agregar a dificuldade do tempo para importação e de se seu computador será capaz de fazê-lo."
+  },
+  {
+    "objectID": "disciplinas/EST064/Estudo dirigido - Mais sobre data frames.html#leituras-sugeridas",
+    "href": "disciplinas/EST064/Estudo dirigido - Mais sobre data frames.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Mais sobre data frames",
+    "section": "",
+    "text": "Introductory Statistics with R, by Peter Dalgaard\nLeiam e refaçam exemplos da Seção 1.2.13: Subset and transform, na página 22; da Seção 1.2.14: Grouped data and data frames, na página 23; da Seção 1.2.11: Conditional selection, na página 20, Seção 1.2.16: Implicit loops, na página 26 e Seção 1.6: Data entry, na pág. 39.\nAn Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team\nLeiam atentamente, refaçam exemplos e resumam o conteúdo do Chapter 7: Reading data from files, na página 30.\nManual R Data Import/Export\nLeiam a versão mais recente do manual do R denominado R Data Import/Export e verifique todas as peculiaridades da tarefa de, principalmente, importar conjuntos de dados.\nLink: https://cran.r-project.org/doc/manuals/R-data.html\nPost: Reading Excel files in R\nLeiam o post e verifiquem como a tarefa de importar conjuntos de dados não é simples.\nLink: https://www.r-bloggers.com/2020/06/reading-excel-files-in-r/\nPost: Manipulating Data Frames in R\nLeiam atentamente, estudem os comandos apresentados e refaçam todos os exemplos do post que utiliza o conjunto de dados mtcars.\nLink: https://www.r-bloggers.com/2018/09/manipulating-data-frames-in-r/\nPosts adicionais sobre importação/exportação:\n\n\n\nReading Data From TXT|CSV Files: R Base Functions\nLink: http://www.sthda.com/english/wiki/reading-data-from-txt-csv-files-r-base-functions\n\nR Data Import/Export (PDF)\nLink: http://cran.radicaldevelop.com/doc/manuals/r-release/R-data.pdf\n\nReading and writing files\nLink: http://www.homogenisation.org/admin/docs/RWfiles.pdf\n\nThis R Data Import Tutorial Is Everything You Need\nLink: https://www.datacamp.com/community/tutorials/r-data-import-tutorial\n\nImporting Data Into R - Part Two\nLink: https://www.datacamp.com/community/tutorials/importing-data-r-part-two\n\nObservação final:\nReexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos, pergunte ao R, ao Google, aos colegas (Fórum) e para o professor, nessa ordem (ou pode ser pra mim primeiro). Tudo que você aprender agora você utilizará quando estiver trabalhando com conjuntos de dados com milhões de colunas e milhares de colunas. Os comandos serão essencialmente os mesmo, embora você vá agregar a dificuldade do tempo para importação e de se seu computador será capaz de fazê-lo."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#introdução",
+    "href": "disciplinas/EST064/est064.html#introdução",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Introdução",
+    "text": "Introdução\nO RMarkdown permite entrelaçar códigos LaTeX e HTML com códigos R e de outras linguagens como Phyton e C++ podendo gerar textos em vários formatos: HTML, PDF e DOC. Dessa maneira, é uma ferramenta adequada para transformar suas análises estatísticas em documentos, relatórios, apresentações e até mesmo dashboards. Foi desenvolvida visando a reprodutibilidade de resultados, já que tanto código quanto narrativa estão no mesmo documento, com os resultados sendo gerados automaticamente a partir do código presente no documento."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#funcionalidades-do-r-markdown",
+    "href": "disciplinas/EST064/est064.html#funcionalidades-do-r-markdown",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Funcionalidades do R Markdown",
+    "text": "Funcionalidades do R Markdown\n\nCompilar um documento em um relatório em diferentes formatos de saída, como PDF, HTML e Word.\nProduzir slides para apresentações.\nCriar dashboards interativas, com layouts que se adaptam à tela do usuário.\nCriar relatórios interativos com Shiny.\nEscrever artigos científicos ou livros.\nCriar blogs ou sites."
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#fonte",
+    "href": "disciplinas/EST064/est064.html#fonte",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Fonte",
+    "text": "Fonte\nMódulo 5: Apresentação de dados com relatórios, de Sillas Gonzaga\nhttp://sillasgonzaga.com/material/curso_visualizacao/apresentacao-de-dados-com_relatorios.html"
+  },
+  {
+    "objectID": "disciplinas/EST064/est064.html#referências",
+    "href": "disciplinas/EST064/est064.html#referências",
+    "title": "EST064 - LABORATÓRIO DE ESTATÍSTICA",
+    "section": "Referências",
+    "text": "Referências\n\nCheatsheet do R Markdown\nGuia de referência do R Markdown\nSite do R Markdown\nXIE, Y.; ALLAIRE, J. J.; GROLEMUND, G. R Markdown: The definitive guide. New York: Chapman and Hall, 2018.\nhttps://bookdown.org/yihui/rmarkdown/"
   }
 ]

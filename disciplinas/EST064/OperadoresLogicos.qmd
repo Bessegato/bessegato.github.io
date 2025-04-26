@@ -1,0 +1,41 @@
+---
+title: "Operadores Lógicos"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+## Leituras sugeridas
+
+1. **LANDEIRO, Victor Lemes. Introdução ao uso do programa R.**  
+   Manaus: Instituto Nacional de Pesquisas da Amazônia, 2011.  
+   **Páginas 29/50 e 30/50 (26-27 original):**  
+   Comandos de lógica: Opções para manipular conjunto de dados.  
+   Disponível em: <https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf>
+
+2. **Introductory Statistics with R, by Peter Dalgaard**  
+   - **Seção 1.1.3:** Vectorized arithmetic (página 4)  
+   - **Seção 1.2.3:** Vectors (página 12)  
+   - **Seção 1.2.4:** Missing values (página 13)  
+   - **Seção 1.2.5:** Functions that create vectors (página 13)
+
+3. **R - Operators (resumo)**  
+   Tipos de operadores: aritméticos, relacionais, lógicos, de atribuição e diversos.  
+   Disponível em: <https://www.tutorialspoint.com/r/r_operators.htm>
+
+4. **R operators (post)**  
+   Exemplos práticos de operadores e suas aplicações.  
+   Disponível em: <https://r-coder.com/operators-r/>
+
+5. **Logical Operators in R (post)**  
+   Comandos lógicos e estruturas de controle com exemplos.  
+   Disponível em: <https://www.tutorialgateway.org/logical-operators-in-r/>
+
+---
+
+**Orientações finais:**  
+Reexecute exemplos pertinentes dos materiais, pesquise comandos novos utilizando `?função` no R, consulte o Google, o Fórum da turma e o professor, nessa ordem.
+
+# Voltar a disciplina
+
+[Voltar](../EST064/est064.html)
