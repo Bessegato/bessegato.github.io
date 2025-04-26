@@ -14,6 +14,8 @@ Plano de curso e informações sobre horários e acessos da disciplina no semest
 
 Algoritmos para geração de números pseudo-aleatórios e avaliação de sua qualidade.
 
+Live de 25/05/21, com uma discussão sobre a geração de números aleatórios a partir da distribuição uniforme. [A geração de números aleatórios](https://drive.google.com/file/d/1eWW0CpSGLwI4YRx-RPmQq1ra4RU9zBWy/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
 ## Geração de números pseudoaleatórios.
 
 Métodos para geração de números e vetores aleatórios
@@ -26,9 +28,19 @@ Geração de sequência de números aleatórios a partir da distribuição unifo
 
 [Estudo dirigido - Uso do método da inversa](../EST066/Estudo%20dirigido%20-%20Uso%20do%20método%20da%20inversa.html){target="_blank" rel="noopener noreferrer"}.
 
-Recuperando brevemente Cálculo de Probabilidades, apresentam-se algumas transformações importantes entre variáveis aleatórias. A ideia de eficiência dos algoritmos é sugerida e propõe-se seu estudo.
 
-[Transformação de Variáveis aleatórias](../EST066/03_geracao_transformacao.html){target="_blank" rel="noopener noreferrer"}.
+[A geração de números aleatórios de uma triangular](https://drive.google.com/file/d/1caJNTtT73ilLzfHtIdyyi3iA0bc4-xpU/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+Live de 27/05/21, com uma discussão sobre a geração de números aleatórios de uma distribuição triangular a partir da distribuição uniforme.
+
+
+Whiteboard das anotações efetuadas no decorrer da apresentação do dia 27/05/21.
+[Whiteboard - aula de 27/05/21](../EST066/Whiteboard[1]-01.png){target="_blank" rel="noopener noreferrer"}.
+
+Live de 01/06/21, com uma discussão sobre alguns métodos numéricos para determinação numérica de quantis, estruturada como equação (método Newton-Raphson e comando uniroot()) ou como um problema de otimização (comando optimize()).
+[Resolvendo numericamente a função quantílica](https://drive.google.com/file/d/1_BuluqlGGNuRZS_OkLjy8okCCoAHR2IS/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+
+Recuperando brevemente Cálculo de Probabilidades, apresentam-se algumas transformações importantes entre variáveis aleatórias. A ideia de eficiência dos algoritmos é sugerida e propõe-se seu estudo. [Transformação de Variáveis aleatórias](../EST066/03_geracao_transformacao.html){target="_blank" rel="noopener noreferrer"}.
 
 Uso de transformações de variáveis aleatórias para construir geradores de número aleatórios
 
