@@ -130,8 +130,24 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#metodologia." id="toc-metodologia." class="nav-link active" data-scroll-target="#metodologia.">Metodologia.</a></li>
+  <li><a href="#introdução-à-estatística-multivariada" id="toc-introdução-à-estatística-multivariada" class="nav-link" data-scroll-target="#introdução-à-estatística-multivariada">Introdução à estatística multivariada</a></li>
+  <li><a href="#álgebra-matricial-e-vetores-aleatórios" id="toc-álgebra-matricial-e-vetores-aleatórios" class="nav-link" data-scroll-target="#álgebra-matricial-e-vetores-aleatórios">Álgebra matricial e vetores aleatórios</a></li>
+  <li><a href="#visualização-de-dados-multivariados" id="toc-visualização-de-dados-multivariados" class="nav-link" data-scroll-target="#visualização-de-dados-multivariados">Visualização de dados multivariados</a></li>
+  <li><a href="#distribuição-normal-multivariada" id="toc-distribuição-normal-multivariada" class="nav-link" data-scroll-target="#distribuição-normal-multivariada">Distribuição normal multivariada</a></li>
+  <li><a href="#análise-de-componentes-principais" id="toc-análise-de-componentes-principais" class="nav-link" data-scroll-target="#análise-de-componentes-principais">Análise de componentes principais</a></li>
+  <li><a href="#análise-fatorial" id="toc-análise-fatorial" class="nav-link" data-scroll-target="#análise-fatorial">Análise fatorial</a></li>
+  <li><a href="#análise-de-agrupamentos" id="toc-análise-de-agrupamentos" class="nav-link" data-scroll-target="#análise-de-agrupamentos">Análise de agrupamentos</a></li>
+  <li><a href="#discriminação-e-classificação" id="toc-discriminação-e-classificação" class="nav-link" data-scroll-target="#discriminação-e-classificação">Discriminação e classificação</a></li>
+  <li><a href="#biblioteca." id="toc-biblioteca." class="nav-link" data-scroll-target="#biblioteca.">Biblioteca.</a></li>
+  <li><a href="#atividades." id="toc-atividades." class="nav-link" data-scroll-target="#atividades.">Atividades.</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -161,8 +177,108 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="metodologia." class="level2">
+<h2 class="anchored" data-anchor-id="metodologia.">Metodologia.</h2>
+<p>Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7962" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
+</section>
+<section id="introdução-à-estatística-multivariada" class="level2">
+<h2 class="anchored" data-anchor-id="introdução-à-estatística-multivariada">Introdução à estatística multivariada</h2>
+<p>Introdução às técnicas estatísticas de exploração e sintetização de dados multivariados.</p>
+<p><a href="../EST073/01_introducao_173.pdf" target="_blank" rel="noopener noreferrer">Introdução à Estatística Multivariada</a>.</p>
+</section>
+<section id="álgebra-matricial-e-vetores-aleatórios" class="level2">
+<h2 class="anchored" data-anchor-id="álgebra-matricial-e-vetores-aleatórios">Álgebra matricial e vetores aleatórios</h2>
+<p>Introdução aos conceitos básicos de álgebra matricial e vetores aleatórios, compreendendo interpretações geométricas e desenvolvimento algébrico de técnicas estatísticas subsequentes.</p>
+</section>
+<section id="visualização-de-dados-multivariados" class="level2">
+<h2 class="anchored" data-anchor-id="visualização-de-dados-multivariados">Visualização de dados multivariados</h2>
+<p><a href="../EST073/00_visualizacao_2022-1.pdf" target="_blank" rel="noopener noreferrer">Slides - Visualização multivariada</a>.</p>
+<p>Construção de diagramas de dispersão e de suas combinações com outros tipos de dados e que ampliam as possibilidades de aplicação. os comandos para construção de diagramas de dispersão. <a href="../EST073/01_visualizacao_bivariada.html" target="_blank" rel="noopener noreferrer">Visualização de Dados Bivariados</a>.</p>
+<p>Construção de matrizes ou tabelas de diagramas de dispersão e de suas combinações e de correlogramas, que são gráficos da matriz de correlações. Ele é bastante útil para destacar as variáveis mais correlacionadas no conjunto de dados. Esses tipos de gráficos ampliam as possibilidades de exploração de dados que é fundamental na aplicação.de muitas técnicas multivariadas. <a href="../EST073/00_visualizacao_correlograma.html" target="_blank" rel="noopener noreferrer">Scatterplot Matrix &amp; Correlograma</a>.</p>
+<p>Material muito bom sobre visualização de dados. Discorre sobre tipos de gráficos, paletes de cores amigáveis a daltônicos, etc. Apresenta todos os códigos usando os pacotes ggplot2, para os gráficos e o dplyr, para manipular e reformatar os dados. Tem um roteiro muito bom de uma palestra com o título do post. Vale a penas conferir! <a href="https://www.r-bloggers.com/2020/10/the-good-the-bad-and-the-ugly-how-not-to-visualize-data/" target="_blank" rel="noopener noreferrer">The Good, the Bad and the Ugly: how (not) to visualize data</a>.</p>
+</section>
+<section id="distribuição-normal-multivariada" class="level2">
+<h2 class="anchored" data-anchor-id="distribuição-normal-multivariada">Distribuição normal multivariada</h2>
+<p>A distribuição normal multivariada é o modelo subjacente da maioria dos métodos multivariados que estudaremos. Sua importância deve-se a seu papel como modelo populacional para certos fenômenos naturais e como aproximação da distribuição amostral de muitas estatísticas.</p>
+<p><a href="../EST073/04_normalidade.pdf" target="_blank" rel="noopener noreferrer">Slides - Distribuição normal multivariada</a>.</p>
+<p><a href="../EST073/241_At-03X_normal_multivariada.pdf" target="_blank" rel="noopener noreferrer">Exercícios de Normalidade Multivariada</a>. - Esses exercícios não precisam ser entregues. - Não hesite em procurar o Fórum de Dúvidas do Moodle, caso tenha alguma dúvida com relação à solução da presente lista de exercícios. Caso não resolva, agende atendimento com o professor. Acostume-se a interagir para obter sugestões de solução de suas dúvidas.</p>
+</section>
+<section id="análise-de-componentes-principais" class="level2">
+<h2 class="anchored" data-anchor-id="análise-de-componentes-principais">Análise de componentes principais</h2>
+<p>Apresentação e detalhamento de técnica de análise de estrutura de covariâncias dos dados por meio de combinações lineares das variáveis, com objetivos gerais de redução de dimensionalidade dos dados e interpretação</p>
+<p><a href="../EST073/05_componentes_2016.pdf">Slides - Análise de componentes principais</a>){target=“_blank” rel=“noopener noreferrer”}.</p>
+<p>Análise de componentes principais da estrutura de covariâncias do conjunto de dados iris.</p>
+<ul>
+<li>Adota-se a abordagem matricial em todos os cálculos efetuados.</li>
+<li>Apresentados alguns novos objetos e operações que auxiliam no entendimento do funcionamento da técnica e na análise.</li>
+<li>Esses conceitos serão utilizados amplamente em Análise Fatorial.</li>
+</ul>
+<p><a href="../EST073/02_Componentes_Principais-comandos.html" target="_blank" rel="noopener noreferrer">Análise de Componentes Principais - Cálculo Matricial</a>.</p>
+<p>Análise de componentes principais da estrutura de covariâncias de conjunto de dados de pesquisa de percepção de marca.</p>
+<ul>
+<li>Conjunto de dados: rintro-chapter8.csv.</li>
+<li>Fonte: CHAPMAN, C.; FEIT, E. M. R for marketing research and analytics. Chaim, SWT: Springer, 2015.
+<ul>
+<li>Sec. 8.1: Consumer brand rating data, pg. 195.</li>
+<li>Sec. 8.2: Principal componente analysis and perceptual maps, pg. 200.</li>
+</ul></li>
+</ul>
+<p><a href="../EST073/05.4_pca_air-pollution.pdf" target="_blank" rel="noopener noreferrer">Análise de Componentes Principais - Poluição do Ar</a>.</p>
+<p>===========================================================================</p>
+<p>Vídeoaulas - Semestre 2020/1 (ERE)</p>
+<p><a href="https://drive.google.com/file/d/11wiZWRTC8sr8E_zSeht-MEr7c7JkcRij/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Componentes Principais (1)</a>.</p>
+<p><a href="https://drive.google.com/file/d/1hSzsX1GqxXo0Aj9Cgjf4tUoc6Ur3jGMb/view" target="_blank" rel="noopener noreferrer">Vídeo-aula: Componentes Principais (2)</a>.</p>
+<p><a href="https://drive.google.com/file/d/1WFCLT7m7040Tlb1vATAvhpq33PCSne4n/view" target="_blank" rel="noopener noreferrer">Vídeo-aula: Componentes Principais (3)</a>.</p>
+<p><a href="https://drive.google.com/file/d/1ypSQ_WFMyb5UrnjiLVqkKikqWeZQTQnB/view" target="_blank" rel="noopener noreferrer">Vídeo-aula: Componentes Principais (4a)</a>.</p>
+<p>Live de 15/10/2020, 1a. parte, com apresentação das propriedades assintóticas dos componentes principais da matriz de covariâncias e da matriz de correlações. Componentes principais para matrizes com estruturas especiais. Duração: 18:34</p>
+<p><a href="https://drive.google.com/file/d/1UF6FqC8v9EzJaafqOOZC2EBhb5yDtXZx/view" target="_blank" rel="noopener noreferrer">Vídeo-aula: Componentes Principais (4b)</a>. Live de 15/10/2020, 2a. parte, com apresentação de análise de componentes principais do conjunto de dados iris e de aplicação da técnica na construção de mapas de percepção no contexto de marketing.</p>
+</section>
+<section id="análise-fatorial" class="level2">
+<h2 class="anchored" data-anchor-id="análise-fatorial">Análise fatorial</h2>
+<p>Apresentação e detalhamento de outra técnica de análise de estrutura de covariâncias dos dados com base em um modelo subjacente conhecido como modelo de fator comum, que sustenta que a variância observada em cada medida pode ser atribuída a um pequeno número de fatores comuns.</p>
+<p><a href="../EST073/06_fatorial.pdf" target="_blank" rel="noopener noreferrer">Slides - Análise fatorial</a>.</p>
+<p><a href="../EST073/06_fatorial_handout-aplicacao.pdf" target="_blank" rel="noopener noreferrer">Análise Fatorial - Aplicação</a>.</p>
+<p>===========================================================================</p>
+<p>Vídeoaulas - Semestre 2020/1 (ERE)</p>
+<p><a href="https://drive.google.com/file/d/1A9Ka4VOVwj06ggDC0ZR-FCV1-BkKUAwo/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Análise fatorial (1)</a>. Live de 20/10/2020, com apresentação sobre Fundamentos do modelo fatorial ortogonal. Estimação da matriz de loadings pelo método das componentes principais. Duração: 1:27:09.</p>
+<p><a href="https://drive.google.com/file/d/1P0z9-2DyfzIkFHJOXjOLB1vydS-DKGJi/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Análise fatorial (2)</a>. Live de 22/10/2020, com apresentação sobre a estimação da matriz de loadings pelo método da máxima verossimilhança e sobre a rotação ortogonal.Duração: 1:49:20.</p>
+<p><a href="https://drive.google.com/file/d/1NbRpdW9oPnWpNJEyWA296juU9dHRq2Rw/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Análise fatorial (3)</a>. Live de 27/10/2020, com apresentação sobre a determinação da quantidade de fatores. Validação do modelo fatorial ortogonal e a condução de análise fatorial, no contexto aplicado. Duração: 1:49:31.</p>
+</section>
+<section id="análise-de-agrupamentos" class="level2">
+<h2 class="anchored" data-anchor-id="análise-de-agrupamentos">Análise de agrupamentos</h2>
+<p>Métodos numéricos com o objetivo comum de identificar grupos de observações que são homogêneas entre si e separadas de outros grupos. Essas técnicas tentam essencialmente formalizar aquilo que o ser humano observa bem em duas ou três dimensões.</p>
+<p><a href="../EST073/07_clustering_2022.pdf" target="_blank" rel="noopener noreferrer">Slides - Análise de agrupamentos</a>.</p>
+<p>===========================================================================</p>
+<p>Vídeoaulas - Semestre 2020/1 (ERE)</p>
+<p><a href="https://drive.google.com/file/d/13Ga4Qy0GZ5Z1o-1MAqAWvHI5cnoSJkEx/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Clustering (1)</a>. Live de 29/10/2020, com apresentação sobre Introdução a agrupamentos. Medidas de distância e de similaridade. Duração: 1:28:26</p>
+<p><a href="https://drive.google.com/file/d/1-GEkcDgEc5jzLRf0rdk9TTtqfdoFwfKW/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Clustering (2)</a>. Live de 03/11/2020, com apresentação sobre métodos de agrupamento hierárquicos. Duração: 1:39:11</p>
+<p><a href="https://drive.google.com/file/d/1OzKO7JcpwQViEBOPE3shDK4fiZx8_oxK/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Clustering (2)</a>. Live de 05/11/2020, com apresentação sobre métodos de agrupamento não hierárquicos. Escolha da quantidade de grupos. Duração: 2:01:36</p>
+</section>
+<section id="discriminação-e-classificação" class="level2">
+<h2 class="anchored" data-anchor-id="discriminação-e-classificação">Discriminação e classificação</h2>
+<p>Discriminação e classificação são técnicas multivariadas relativas à separação de conjuntos distintos conjuntos de objetos e com a alocação de novos objetos a grupos previamente definidos.</p>
+<p>Introdução</p>
+<p>Seção 11.1 - RESUMIR + GREEN</p>
+<p>Fonte:</p>
+<p>JOHNSON, R. A.; WICHERN, D. W. Applied multivariate statistical analysis. 6th. edition.Upper Saddle River, NJ: Pearson Prentice Hall, 2007.</p>
+<p><a href="../EST073/09_discriminacao_2022.pdf" target="_blank" rel="noopener noreferrer">Slides - Discriminação e classificação</a>.</p>
+<p><a href="../EST073/02_evaluation_2024_handout.pdf" target="_blank" rel="noopener noreferrer">Slides - Medição de Desempenho e Comparação de Modelos</a>. Medidas de desempenho e comparação de modelos de predição para respostas categóricas</p>
+<p>===========================================================================</p>
+<p>Vídeoaulas - Semestre 2020/1 (ERE)</p>
+<p><a href="https://drive.google.com/file/d/1FH4slRHGVW0ADJzMax5nmFli7cYjEl8d/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Classificação (1)</a>. Live de 10/11/2020, com apresentação sobre classificação e discriminação; análise discriminante; caso de classificação de duas populações normais. Duração: 1:11:28</p>
+<p><a href="https://drive.google.com/file/d/1Rm6AXVWu-ndvW7DjMY7p3q9mTJiZ20W4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Classificação (2)</a>. Live de 12/11/2020, com apresentação sobre função discriminante de Fisher; mistura de populações normais. Duração: 1:07:04</p>
+<p><a href="https://drive.google.com/file/d/1UnWQrIYTJggRJRTcdUXPVHX2MdmzGEw8/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Classificação (3)</a>. Live de 17/11/2020, com apresentação sobre caso de classificação de g populações normais multivariadas. Duração: 0:29:33</p>
+</section>
+<section id="biblioteca." class="level2">
+<h2 class="anchored" data-anchor-id="biblioteca.">Biblioteca.</h2>
+<p>Material suplementar de apoio da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7962" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
+</section>
+<section id="atividades." class="level2">
+<h2 class="anchored" data-anchor-id="atividades.">Atividades.</h2>
+<p>Atividades avaliativas da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7962" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

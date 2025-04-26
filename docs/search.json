@@ -523,5 +523,89 @@
     "title": "Estudo dirigido - Probabilidade",
     "section": "",
     "text": "Leituras sugeridas:\n\nIntroductory Statistics with R, by Peter Dalgaard. Leiam e refaçam exemplos do Chapter 2: Probability and distributions, a partir da página 45.\nAn Introduction to R: Notes on R, a programming environment for data analysis and graphics, by W. N. Venables, D. M. Smith, and the R Core Team. Leiam atentamente, refaçam exemplos e resumam conteúdo do Section 8.1: R as a set of statistical tables, na página 39/105; Section 8.2: Examining the distribution of a set of data, a partir da página 40/105.\nVerifiquem atentamente o help de cada comando novo que encontrarem. No caso de gráficos, sempre trabalhem com a documentação do comando par() aberta, basta teclarem help(par).\nImportante: construir gráficos costuma ser trabalhoso em qualquer software. Não tentem queimar etapas ou procurar caminhos mais fáceis. Vocês têm de entender a estrutura com que os gráficos são construídos no R Base para conseguir, no futuro, resolver qualquer problema na construção de gráficos.\nSó pra lembrar: construam todos os gráficos em R Base. Não utilizem funções gráficas de NENHUM pacote!\n\nReexecutem exemplos pertinentes do material, pesquisem e conheçam mais sobre os novos comandos, pergunte ao R, ao Google, aos colegas (Fórum) e para o professor, nessa ordem (ou pode ser pra mim primeiro). Tudo que você aprender agora você utilizará quando estiver trabalhando com conjuntos de dados com milhões de colunas e milhares de colunas. Os comandos serão essencialmente os mesmos, embora você vá agregar a dificuldade do tempo para importação e de se seu computador será capaz de fazê-lo.\n\nVoltar a disciplina\nVoltar"
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html",
+    "href": "disciplinas/EST073/est073.html",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "",
+    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no Moodle da Disciplina."
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#metodologia.",
+    "href": "disciplinas/EST073/est073.html#metodologia.",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "",
+    "text": "Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no Moodle da Disciplina."
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#introdução-à-estatística-multivariada",
+    "href": "disciplinas/EST073/est073.html#introdução-à-estatística-multivariada",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Introdução à estatística multivariada",
+    "text": "Introdução à estatística multivariada\nIntrodução às técnicas estatísticas de exploração e sintetização de dados multivariados.\nIntrodução à Estatística Multivariada."
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#álgebra-matricial-e-vetores-aleatórios",
+    "href": "disciplinas/EST073/est073.html#álgebra-matricial-e-vetores-aleatórios",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Álgebra matricial e vetores aleatórios",
+    "text": "Álgebra matricial e vetores aleatórios\nIntrodução aos conceitos básicos de álgebra matricial e vetores aleatórios, compreendendo interpretações geométricas e desenvolvimento algébrico de técnicas estatísticas subsequentes."
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#visualização-de-dados-multivariados",
+    "href": "disciplinas/EST073/est073.html#visualização-de-dados-multivariados",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Visualização de dados multivariados",
+    "text": "Visualização de dados multivariados\nSlides - Visualização multivariada.\nConstrução de diagramas de dispersão e de suas combinações com outros tipos de dados e que ampliam as possibilidades de aplicação. os comandos para construção de diagramas de dispersão. Visualização de Dados Bivariados.\nConstrução de matrizes ou tabelas de diagramas de dispersão e de suas combinações e de correlogramas, que são gráficos da matriz de correlações. Ele é bastante útil para destacar as variáveis mais correlacionadas no conjunto de dados. Esses tipos de gráficos ampliam as possibilidades de exploração de dados que é fundamental na aplicação.de muitas técnicas multivariadas. Scatterplot Matrix & Correlograma.\nMaterial muito bom sobre visualização de dados. Discorre sobre tipos de gráficos, paletes de cores amigáveis a daltônicos, etc. Apresenta todos os códigos usando os pacotes ggplot2, para os gráficos e o dplyr, para manipular e reformatar os dados. Tem um roteiro muito bom de uma palestra com o título do post. Vale a penas conferir! The Good, the Bad and the Ugly: how (not) to visualize data."
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#distribuição-normal-multivariada",
+    "href": "disciplinas/EST073/est073.html#distribuição-normal-multivariada",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Distribuição normal multivariada",
+    "text": "Distribuição normal multivariada\nA distribuição normal multivariada é o modelo subjacente da maioria dos métodos multivariados que estudaremos. Sua importância deve-se a seu papel como modelo populacional para certos fenômenos naturais e como aproximação da distribuição amostral de muitas estatísticas.\nSlides - Distribuição normal multivariada.\nExercícios de Normalidade Multivariada. - Esses exercícios não precisam ser entregues. - Não hesite em procurar o Fórum de Dúvidas do Moodle, caso tenha alguma dúvida com relação à solução da presente lista de exercícios. Caso não resolva, agende atendimento com o professor. Acostume-se a interagir para obter sugestões de solução de suas dúvidas."
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#análise-de-componentes-principais",
+    "href": "disciplinas/EST073/est073.html#análise-de-componentes-principais",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Análise de componentes principais",
+    "text": "Análise de componentes principais\nApresentação e detalhamento de técnica de análise de estrutura de covariâncias dos dados por meio de combinações lineares das variáveis, com objetivos gerais de redução de dimensionalidade dos dados e interpretação\nSlides - Análise de componentes principais){target=“_blank” rel=“noopener noreferrer”}.\nAnálise de componentes principais da estrutura de covariâncias do conjunto de dados iris.\n\nAdota-se a abordagem matricial em todos os cálculos efetuados.\nApresentados alguns novos objetos e operações que auxiliam no entendimento do funcionamento da técnica e na análise.\nEsses conceitos serão utilizados amplamente em Análise Fatorial.\n\nAnálise de Componentes Principais - Cálculo Matricial.\nAnálise de componentes principais da estrutura de covariâncias de conjunto de dados de pesquisa de percepção de marca.\n\nConjunto de dados: rintro-chapter8.csv.\nFonte: CHAPMAN, C.; FEIT, E. M. R for marketing research and analytics. Chaim, SWT: Springer, 2015.\n\nSec. 8.1: Consumer brand rating data, pg. 195.\nSec. 8.2: Principal componente analysis and perceptual maps, pg. 200.\n\n\nAnálise de Componentes Principais - Poluição do Ar.\n===========================================================================\nVídeoaulas - Semestre 2020/1 (ERE)\nVídeo-aula: Componentes Principais (1).\nVídeo-aula: Componentes Principais (2).\nVídeo-aula: Componentes Principais (3).\nVídeo-aula: Componentes Principais (4a).\nLive de 15/10/2020, 1a. parte, com apresentação das propriedades assintóticas dos componentes principais da matriz de covariâncias e da matriz de correlações. Componentes principais para matrizes com estruturas especiais. Duração: 18:34\nVídeo-aula: Componentes Principais (4b). Live de 15/10/2020, 2a. parte, com apresentação de análise de componentes principais do conjunto de dados iris e de aplicação da técnica na construção de mapas de percepção no contexto de marketing."
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#análise-fatorial",
+    "href": "disciplinas/EST073/est073.html#análise-fatorial",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Análise fatorial",
+    "text": "Análise fatorial\nApresentação e detalhamento de outra técnica de análise de estrutura de covariâncias dos dados com base em um modelo subjacente conhecido como modelo de fator comum, que sustenta que a variância observada em cada medida pode ser atribuída a um pequeno número de fatores comuns.\nSlides - Análise fatorial.\nAnálise Fatorial - Aplicação.\n===========================================================================\nVídeoaulas - Semestre 2020/1 (ERE)\nVídeo-aula: Análise fatorial (1). Live de 20/10/2020, com apresentação sobre Fundamentos do modelo fatorial ortogonal. Estimação da matriz de loadings pelo método das componentes principais. Duração: 1:27:09.\nVídeo-aula: Análise fatorial (2). Live de 22/10/2020, com apresentação sobre a estimação da matriz de loadings pelo método da máxima verossimilhança e sobre a rotação ortogonal.Duração: 1:49:20.\nVídeo-aula: Análise fatorial (3). Live de 27/10/2020, com apresentação sobre a determinação da quantidade de fatores. Validação do modelo fatorial ortogonal e a condução de análise fatorial, no contexto aplicado. Duração: 1:49:31."
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#análise-de-agrupamentos",
+    "href": "disciplinas/EST073/est073.html#análise-de-agrupamentos",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Análise de agrupamentos",
+    "text": "Análise de agrupamentos\nMétodos numéricos com o objetivo comum de identificar grupos de observações que são homogêneas entre si e separadas de outros grupos. Essas técnicas tentam essencialmente formalizar aquilo que o ser humano observa bem em duas ou três dimensões.\nSlides - Análise de agrupamentos.\n===========================================================================\nVídeoaulas - Semestre 2020/1 (ERE)\nVídeo-aula: Clustering (1). Live de 29/10/2020, com apresentação sobre Introdução a agrupamentos. Medidas de distância e de similaridade. Duração: 1:28:26\nVídeo-aula: Clustering (2). Live de 03/11/2020, com apresentação sobre métodos de agrupamento hierárquicos. Duração: 1:39:11\nVídeo-aula: Clustering (2). Live de 05/11/2020, com apresentação sobre métodos de agrupamento não hierárquicos. Escolha da quantidade de grupos. Duração: 2:01:36"
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#discriminação-e-classificação",
+    "href": "disciplinas/EST073/est073.html#discriminação-e-classificação",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Discriminação e classificação",
+    "text": "Discriminação e classificação\nDiscriminação e classificação são técnicas multivariadas relativas à separação de conjuntos distintos conjuntos de objetos e com a alocação de novos objetos a grupos previamente definidos.\nIntrodução\nSeção 11.1 - RESUMIR + GREEN\nFonte:\nJOHNSON, R. A.; WICHERN, D. W. Applied multivariate statistical analysis. 6th. edition.Upper Saddle River, NJ: Pearson Prentice Hall, 2007.\nSlides - Discriminação e classificação.\nSlides - Medição de Desempenho e Comparação de Modelos. Medidas de desempenho e comparação de modelos de predição para respostas categóricas\n===========================================================================\nVídeoaulas - Semestre 2020/1 (ERE)\nVídeo-aula: Classificação (1). Live de 10/11/2020, com apresentação sobre classificação e discriminação; análise discriminante; caso de classificação de duas populações normais. Duração: 1:11:28\nVídeo-aula: Classificação (2). Live de 12/11/2020, com apresentação sobre função discriminante de Fisher; mistura de populações normais. Duração: 1:07:04\nVídeo-aula: Classificação (3). Live de 17/11/2020, com apresentação sobre caso de classificação de g populações normais multivariadas. Duração: 0:29:33"
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#biblioteca.",
+    "href": "disciplinas/EST073/est073.html#biblioteca.",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Biblioteca.",
+    "text": "Biblioteca.\nMaterial suplementar de apoio da disciplina do semestre 2025.1 está no Moodle da Disciplina."
+  },
+  {
+    "objectID": "disciplinas/EST073/est073.html#atividades.",
+    "href": "disciplinas/EST073/est073.html#atividades.",
+    "title": "EST073 - ANÁLISE MULTIVARIADA",
+    "section": "Atividades.",
+    "text": "Atividades.\nAtividades avaliativas da disciplina do semestre 2025.1 está no Moodle da Disciplina."
   }
 ]
