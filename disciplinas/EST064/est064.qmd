@@ -5,10 +5,10 @@ format: html
 author: Prof. Lupércio França Bessegato
 toc: true
 ---
+
 ## Metodologia.
 
 Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7959){target="_blank" rel="noopener noreferrer"}.
-
 
 ## Introdução à linguagem R.
 
@@ -16,29 +16,23 @@ Fundamentos da linguagem estatística R e da interface gráfica RStudio
 
 Slides apresentados em sala. [Slides - Introdução à Linguagem R](../EST064/01.1_introducao_fundamentos.pdf){target="_blank" rel="noopener noreferrer"}.
 
+[Interessando-se pela linguagem R](../EST064/Interessando-se%20pela%20linguagem%20R.html){target="_blank" rel="noopener noreferrer"}.
 
-[Interessando-se pela linguagem R](../EST064/Interessando-se pela linguagem R.html){target="_blank" rel="noopener noreferrer"}.
+Dicas do post:"Top Tips for Learning R from Africa R’s Shelmith Kariuki", do [R Bloggers](https://tinyurl.com/y6zw5blb){target="_blank" rel="noopener noreferrer"}.
 
-Dicas do post:"Top Tips for Learning R from Africa R’s Shelmith Kariuki", do [R Bloggers](https://tinyurl.com/y6zw5blb)
-
-Este é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem).
-[Ajuda no R](../EST064/Ajuda no R.html){target="_blank" rel="noopener noreferrer"}.
+Este é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem). [Ajuda no R](../EST064/Ajuda%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
 
 Sugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos
 
-[Uma revisão de fundamentos da linguagem R](../EST064/Uma revisão de fundamentos da linguagem R.html){target="_blank" rel="noopener noreferrer"}.
+[Uma revisão de fundamentos da linguagem R](../EST064/Uma%20revisão%20de%20fundamentos%20da%20linguagem%20R.html){target="_blank" rel="noopener noreferrer"}.
 
-Alguns comandos e exercícios desse contato inicial com a linguagem R. 
-[Uso inicial do R (1)](../EST064/Uso inicial do R (1).html){target="_blank" rel="noopener noreferrer"}.
-
+Alguns comandos e exercícios desse contato inicial com a linguagem R. [Uso inicial do R (1)](../EST064/Uso%20inicial%20do%20R%20(1).html){target="_blank" rel="noopener noreferrer"}.
 
 Live apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, com apresentação de: uso inicial do R: tipo de dados, ajuda no R, operações aritméticas. [Live: Uso inicial do R (ERE)](https://drive.google.com/file/d/1qm59WYfAFXgJ8UB_MCX-kZgraGN0VjLD/view?usp=sharing)
 
-
 ## Tipos e classes de dados em R.
+
 Categorias baseadas em características compartilhadas pelos dados.
-
-
 
 ## Estruturas de dados em R.
 
@@ -46,11 +40,11 @@ Categorias baseadas em características compartilhadas pelos dados.
 
 [Trabalhando com vetores](../EST064/01.2_introducao_vetores.pdf){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - Vetores no R](../EST064/Estudo dirigido - Vetores no R.html){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Vetores no R](../EST064/Estudo%20dirigido%20-%20Vetores%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
 
-Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. [Live: Manipulação e operação com vetores (ERE)](https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing)
+Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. [Live: Manipulação e operação com vetores (ERE)](https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. [Live: Vetorização (ERE)](https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing)
+Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. [Live: Vetorização (ERE)](https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 [Operadores básicos](../EST064/00_operadores_basicos.html){target="_blank" rel="noopener noreferrer"}.
 
@@ -58,34 +52,31 @@ Leituras e estudos recomendados sobre operadores lógicos e funções relacionad
 
 [Operadores básicos](../EST064/OperadoresLogicos.html){target="_blank" rel="noopener noreferrer"}.
 
-Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. [Live: Operadores Lógicos](https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing)
-
+Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. [Live: Operadores Lógicos](https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 [Trabalhando com matrizes, fatores e listas](../EST064/01.3_introducao_matfatlis.pdf){target="_blank" rel="noopener noreferrer"}.
 
+[Estudo dirigido - matrizes fatores e listas no R](../EST064/Estudo%20dirigido%20-%20matrizes%20fatores%20e%20listas%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - matrizes fatores e listas no R](../EST064/Estudo dirigido - matrizes fatores e listas no R.html){target="_blank" rel="noopener noreferrer"}.
-
-Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. [Matrizes em R](https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing)
+Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. [Matrizes em R](https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 Slides sobre data frames em R. [Trabalhando com data frames](../EST064/01.4_introducao_data-frames.pdf){target="_blank" rel="noopener noreferrer"}.
 
- - Repetir cuidadosamente cada exemplo em um script.
- 
- - se errar, descubra o erro, repita e deixe no script apenas os comandos corretos.
- 
- - Organize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.
- 
- - Para documentar, inicie a linha com #. O R não irá executar a partir deste caractere
- 
- - Não se restrinja a esse material. Estude o material indicado e faça a atividade proposta!
+-   Repetir cuidadosamente cada exemplo em um script.
 
-[Estudo dirigido - Data frames](../EST064/Estudo dirigido - Data frames.html){target="_blank" rel="noopener noreferrer"}.
+-   se errar, descubra o erro, repita e deixe no script apenas os comandos corretos.
+
+-   Organize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.
+
+-   Para documentar, inicie a linha com #. O R não irá executar a partir deste caractere
+
+-   Não se restrinja a esse material. Estude o material indicado e faça a atividade proposta!
+
+[Estudo dirigido - Data frames](../EST064/Estudo%20dirigido%20-%20Data%20frames.html){target="_blank" rel="noopener noreferrer"}.
 
 [Importação e exportação de data frames](../EST064/01.5_import.pdf){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - Mais sobre data frames](../EST064/Estudo dirigido - Mais sobre data frames.html){target="_blank" rel="noopener noreferrer"}.
-
+[Estudo dirigido - Mais sobre data frames](../EST064/Estudo%20dirigido%20-%20Mais%20sobre%20data%20frames.html){target="_blank" rel="noopener noreferrer"}.
 
 ## Organização, colaboração e reprodução.
 
@@ -95,54 +86,49 @@ O RMarkdown permite entrelaçar códigos LaTeX e HTML com códigos R e de outras
 
 ### Funcionalidades do R Markdown
 
-- Compilar um documento em um relatório em diferentes formatos de saída, como PDF, HTML e Word.
-- Produzir slides para apresentações.
-- Criar dashboards interativas, com layouts que se adaptam à tela do usuário.
-- Criar relatórios interativos com Shiny.
-- Escrever artigos científicos ou livros.
-- Criar blogs ou sites.
+-   Compilar um documento em um relatório em diferentes formatos de saída, como PDF, HTML e Word.
+-   Produzir slides para apresentações.
+-   Criar dashboards interativas, com layouts que se adaptam à tela do usuário.
+-   Criar relatórios interativos com Shiny.
+-   Escrever artigos científicos ou livros.
+-   Criar blogs ou sites.
 
 ### Fonte
 
-Módulo 5: Apresentação de dados com relatórios, de Sillas Gonzaga  
+Módulo 5: Apresentação de dados com relatórios, de Sillas Gonzaga\
 <http://sillasgonzaga.com/material/curso_visualizacao/apresentacao-de-dados-com_relatorios.html>
 
 ### Referências
 
-- Cheatsheet do R Markdown
-- Guia de referência do R Markdown
-- Site do R Markdown
-- XIE, Y.; ALLAIRE, J. J.; GROLEMUND, G. R Markdown: The definitive guide. New York: Chapman and Hall, 2018.  
-  <https://bookdown.org/yihui/rmarkdown/>
+-   Cheatsheet do R Markdown
+-   Guia de referência do R Markdown
+-   Site do R Markdown
+-   XIE, Y.; ALLAIRE, J. J.; GROLEMUND, G. R Markdown: The definitive guide. New York: Chapman and Hall, 2018.\
+    <https://bookdown.org/yihui/rmarkdown/>
 
-[The LaTeX ProjectURL](https://www.latex-project.org/)
+[The LaTeX ProjectURL](https://www.latex-project.org/){target="_blank" rel="noopener noreferrer"}.
 
 [LaTeX](../EST064/Aula3.pdf){target="_blank" rel="noopener noreferrer"} – A document preparation system.
 
 [Guia de edição/Fórmulas TeX (Wikipedia)](https://pt.wikipedia.org/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/F%C3%B3rmulas_TeX)
 
-Sistema de tipografia [TeX](https://pt.wikipedia.org/wiki/TeX), para representar fórmulas matemáticas.
+Sistema de tipografia [TeX](https://pt.wikipedia.org/wiki/TeX){target="_blank" rel="noopener noreferrer"}., para representar fórmulas matemáticas.
 
-[Gerador de Tabelas em Markdown](https://www.tablesgenerator.com/markdown_tables)
-It's a online generator which will allow you to generate [LaTeX](../EST064/Aula3.pdf){target="_blank" rel="noopener noreferrer"} code you can just copy & paste into your document's source.
+[Gerador de Tabelas em Markdown](https://www.tablesgenerator.com/markdown_tables){target="_blank" rel="noopener noreferrer"}. It's a online generator which will allow you to generate [LaTeX](../EST064/Aula3.pdf){target="_blank" rel="noopener noreferrer"} code you can just copy & paste into your document's source.
 
+[Tabelas em HTML](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html){target="_blank" rel="noopener noreferrer"}.
 
-[Tabelas em HTML](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
+Create Awesome HTML Table with `knitr::kable` and `kableExtra`, por Hao Zhu The goal of kableExtra is to help you build common complex tables and manipulate table styles. It imports the pipe %\>% symbol from magrittr and verbalize all the functions, so basically you can add “layers” to a kable output in a way that is similar with ggplot2 and plotly
 
-Create Awesome HTML Table with `knitr::kable` and `kableExtra`, por Hao Zhu
-The goal of kableExtra is to help you build common complex tables and manipulate table styles. It imports the pipe %>% symbol from
-magrittr and verbalize all the functions, so basically you can add “layers” to a kable output in a way that is similar with ggplot2 and
-plotly
-
-[Estudo dirigido - R Markdown](../EST064/Estudo dirigido - R Markdown.html){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - R Markdown](../EST064/Estudo%20dirigido%20-%20R%20Markdown.html){target="_blank" rel="noopener noreferrer"}.
 
 Anotações de aula sobre LaTeX, do minicurso "Elaboração de Relatórios Técnicos e Páginas Web Usando R Markdown", ministrado por Calvin Silva Rodrigues. [LaTeX](../EST064/Aula3.pdf){target="_blank" rel="noopener noreferrer"}
 
-Arquivos extensão .Rmd e sua compilação em .html, desenvolvidos na aula de 15/05/2023. [Arquivos da aula de 15/05/2023](../EST064/Arquivos da aula de 15052023-20250426.zip){target="_blank" rel="noopener noreferrer"}
+Arquivos extensão .Rmd e sua compilação em .html, desenvolvidos na aula de 15/05/2023. [Arquivos da aula de 15/05/2023](../EST064/Arquivos%20da%20aula%20de%2015052023-20250426.zip){target="_blank" rel="noopener noreferrer"}
 
-[R Markdown - aula do dia 21/10/2020](https://www.youtube.com/watch?v=tKUufzpoHDE)
+[R Markdown - aula do dia 21/10/2020](https://www.youtube.com/watch?v=tKUufzpoHDE){target="_blank" rel="noopener noreferrer"}.
 
-Arquivos extensão .Rmd e sua compilação em .html [Arquivos da aula de 21/10/2020](../EST064/Arquivos da aula de 21102020-20250426.zip){target="_blank" rel="noopener noreferrer"}
+Arquivos extensão .Rmd e sua compilação em .html [Arquivos da aula de 21/10/2020](../EST064/Arquivos%20da%20aula%20de%2021102020-20250426.zip){target="_blank" rel="noopener noreferrer"}
 
 ===========================================================================
 
@@ -154,41 +140,37 @@ Ministrante: Calvin Rodrigues
 
 Playlist das videoaulas, slides das apresentações e material de apoio
 
-[Minicurso: Elaboração de Relatórios Técnicos e Paginas Web Usando R Markdown](https://sites.google.com/ice.ufjf.br/encontroscomaestatistica/mincursos/minicurso-elabora%C3%A7%C3%A3o-de-relat%C3%B3rios-t%C3%A9cnicos-e-paginas-web-usando-r-markdow?authuser=0)
+[Minicurso: Elaboração de Relatórios Técnicos e Paginas Web Usando R Markdown](https://sites.google.com/ice.ufjf.br/encontroscomaestatistica/mincursos/minicurso-elabora%C3%A7%C3%A3o-de-relat%C3%B3rios-t%C3%A9cnicos-e-paginas-web-usando-r-markdow?authuser=0){target="_blank" rel="noopener noreferrer"}.
 
-[Apresentações do minicurso](../EST064/Apresentação minicurso.pdf){target="_blank" rel="noopener noreferrer"}.
+[Apresentações do minicurso](../EST064/Apresentação%20minicurso.pdf){target="_blank" rel="noopener noreferrer"}.
 
-Introdução ao RStudio e ao R Markdown: 
+Introdução ao RStudio e ao R Markdown:
 
 Comandos básicos [Videoaula 1 - Introdução](https://youtu.be/XkCWL0DU_8A){target="_blank" rel="noopener noreferrer"}.
 
-Gabarito da aula 1 (arquivos Rmd e pdf)
-[Aula 1 - Material de apoio](../EST064/Aula 1 - Material de apoio-20250426.zip){target="_blank" rel="noopener noreferrer"}.
+Gabarito da aula 1 (arquivos Rmd e pdf) [Aula 1 - Material de apoio](../EST064/Aula%201%20-%20Material%20de%20apoio-20250426.zip){target="_blank" rel="noopener noreferrer"}.
 
 Relatórios Técnicos: Introdução, estrutura, formatação e referências bibliográficas
 
-[Parte  I: Introdução aos relatórios técnicos](https://youtu.be/eTH4w-hhcZY){target="_blank" rel="noopener noreferrer"}.
+[Parte I: Introdução aos relatórios técnicos](https://youtu.be/eTH4w-hhcZY){target="_blank" rel="noopener noreferrer"}.
 
 [Parte II: Estrutura, formatação e referências bibliográficas](https://youtu.be/6hYBG9RZBUE){target="_blank" rel="noopener noreferrer"}.
 
 Gabarito da aula 2 (arquivos Rmd, html e pdf)
 
-[Aula 2 - Material de apoio](../EST064/Aula 2 - Material de apoio-20250426.zip){target="_blank" rel="noopener noreferrer"}.
+[Aula 2 - Material de apoio](../EST064/Aula%202%20-%20Material%20de%20apoio-20250426.zip){target="_blank" rel="noopener noreferrer"}.
 
-Introdução ao LaTeX
-LaTeX é um sistema ou programa de marcação para a editoração de documentos de alta qualidades tipográfica específico para a elaboração de textos científicos.
+Introdução ao LaTeX LaTeX é um sistema ou programa de marcação para a editoração de documentos de alta qualidades tipográfica específico para a elaboração de textos científicos.
 
 [Videoaula 3 - LaTeX](https://youtu.be/2-tIKlCzdxM){target="_blank" rel="noopener noreferrer"}.
 
-[Aula 3 - Material de apoio](../EST064/Aula 3 - Material de apoio-20250426.zip){target="_blank" rel="noopener noreferrer"}.
+[Aula 3 - Material de apoio](../EST064/Aula%203%20-%20Material%20de%20apoio-20250426.zip){target="_blank" rel="noopener noreferrer"}.
 
 Introdução à construção de dashboards usando o R Markdown.
 
-Introdução à construção de dashboards:
-Dashboard é um painel visual que contém informações, métricas e indicadores de uma situação qualquer (por exemplo, uma empresa ou projeto). Ela tem as seguintes funcionalidades: apresentar indicadores e métricas de forma objetiva e clara; embasar a tomada de decisão; acompanhar o desempenho da situação (por exemplo, empresa ou projeto); facilitar o monitoramento de dados.
+Introdução à construção de dashboards: Dashboard é um painel visual que contém informações, métricas e indicadores de uma situação qualquer (por exemplo, uma empresa ou projeto). Ela tem as seguintes funcionalidades: apresentar indicadores e métricas de forma objetiva e clara; embasar a tomada de decisão; acompanhar o desempenho da situação (por exemplo, empresa ou projeto); facilitar o monitoramento de dados.
 
 [Videoaula 4 - Dashboards](https://youtu.be/B5yl880J94k){target="_blank" rel="noopener noreferrer"}.
-
 
 Construção de páginas web com o R Markdown:
 
@@ -198,23 +180,19 @@ Dashboard postada no RPubs, criada por Calvin Rodrigues
 
 [Exemplo de dashboard](https://rpubs.com/calvinRod/aula4){target="_blank" rel="noopener noreferrer"}.
 
-
 ## Visualização e descrição de dados em R.
 
 Introdução à visualização e descrição de dados em R base.
 
 [Slides - Visualização e descrição de dados](../EST064/02.1_visualizacao-e-descricaopdf.pdf){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - Visualização gráfica e descrição de dados](../EST064/Estudo dirigido - Visualização gráfica e descrição de dados.html){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Visualização gráfica e descrição de dados](../EST064/Estudo%20dirigido%20-%20Visualização%20gráfica%20e%20descrição%20de%20dados.html){target="_blank" rel="noopener noreferrer"}.
 
-
-[Estudo dirigido - Sistema gráfico do R Base](../EST064/Estudo dirigido - Sistema gráfico do R Base.html){target="_blank" rel="noopener noreferrer"}.
-
+[Estudo dirigido - Sistema gráfico do R Base](../EST064/Estudo%20dirigido%20-%20Sistema%20gráfico%20do%20R%20Base.html){target="_blank" rel="noopener noreferrer"}.
 
 A função plot() é uma função genérica em R, o que significa que seu comportamento pode mudar dependendo de quais tipos de dados de entrada são utilizados como argumento para a função. Em geral é usada para desenhar diagramas de dispersão, tendo com entrada os vetores com as coordenadas dos pontos. É essencial que comprendam o funcionamento da construção de gráficos no R BASE.
 
 [Função plot()](../EST064/02_Funcao_plot.html){target="_blank" rel="noopener noreferrer"}.
-
 
 ## Probabilidade de eventos
 
@@ -224,8 +202,7 @@ Anotações de aula sobre probabilidades de eventos e distribuições de probabi
 
 [Probabilidade](../EST064/03_probabilidade.html){target="_blank" rel="noopener noreferrer"}.
 
-
-[Estudo dirigido - Probabilidade](../EST064/Estudo dirigido - Probabilidade.html){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Probabilidade](../EST064/Estudo%20dirigido%20-%20Probabilidade.html){target="_blank" rel="noopener noreferrer"}.
 
 Estude atentamente estas anotações e, caso deseje, execute a atividade suplementar indicada ao final do estudo dirigido. Ela é OPCIONAL.
 
