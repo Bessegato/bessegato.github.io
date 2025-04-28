@@ -46,6 +46,15 @@ Uso de transformações de variáveis aleatórias para construir geradores de n�
 
 [Estudo dirigido - Transformação de variáveis aleatórias](../EST066/Estudo%20dirigido%20-%20Transformação%20de%20variáveis%20aleatórias.html){target="_blank" rel="noopener noreferrer"}.
 
+Live de 08/06/21, com uma discussão sobre transformação de variáveis aleatórias e algumas relações relevantes.
+[Transformação de variáveis aleatórias](https://drive.google.com/file/d/1CsOz7bi5K6PGLVgZuqA-eGDc__qukPFP/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+
+Live de 15/06/21, com uma discussão sobre simulação de média de amostras aleatórias, para observação empírica do Teorema Central do Limite. Duração: 56:19. [Transformação de Box-Muller](https://drive.google.com/file/d/1tRPJMFRZqk5rZ6dl64sN8GE3vtjhLBsU/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+
+Live de 10/06/21, com uma discussão sobre transformação de Box-Muller e sua importância na geração de normais padrão independentes.Duração: 48:25. [Transformação de Box-Muller](https://drive.google.com/file/d/1Wkd_pf-MomQaOix3Q22by5VilIcxEidn/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
 O método da Aceitação/Rejeição é um ferramenta poderosa na geração de números aleatórios, principalmente quando o método da inversa ou as transformações de variáveis aleatórias não podem ser facilmente aplicados
 
 [Método da Aceitação/Rejeição](../EST066/04_geracao_rejeicao.html){target="_blank" rel="noopener noreferrer"}.
@@ -54,25 +63,40 @@ Uso do método da aceitação/rejeição para construir geradores de número ale
 
 [Estudo dirigido - Método da Aceitação/Rejeição](../EST066/Estudo%20dirigido%20-%20Método%20da%20Aceitação_Rejeição.html){target="_blank" rel="noopener noreferrer"}.
 
-Métodos para a geração de vetores aleatórios normais multivariados a partir de sequência de variáveis aleatórias padrão independentes.
+Live de 17/06/21, com apresentação dos fundamentos do Método da Rejeição na geração de números aleatórios e exemplo de uso do método na geração de números aleatórios de uma beta.Duração: 42:16. [Método da Rejeição](https://drive.google.com/file/d/1dDT5S-qYwujDTyVubpG7qH8rSR7psMcs/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-[Geração de normal bivariada](../EST066/04_geracao_bivariada.html){target="_blank" rel="noopener noreferrer"}.
 
-Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.
+Live de 29/06/21, com apresentação de rotina para geração de números aleatórios de uma normal padrão (e qualquer normal) pelo método aceitação/rejeição. A rotina deve ser aprimorada para a construção de um algoritmo para o gerador desejado. O código já está disponível.Duração: 57:34.[Geração de normal padrão pelo Método da Rejeição](https://drive.google.com/file/d/1OM95YrUkX8kwFBcHBx_Cb81WcLNdo9rC/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - Normal bivariada & mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Normal%20bivariada%20e%20mistura%20de%20distribuições.html){target="_blank" rel="noopener noreferrer"}.
+Métodos para a geração de vetores aleatórios normais multivariados a partir de sequência de variáveis aleatórias padrão independentes. [Geração de normal bivariada](../EST066/04_geracao_bivariada.html){target="_blank" rel="noopener noreferrer"}.
 
-Geração de números aleatórios de misturas de distribuições.
+Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições. [Estudo dirigido - Normal bivariada & mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Normal%20bivariada%20e%20mistura%20de%20distribuições.html){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - Mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Mistura%20de%20distribuicoes.html){target="_blank" rel="noopener noreferrer"}.
 
-Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas.
+Live de 08/07/21, com apresentação da fundamentação teórica para geração de vetores aleatórios normais bivariados e normais p-variados.Duração: 45:10. [Geração de vetores aleatórios normais bivariados e p-variados](https://drive.google.com/file/d/18FGDFtDt1UBkhM9bIZukpmYMLSPF6dFX/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-[Variáveis aleatórias discretas](../EST066/02.5_geracao_discretas.html){target="_blank" rel="noopener noreferrer"}.
+Live de 13/07/21, com apresentação de script com geração de vetores aleatórios normais bivariados e trivariados.Duração: 41:33. [Geração de vetores aleatórios normais bivariados](https://drive.google.com/file/d/1dWhTZWjgWSbR2pdluxbzcDWUusomRDmu/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.
 
-[Estudo dirigido - Variáveis Aleatórias Discretas](../EST066/Estudo%20dirigido%20-%20Variaveis%20Aleatorias%20Discretas.html){target="_blank" rel="noopener noreferrer"}.
+Geração de números aleatórios de misturas de distribuições. [Estudo dirigido - Mistura de distribuições](../EST066/Estudo dirigido - Mistura de distribuições.html){target="_blank" rel="noopener noreferrer"}.
+
+
+Live de 20/07/21, com apresentação de script com modelos de mistura de distribuições normais e gamas e um exemplo de estimação com o conjunto de dados faithful.Duração: 1:17:48.[Modelos de mistura de distribuições](https://drive.google.com/file/d/1FXbnl5u8_YrbyVSorc0Mi9Z5sMsVrB5t/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+
+Aula de dúvidas turma 2020-1, sobre dúvidas e esclarecimentos sobre normal multivariada e mistura de normais.Duração: 41:56. [Aula sobre dúvidas - 28/10/2020](https://drive.google.com/file/d/1i9DcVe8ay4FruA3ayr6WdBiqXRMAv46-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+
+Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas. Geração de números aleatórios de misturas de distribuições. [Estudo dirigido - Mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Mistura%20de%20distribuicoes.html){target="_blank" rel="noopener noreferrer"}.
+
+Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas.[Variáveis aleatórias discretas](../EST066/02.5_geracao_discretas.html){target="_blank" rel="noopener noreferrer"}.
+
+Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições. [Estudo dirigido - Variáveis Aleatórias Discretas](../EST066/Estudo%20dirigido%20-%20Variaveis%20Aleatorias%20Discretas.html){target="_blank" rel="noopener noreferrer"}.
+
+Live de 06/07/21, com apresentação da fundamentação teórica do método da rejeição e de rotina para geração de números aleatórios de uma variável aleatória discreta por meio desse método. A rotina deve ser aprimorada para a construção de um algoritmo para o gerador desejado. Há uma interrupção do compartilhamento do R entre os instantes 23:29 e 28:11. É possível acompanhar o som com o código que já se encontra disponível.Duração: 42:45.
+
+[Geração de números aleatórios discretos pelo Método da Rejeição](https://drive.google.com/file/d/1drPRjlbGNCISWz9EE4SSrahh8Gv5KZrc/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
 
 ## Integração Monte Carlo
 
