@@ -1,0 +1,25 @@
+---
+title: "Estudo dirigido - Integração Monte Carlo"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+## Objetivo
+
+Compreender o uso do método de Monte Carlo para estimar integrais definidas. Estudar as propriedades dos estimadores apresentados.
+
+## Leituras sugeridas
+
+- ROBERT, P. C.; CASELLA, G. *Introducing Monte Carlo methods with R*. Springer: 2010.
+- ROSS, S. M. *Simulation*. 5th Ed. London, UK: Academic Press, 2006.
+
+## Estudo e desenvolvimento
+
+1. Reveja atentamente a Seção 3.2: *Using Random Numbers to Evaluate Integrals* do Ross (2012).
+2. Leia atentamente as Seções 3.1 *Introduction* e 3.2 *Classical Monte Carlo Integration* de Robert e Casella (2010).
+3. Leia atentamente o post ["Double integral, Monte Carlo estimation"](https://tinyurl.com/y2pzwf93) e verifique se ele pode auxiliar você na elaboração da solução de integrais duplas propostas.
+
+# Voltar a disciplina
+
+[Voltar](../EST066/est066.html)

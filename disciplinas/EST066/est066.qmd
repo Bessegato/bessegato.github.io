@@ -102,17 +102,62 @@ Live de 06/07/21, com apresentação da fundamentação teórica do método da r
 
 Métodos de integração Monte Carlo, uni e multidimensional
 
+Notas de aula sobre estimação de integrais definidas pelo método Monte Carlo.
+[Integração Monte Carlos](../EST066/01_Integracao_Monte_Carlo.html){target="_blank" rel="noopener noreferrer"}.
+
+Estimação de integrais definidas pelo método de Monte Carlo. [Estudo dirigido - Integração Monte Carlo](../EST066/Estudo dirigido - Integração Monte Carlo.html){target="_blank" rel="noopener noreferrer"}.
+
+Live de 27/07/21, com apresentação de script sobre estimação pelo Método Monte Carlo de integrais no intervalo (0, 1).Duração: 43:57.[Integração Monte Carlo](https://drive.google.com/file/d/15LE9D1V7Hhr4UO-ihDf5IVQyVFlf9HzK/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Live de 29/07/21, com apresentação de script sobre estimação pelo Método Monte Carlo de integrais nos intervalos (a, b) e (0, \infty).Duração: 54:04. [Integral Monte Carlo - Transformação](https://drive.google.com/file/d/13vjXDEK93967fQrag-07v9ieGfZVGQvY/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Live de 05/08/21, com apresentação de script e material sobre generalização da integração de Monte Carlo e considerações sobre a qualidade das estimativas.Duração: 51:05. [Integral Monte Carlo - Generalização](https://drive.google.com/file/d/1euYa1HX0jPWHM8pyCBlbNHEC6ucKZoga/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Live de 10/08/21, com apresentação de material sobre integração de Monte Carlo de funções multidimensionais.Duração: 35:32.[Integral Monte Carlo - Integrais multidimensionais](https://drive.google.com/file/d/1sOOwtdSMAMMrDyNd_WVenQTjkULBd_mW/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. 
+
+Live de 10/08/21, com apresentação de material sobre integração de Monte Carlo de funções multidimensionais.Duração: 35:32.[Integral Monte Carlo - Integrais multidimensionais](https://drive.google.com/file/d/1dM3cZE9sbausoV3ZMVNlfvULfXhhAJBj/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+
 ## Simulação Monte Carlo
 
 Simulação de processo de Poisson homogêneo, não homogêneo e cadeias de Markov. Bootstrap paramétrico.
+
+Algumas propriedades probabilísticas e algoritmos envolvendo processos de Poisson e cadeias de Markov...
+[Simulação de processos estocásticos](../EST066/05.1_processos.html){target="_blank" rel="noopener noreferrer"}.
+
+Geração de realizações de processos de Poisson e cadeias de Markov.
+[Estudo dirigido - Cadeias de Markov e processo de Poisson](../EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html){target="_blank" rel="noopener noreferrer"}.
+
+[Cadeias de Markov - Exemplos de aplicação na indústria](../EST066/Cadeias de Markov - Exemplos de aplicação na indústria.pdf){target="_blank" rel="noopener noreferrer"}.
+
+Geração de realizações de processos de Poisson homogêneo e não homogêneo e simulação de eventos discretos.
+[Processos estocásticos - Alguns problemas e implementações](../EST066/Processos estocásticos - Alguns problemas e implementações.pdf){target="_blank" rel="noopener noreferrer"}.
+
+Simulações para estimação de parâmetros e intervalos de confiança.
+[Bootstrap paramétrico](../EST066/06_distribuicao_amostral.html){target="_blank" rel="noopener noreferrer"}.
+
+Live de 12/08/21, com apresentação de material sobre simulação de processo de Poisson e de cadeias de Markov..Duração: 44:36.[Simulação de Processos Estocásticos](https://drive.google.com/file/d/1C4e6BmISkAPYSEsSYwLE2R5WkOGcg6vL/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
 
 ## Reamostragem
 
 Reamostragem boostrap, validação cruzada e jackknife
 
+Slides sobre reamostragem para estimação de intervalos de confiança de estatísticas amostrais e coeficientes de regressão. [Reamostragem](../EST066/ERE_08_reamostragem.pdf){target="_blank" rel="noopener noreferrer"}.
+
+Uso de bootstrap não paramétrico para estimação de estatísticas amostrais e intervalos de confiança de parâmetros populacionais. [Estudo dirigido - Bootstrap](../EST066/Estudo dirigido - Bootstrap.pdf){target="_blank" rel="noopener noreferrer"}.
+
+
 ## Otimização
 
 Métodos e algoritmos de otimização em R
+
+Introdução à otimização com o R, apresentando uma introdução aos métodos modernos de otimização e a função optim(). [Otimização](../EST066/09_otimizacao.html){target="_blank" rel="noopener noreferrer"}.
+
+Live de 02/09/21, com apresentação da introdução à otimização.Duração: 33:19.[Otimização](https://drive.google.com/file/d/1IM7B-sa4pRoPXswThnXdMTMcfbPurmnA/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Live de 14/09/21, com apresentação do uso da função optim() em otimização. Duração: 1:02:49.[Função optim()](https://drive.google.com/file/d/1JeeLEVfzklGyKRR5Y-8g-I12fP6jzYzO/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
 
 ## Suavização
 

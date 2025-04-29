@@ -1,0 +1,28 @@
+---
+title: "Estudo dirigido - Cadeias de Markov e processo de Poisson"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+
+## Objetivo
+
+Compreender as propriedades associadas aos processos de Poisson e cadeias de Markov para construir códigos na linguagem R que gerem realizações dos mesmos. Continuar usando, basicamente, sequências de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando `runif()` em R.
+
+## Leituras sugeridas
+
+- ROSS, S. M. *Probabilidade: um curso moderno com aplicações*. Bookman: 2009.
+- ROSS, S. M. *Simulation*. 5th Ed. London, UK: Academic Press, 2006.
+
+## Estudo e desenvolvimento
+
+1. Reveja as relações entre as variáveis aleatórias de Poisson e exponencial; variável aleatória associada à soma de variáveis aleatórias exponenciais independentes; relação entre variáveis tempos de chegada gamas, condicionado à quantidade de chegadas.
+2. Leia e estude atentamente a Seção 9.1 - *O processo de Poisson*, a Seção 9.2 - *Cadeias de Markov* e o exemplo 3c - *Simulando uma variável aleatória de Poisson*, em ROSS (2009).
+3. Pergunta de interesse:  
+   Como gerar valores de um processo de Poisson não homogêneo?
+   
+# Voltar a disciplina
+
+[Voltar](../EST066/est066.html)
+

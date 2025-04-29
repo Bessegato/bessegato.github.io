@@ -249,28 +249,28 @@
     "href": "disciplinas/EST066/est066.html#integração-monte-carlo",
     "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
     "section": "Integração Monte Carlo",
-    "text": "Integração Monte Carlo\nMétodos de integração Monte Carlo, uni e multidimensional"
+    "text": "Integração Monte Carlo\nMétodos de integração Monte Carlo, uni e multidimensional\nNotas de aula sobre estimação de integrais definidas pelo método Monte Carlo. Integração Monte Carlos.\nEstimação de integrais definidas pelo método de Monte Carlo. Estudo dirigido - Integração Monte Carlo.\nLive de 27/07/21, com apresentação de script sobre estimação pelo Método Monte Carlo de integrais no intervalo (0, 1).Duração: 43:57.Integração Monte Carlo.\nLive de 29/07/21, com apresentação de script sobre estimação pelo Método Monte Carlo de integrais nos intervalos (a, b) e (0, ).Duração: 54:04. Integral Monte Carlo - Transformação.\nLive de 05/08/21, com apresentação de script e material sobre generalização da integração de Monte Carlo e considerações sobre a qualidade das estimativas.Duração: 51:05. Integral Monte Carlo - Generalização.\nLive de 10/08/21, com apresentação de material sobre integração de Monte Carlo de funções multidimensionais.Duração: 35:32.Integral Monte Carlo - Integrais multidimensionais.\nLive de 10/08/21, com apresentação de material sobre integração de Monte Carlo de funções multidimensionais.Duração: 35:32.Integral Monte Carlo - Integrais multidimensionais."
   },
   {
     "objectID": "disciplinas/EST066/est066.html#simulação-monte-carlo",
     "href": "disciplinas/EST066/est066.html#simulação-monte-carlo",
     "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
     "section": "Simulação Monte Carlo",
-    "text": "Simulação Monte Carlo\nSimulação de processo de Poisson homogêneo, não homogêneo e cadeias de Markov. Bootstrap paramétrico."
+    "text": "Simulação Monte Carlo\nSimulação de processo de Poisson homogêneo, não homogêneo e cadeias de Markov. Bootstrap paramétrico.\nAlgumas propriedades probabilísticas e algoritmos envolvendo processos de Poisson e cadeias de Markov… Simulação de processos estocásticos.\nGeração de realizações de processos de Poisson e cadeias de Markov. Estudo dirigido - Cadeias de Markov e processo de Poisson.\nCadeias de Markov - Exemplos de aplicação na indústria.\nGeração de realizações de processos de Poisson homogêneo e não homogêneo e simulação de eventos discretos. Processos estocásticos - Alguns problemas e implementações.\nSimulações para estimação de parâmetros e intervalos de confiança. Bootstrap paramétrico.\nLive de 12/08/21, com apresentação de material sobre simulação de processo de Poisson e de cadeias de Markov..Duração: 44:36.Simulação de Processos Estocásticos."
   },
   {
     "objectID": "disciplinas/EST066/est066.html#reamostragem",
     "href": "disciplinas/EST066/est066.html#reamostragem",
     "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
     "section": "Reamostragem",
-    "text": "Reamostragem\nReamostragem boostrap, validação cruzada e jackknife"
+    "text": "Reamostragem\nReamostragem boostrap, validação cruzada e jackknife\nSlides sobre reamostragem para estimação de intervalos de confiança de estatísticas amostrais e coeficientes de regressão. Reamostragem.\nUso de bootstrap não paramétrico para estimação de estatísticas amostrais e intervalos de confiança de parâmetros populacionais. Estudo dirigido - Bootstrap."
   },
   {
     "objectID": "disciplinas/EST066/est066.html#otimização",
     "href": "disciplinas/EST066/est066.html#otimização",
     "title": "EST066 - ESTATÍSTICA COMPUTACIONAL II",
     "section": "Otimização",
-    "text": "Otimização\nMétodos e algoritmos de otimização em R"
+    "text": "Otimização\nMétodos e algoritmos de otimização em R\nIntrodução à otimização com o R, apresentando uma introdução aos métodos modernos de otimização e a função optim(). Otimização.\nLive de 02/09/21, com apresentação da introdução à otimização.Duração: 33:19.Otimização.\nLive de 14/09/21, com apresentação do uso da função optim() em otimização. Duração: 1:02:49.Função optim()."
   },
   {
     "objectID": "disciplinas/EST066/est066.html#suavização",
@@ -614,5 +614,61 @@
     "title": "Estudo dirigido - Mistura de distribuições",
     "section": "",
     "text": "Objetivo:\nConstruir códigos na linguagem R para gerar número aleatórios de misturas de distribuições. Continuar usando, basicamente, sequência de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R.\nLeituras sugeridas:\nROBERT, P. C.; CASELLA, G. Introducing Monte Carlo methods with R. Springer: 2010.\nROSS, S. M. Simulation. 5th. Ed. London, UK: Academic Press, 2006.\nEstudo e desenvolvimento:\n1. Leia a Seção 2.2.3 Mixture representations de ROBERT e CASELLA (2010) e acompanhe seu exemplo.\n2. Leia a Seção 4.5 The Composition Approach de ROSS (2006) e implemente o algoritmo apresentado no exemplo 4g.\n3. Leia e resolva o Exercício 7 (The Composition Method), pág. 92/315 de ROSS (2006). Implemente algoritmo para construir gerador de número de uma mistura de populações normais com médias 0 e 2 e desvio padrão 1. Considere mesmo peso para as duas populações. Verifique o que acontece quando esses pesos vão são desequlibrados em favor de uma das populações.\n4. Implemente o proposto no post “Generating data from a truncated distribution” e estude seus resultados.\nhttps://www.r-bloggers.com/2020/08/generating-data-from-a-truncated-distribution/\n5. Pergunta de interesse:\nComo gerar valores de um processos estocástico, com o, por exemplo de um processo de Poisson ou de uma cadeia de Markov.\n\nVoltar a disciplina\nVoltar"
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Integração Monte Carlo.html",
+    "href": "disciplinas/EST066/Estudo dirigido - Integração Monte Carlo.html",
+    "title": "Estudo dirigido - Integração Monte Carlo",
+    "section": "",
+    "text": "Compreender o uso do método de Monte Carlo para estimar integrais definidas. Estudar as propriedades dos estimadores apresentados."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Integração Monte Carlo.html#objetivo",
+    "href": "disciplinas/EST066/Estudo dirigido - Integração Monte Carlo.html#objetivo",
+    "title": "Estudo dirigido - Integração Monte Carlo",
+    "section": "",
+    "text": "Compreender o uso do método de Monte Carlo para estimar integrais definidas. Estudar as propriedades dos estimadores apresentados."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Integração Monte Carlo.html#leituras-sugeridas",
+    "href": "disciplinas/EST066/Estudo dirigido - Integração Monte Carlo.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Integração Monte Carlo",
+    "section": "Leituras sugeridas",
+    "text": "Leituras sugeridas\n\nROBERT, P. C.; CASELLA, G. Introducing Monte Carlo methods with R. Springer: 2010.\nROSS, S. M. Simulation. 5th Ed. London, UK: Academic Press, 2006."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido - Integração Monte Carlo.html#estudo-e-desenvolvimento",
+    "href": "disciplinas/EST066/Estudo dirigido - Integração Monte Carlo.html#estudo-e-desenvolvimento",
+    "title": "Estudo dirigido - Integração Monte Carlo",
+    "section": "Estudo e desenvolvimento",
+    "text": "Estudo e desenvolvimento\n\nReveja atentamente a Seção 3.2: Using Random Numbers to Evaluate Integrals do Ross (2012).\nLeia atentamente as Seções 3.1 Introduction e 3.2 Classical Monte Carlo Integration de Robert e Casella (2010).\nLeia atentamente o post “Double integral, Monte Carlo estimation” e verifique se ele pode auxiliar você na elaboração da solução de integrais duplas propostas."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html",
+    "href": "disciplinas/EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html",
+    "title": "Estudo dirigido - Cadeias de Markov e processo de Poisson",
+    "section": "",
+    "text": "Compreender as propriedades associadas aos processos de Poisson e cadeias de Markov para construir códigos na linguagem R que gerem realizações dos mesmos. Continuar usando, basicamente, sequências de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html#objetivo",
+    "href": "disciplinas/EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html#objetivo",
+    "title": "Estudo dirigido - Cadeias de Markov e processo de Poisson",
+    "section": "",
+    "text": "Compreender as propriedades associadas aos processos de Poisson e cadeias de Markov para construir códigos na linguagem R que gerem realizações dos mesmos. Continuar usando, basicamente, sequências de números aleatórios uniformemente distribuídos entre 0 e 1, ou seja, usando apenas o comando runif() em R."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html#leituras-sugeridas",
+    "href": "disciplinas/EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html#leituras-sugeridas",
+    "title": "Estudo dirigido - Cadeias de Markov e processo de Poisson",
+    "section": "Leituras sugeridas",
+    "text": "Leituras sugeridas\n\nROSS, S. M. Probabilidade: um curso moderno com aplicações. Bookman: 2009.\nROSS, S. M. Simulation. 5th Ed. London, UK: Academic Press, 2006."
+  },
+  {
+    "objectID": "disciplinas/EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html#estudo-e-desenvolvimento",
+    "href": "disciplinas/EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html#estudo-e-desenvolvimento",
+    "title": "Estudo dirigido - Cadeias de Markov e processo de Poisson",
+    "section": "Estudo e desenvolvimento",
+    "text": "Estudo e desenvolvimento\n\nReveja as relações entre as variáveis aleatórias de Poisson e exponencial; variável aleatória associada à soma de variáveis aleatórias exponenciais independentes; relação entre variáveis tempos de chegada gamas, condicionado à quantidade de chegadas.\nLeia e estude atentamente a Seção 9.1 - O processo de Poisson, a Seção 9.2 - Cadeias de Markov e o exemplo 3c - Simulando uma variável aleatória de Poisson, em ROSS (2009).\nPergunta de interesse:\nComo gerar valores de um processo de Poisson não homogêneo?"
   }
 ]
