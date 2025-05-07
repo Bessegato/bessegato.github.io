@@ -1,4 +1,22 @@
 ---
 title: "Alunos"
+lang: pt
 format: html
+author: Prof. Lupércio França Bessegato
+toc: true
 ---
+## Iniciação Ciêntifica
+
+## Extensão
+
+## Outros
+
+## Orientações
+
+### TCC
+
+### Monografia
+
+### Dissertação
+
+### Tese

@@ -670,5 +670,33 @@
     "title": "Estudo dirigido - Cadeias de Markov e processo de Poisson",
     "section": "Estudo e desenvolvimento",
     "text": "Estudo e desenvolvimento\n\nReveja as relações entre as variáveis aleatórias de Poisson e exponencial; variável aleatória associada à soma de variáveis aleatórias exponenciais independentes; relação entre variáveis tempos de chegada gamas, condicionado à quantidade de chegadas.\nLeia e estude atentamente a Seção 9.1 - O processo de Poisson, a Seção 9.2 - Cadeias de Markov e o exemplo 3c - Simulando uma variável aleatória de Poisson, em ROSS (2009).\nPergunta de interesse:\nComo gerar valores de um processo de Poisson não homogêneo?"
+  },
+  {
+    "objectID": "alunos.html#extensão",
+    "href": "alunos.html#extensão",
+    "title": "Alunos",
+    "section": "Extensão",
+    "text": "Extensão"
+  },
+  {
+    "objectID": "alunos.html#outros",
+    "href": "alunos.html#outros",
+    "title": "Alunos",
+    "section": "Outros",
+    "text": "Outros"
+  },
+  {
+    "objectID": "alunos.html#orientações",
+    "href": "alunos.html#orientações",
+    "title": "Alunos",
+    "section": "Orientações",
+    "text": "Orientações\n\nTCC\n\n\nMonografia\n\n\nDissertação\n\n\nTese"
+  },
+  {
+    "objectID": "alunos.html#results",
+    "href": "alunos.html#results",
+    "title": "Alunos",
+    "section": "Results",
+    "text": "Results\n\nPlots"
   }
 ]
