@@ -12,8 +12,8 @@ website:
         file: alunos.html
       - text: "Disciplinas"
         file: disciplinas.html
-      - text: "Cursos"
-        file: cursos.html
+      - text: "Minicursos"
+        file: minicursos.html
       - text: "Publicações"
         file: publicacoes.html
     right:

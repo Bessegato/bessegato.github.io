@@ -1,5 +1,4 @@
 ---
-title: "Cursos"
+title: "Minicursos"
 format: html
 ---
-
