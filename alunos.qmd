@@ -5,7 +5,7 @@ format: html
 author: Prof. Lupércio França Bessegato
 toc: true
 ---
-## Iniciação Ciêntifica
+## Iniciação Científica
 
 ## Extensão
 
