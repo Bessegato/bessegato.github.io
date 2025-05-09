@@ -212,6 +212,57 @@ Estude atentamente estas anotações e, caso deseje, execute a atividade supleme
 
 Material suplementar de apoio da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7959){target="_blank" rel="noopener noreferrer"}.
 
+===========================================================================
+
+ Links
+
+ Livros
+
+ Introductory Statistics with R, 2nd. ed.
+
+ An Introduction to R
+
+ R Markdown cookbook URL
+
+ ===========================================================================
+
+ Links
+
+ Blogs Página
+
+ Agradeço as indicações dos discentes para compartilhar links interessantes com toda a turma.
+
+ Instalação do R e do R Studio
+
+ Configuração para Compilação em PDF
+
+ Links - Linguagem R
+
+ Links - RStudio
+
+ Links - RMarkdown
+
+ Curso R - Programação em R (Nível Básico)
+
+ ===========================================================================
+
+ Repositório de Arquivos
+
+ Conjuntos de Dados
+    
+ Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina.
+
+ Scripts de apresentações e atividades
+
+ Página do GitHub do discente Lucas Henrique Nogueira, com os scripts de todas as aulas da disciplina. Agradeço ao Lucas pela organização e pela disponibilização do material
+
+ Google Colab (R Notebook): Cálculo Vetorizado
+
+ O objetivo é os alunos comentarem e compartilharem seus códigos na solução do seguinte problema: Calcule o quadrado dos números inteiros entre 1 e 100. Some todos os pares e subtraia todo os ímpares. No final de semana, publico um clipe com seis alternativas de solução. Não há uma única solução!
+
+ Bons estudos!
+
+
 ## Atividades.
 
 Atividades avaliativas da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7959){target="_blank" rel="noopener noreferrer"}.
