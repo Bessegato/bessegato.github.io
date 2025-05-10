@@ -15,8 +15,8 @@ toc: true
 
 ### TCC
 
-#### Monografia
+### Monografia
 
-#### Dissertação
+### Dissertação
 
-#### Tese
+### Tese

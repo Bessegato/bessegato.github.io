@@ -6,6 +6,7 @@ author: Prof. Lupércio França Bessegato
 toc: true
 ---
 
+
 ## Metodologia.
 
 Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7959){target="_blank" rel="noopener noreferrer"}.
@@ -213,50 +214,69 @@ Estude atentamente estas anotações e, caso deseje, execute a atividade supleme
 Material suplementar de apoio da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7959){target="_blank" rel="noopener noreferrer"}.
 
 ===========================================================================
+```{=html}
+<style>
+.center {
+  text-align: center;
+}
+</style>
+```
 
+::: center
  Links
-
+:::
  Livros
+ 
+O presente material bibliográfico complementar está disponibilizado de maneira excepcional, para uso exclusivamente com fins didáticos, sendo vedado seu compartilhamento fora desse ambiente de aprendizagem virtual.
 
- Introductory Statistics with R, 2nd. ed.
+- O material bibliográfico complementar será disponibilizado de maneira excepcional no Moodle da disciplina, para uso exclusivamente para fins didáticos, sendo vedado seu compartilhamento fora desse ambiente.
 
- An Introduction to R
 
- R Markdown cookbook URL
+ [Introductory Statistics with R, 2nd. ed.](https://www.cin.ufpe.br/~maod/ESAP/R/Introductory-Statistics-With-R-2nd-Edition.pdf){target="_blank" rel="noopener noreferrer"}
+
+ [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf){target="_blank" rel="noopener noreferrer"}.
+
+
+XIE, Y.; DERVIEUX, C.; RIEDERER, E. R Markdown cookbook. New York: CRC Press, 2020. [R Markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/){target="_blank" rel="noopener noreferrer"}.
 
  ===========================================================================
 
+::: center
  Links
+:::
 
  Blogs Página
 
  Agradeço as indicações dos discentes para compartilhar links interessantes com toda a turma.
 
- Instalação do R e do R Studio
+ [Instalação do R e do R Studio](../EST064/Instalação do R e do R Studio.html){target="_blank" rel="noopener noreferrer"}.
 
- Configuração para Compilação em PDF
+ [Configuração para Compilação em PDF](../EST064/Configuração para Compilação em PDF.pdf){target="_blank" rel="noopener noreferrer"}.
 
- Links - Linguagem R
+ [Links - Linguagem R](../EST064/Linguagem R.pdf){target="_blank" rel="noopener noreferrer"}.
 
- Links - RStudio
+ [Links - RStudio](../EST064/RStudio.pdf){target="_blank" rel="noopener noreferrer"}.
 
- Links - RMarkdown
+ [Links - RMarkdown](../EST064/RMarkdown.pdf){target="_blank" rel="noopener noreferrer"}.
 
- Curso R - Programação em R (Nível Básico)
+ Curso para o ensino da linguagem R, tendo o enfoco a sintaxe e semântica, pelo professor Ben David, da UFSJ - Universidade Federal de São João del-Rei. [Curso R - Programação em R (Nível Básico)](https://youtube.com/playlist?list=PL-20Z1XFWKR0y0qZdOM0KKqb4oEbAMs7O){target="_blank" rel="noopener noreferrer"}.
 
  ===========================================================================
 
- Repositório de Arquivos
+::: center
+Repositório de Arquivos
+:::
 
- Conjuntos de Dados
+
+ [Conjuntos de Dados](../EST064/Conjuntos de Dados-20250509.zip){target="_blank" rel="noopener noreferrer"}.
     
  Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina.
 
- Scripts de apresentações e atividades
+ [Scripts de apresentações e atividades](https://github.com/Lucas-Henriquee/Repository-in-R.git){target="_blank" rel="noopener noreferrer"}.
 
  Página do GitHub do discente Lucas Henrique Nogueira, com os scripts de todas as aulas da disciplina. Agradeço ao Lucas pela organização e pela disponibilização do material
 
- Google Colab (R Notebook): Cálculo Vetorizado
+ [Google Colab (R Notebook): Cálculo Vetorizado](https://drive.google.com/file/d/133FqMGDRsKoxj-avkbDwLoAsnRVdlZRj/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
  O objetivo é os alunos comentarem e compartilharem seus códigos na solução do seguinte problema: Calcule o quadrado dos números inteiros entre 1 e 100. Some todos os pares e subtraia todo os ímpares. No final de semana, publico um clipe com seis alternativas de solução. Não há uma única solução!
 

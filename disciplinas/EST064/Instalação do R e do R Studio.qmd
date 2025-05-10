@@ -1,0 +1,27 @@
+---
+title: "Instalação do R e do R Studio"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+
+Olá Pessoal,
+
+Abaixo, encontram-se os links para o download do R e do R Studio no Windows. Ambos são livres e relativamente leves:
+
+-   **R Project for Statistical Computing (Windows 7/8/10) - versão mais recente: 4.0.2:**\
+    <https://nbcgib.uesc.br/mirrors/cran/> ou <https://cran.r-project.org/bin/windows/base/>
+
+-   **RStudio (Windows 7/8/10):**\
+    <https://rstudio.com/products/rstudio/download/#download>
+
+E também tutorial bem recente para a instalação deles:
+
+-   **YouTube - INTRODUÇÃO AO R - Aula 1: Instalando o R e o RStudio para Windows**\
+    Duração: 12:25 (25/08/2020)\
+    <https://youtu.be/ULrY3ymn8io>
+
+# Voltar a disciplina
+
+[Voltar](../EST064/est064.html)
