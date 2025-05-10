@@ -4,8 +4,21 @@ lang: pt
 format: html
 author: Prof. Lupércio França Bessegato
 toc: true
+toc_depth: 2    # Profundidade do sumário.
+toc_float: 0      # Sumário flutuante na borda.
+collapsed: false
+smooth_scroll: false
+number_sections: true   # Seções numeradas.
+theme: united   # Tema usado (aparência).
+highlight: tango# Cores para o destaque de código.
+css: styles.css # Caminho para arquivo CSS.
+fig_width: 7    # Lagura das figuras.
+fig_height: 6   # Altura das figuras.
+fig_caption: true       # Exibicação de legenda.
+code_folding: hide      # Esconder/exibir bloco de código.
+# mostrar chunk: class.source = 'fold-show'
+keep_md: true   # Manter o arquivo md.
 ---
-
 
 ## Metodologia.
 
@@ -131,7 +144,7 @@ Arquivos extensão .Rmd e sua compilação em .html, desenvolvidos na aula de 15
 
 Arquivos extensão .Rmd e sua compilação em .html [Arquivos da aula de 21/10/2020](../EST064/Arquivos%20da%20aula%20de%2021102020-20250426.zip){target="_blank" rel="noopener noreferrer"}
 
-===========================================================================
+===============================================================================
 
 Minicurso
 
@@ -213,7 +226,8 @@ Estude atentamente estas anotações e, caso deseje, execute a atividade supleme
 
 Material suplementar de apoio da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7959){target="_blank" rel="noopener noreferrer"}.
 
-===========================================================================
+===============================================================================
+
 ```{=html}
 <style>
 .center {
@@ -223,65 +237,62 @@ Material suplementar de apoio da disciplina do semestre 2025.1 está no [Moodle 
 ```
 
 ::: center
- Links
+Links
 :::
- Livros
- 
+
+Livros
+
 O presente material bibliográfico complementar está disponibilizado de maneira excepcional, para uso exclusivamente com fins didáticos, sendo vedado seu compartilhamento fora desse ambiente de aprendizagem virtual.
 
-- O material bibliográfico complementar será disponibilizado de maneira excepcional no Moodle da disciplina, para uso exclusivamente para fins didáticos, sendo vedado seu compartilhamento fora desse ambiente.
+-   O material bibliográfico complementar será disponibilizado de maneira excepcional no Moodle da disciplina, para uso exclusivamente para fins didáticos, sendo vedado seu compartilhamento fora desse ambiente.
 
+[Introductory Statistics with R, 2nd. ed.](https://www.cin.ufpe.br/~maod/ESAP/R/Introductory-Statistics-With-R-2nd-Edition.pdf){target="_blank" rel="noopener noreferrer"}
 
- [Introductory Statistics with R, 2nd. ed.](https://www.cin.ufpe.br/~maod/ESAP/R/Introductory-Statistics-With-R-2nd-Edition.pdf){target="_blank" rel="noopener noreferrer"}
-
- [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf){target="_blank" rel="noopener noreferrer"}.
-
+[An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf){target="_blank" rel="noopener noreferrer"}.
 
 XIE, Y.; DERVIEUX, C.; RIEDERER, E. R Markdown cookbook. New York: CRC Press, 2020. [R Markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/){target="_blank" rel="noopener noreferrer"}.
 
- ===========================================================================
+===============================================================================
 
 ::: center
- Links
+Links
 :::
 
- Blogs Página
+Blogs Página
 
- Agradeço as indicações dos discentes para compartilhar links interessantes com toda a turma.
+Agradeço as indicações dos discentes para compartilhar links interessantes com toda a turma.
 
- [Instalação do R e do R Studio](../EST064/Instalação do R e do R Studio.html){target="_blank" rel="noopener noreferrer"}.
+[Instalação do R e do R Studio](../EST064/Instalação%20do%20R%20e%20do%20R%20Studio.html){target="_blank" rel="noopener noreferrer"}.
 
- [Configuração para Compilação em PDF](../EST064/Configuração para Compilação em PDF.pdf){target="_blank" rel="noopener noreferrer"}.
+[Configuração para Compilação em PDF](../EST064/Configuração%20para%20Compilação%20em%20PDF.pdf){target="_blank" rel="noopener noreferrer"}.
 
- [Links - Linguagem R](../EST064/Linguagem R.pdf){target="_blank" rel="noopener noreferrer"}.
+[Links - Linguagem R](../EST064/Linguagem%20R.pdf){target="_blank" rel="noopener noreferrer"}.
 
- [Links - RStudio](../EST064/RStudio.pdf){target="_blank" rel="noopener noreferrer"}.
+[Links - RStudio](../EST064/RStudio.pdf){target="_blank" rel="noopener noreferrer"}.
 
- [Links - RMarkdown](../EST064/RMarkdown.pdf){target="_blank" rel="noopener noreferrer"}.
+[Links - RMarkdown](../EST064/RMarkdown.pdf){target="_blank" rel="noopener noreferrer"}.
 
- Curso para o ensino da linguagem R, tendo o enfoco a sintaxe e semântica, pelo professor Ben David, da UFSJ - Universidade Federal de São João del-Rei. [Curso R - Programação em R (Nível Básico)](https://youtube.com/playlist?list=PL-20Z1XFWKR0y0qZdOM0KKqb4oEbAMs7O){target="_blank" rel="noopener noreferrer"}.
+Curso para o ensino da linguagem R, tendo o enfoco a sintaxe e semântica, pelo professor Ben David, da UFSJ - Universidade Federal de São João del-Rei. [Curso R - Programação em R (Nível Básico)](https://youtube.com/playlist?list=PL-20Z1XFWKR0y0qZdOM0KKqb4oEbAMs7O){target="_blank" rel="noopener noreferrer"}.
 
- ===========================================================================
+===============================================================================
 
 ::: center
 Repositório de Arquivos
 :::
 
+[Conjuntos de Dados](../EST064/Conjuntos%20de%20Dados-20250509.zip){target="_blank" rel="noopener noreferrer"}.
 
- [Conjuntos de Dados](../EST064/Conjuntos de Dados-20250509.zip){target="_blank" rel="noopener noreferrer"}.
-    
- Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina.
+Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina.
 
- [Scripts de apresentações e atividades](https://github.com/Lucas-Henriquee/Repository-in-R.git){target="_blank" rel="noopener noreferrer"}.
+[Scripts de apresentações e atividades](https://github.com/Lucas-Henriquee/Repository-in-R.git){target="_blank" rel="noopener noreferrer"}.
 
- Página do GitHub do discente Lucas Henrique Nogueira, com os scripts de todas as aulas da disciplina. Agradeço ao Lucas pela organização e pela disponibilização do material
+Página do GitHub do discente Lucas Henrique Nogueira, com os scripts de todas as aulas da disciplina. Agradeço ao Lucas pela organização e pela disponibilização do material
 
- [Google Colab (R Notebook): Cálculo Vetorizado](https://drive.google.com/file/d/133FqMGDRsKoxj-avkbDwLoAsnRVdlZRj/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+[Google Colab (R Notebook): Cálculo Vetorizado](https://drive.google.com/file/d/133FqMGDRsKoxj-avkbDwLoAsnRVdlZRj/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
- O objetivo é os alunos comentarem e compartilharem seus códigos na solução do seguinte problema: Calcule o quadrado dos números inteiros entre 1 e 100. Some todos os pares e subtraia todo os ímpares. No final de semana, publico um clipe com seis alternativas de solução. Não há uma única solução!
+O objetivo é os alunos comentarem e compartilharem seus códigos na solução do seguinte problema: Calcule o quadrado dos números inteiros entre 1 e 100. Some todos os pares e subtraia todo os ímpares. No final de semana, publico um clipe com seis alternativas de solução. Não há uma única solução!
 
- Bons estudos!
-
+Bons estudos!
 
 ## Atividades.
 

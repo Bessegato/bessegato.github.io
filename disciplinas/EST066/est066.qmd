@@ -28,17 +28,11 @@ Geração de sequência de números aleatórios a partir da distribuição unifo
 
 [Estudo dirigido - Uso do método da inversa](../EST066/Estudo%20dirigido%20-%20Uso%20do%20método%20da%20inversa.html){target="_blank" rel="noopener noreferrer"}.
 
+[A geração de números aleatórios de uma triangular](https://drive.google.com/file/d/1caJNTtT73ilLzfHtIdyyi3iA0bc4-xpU/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 27/05/21, com uma discussão sobre a geração de números aleatórios de uma distribuição triangular a partir da distribuição uniforme.
 
-[A geração de números aleatórios de uma triangular](https://drive.google.com/file/d/1caJNTtT73ilLzfHtIdyyi3iA0bc4-xpU/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 27/05/21, com uma discussão sobre a geração de números aleatórios de uma distribuição triangular a partir da distribuição uniforme.
+Whiteboard das anotações efetuadas no decorrer da apresentação do dia 27/05/21. [Whiteboard - aula de 27/05/21](../EST066/Whiteboard%5B1%5D-01.png){target="_blank" rel="noopener noreferrer"}.
 
-
-Whiteboard das anotações efetuadas no decorrer da apresentação do dia 27/05/21.
-[Whiteboard - aula de 27/05/21](../EST066/Whiteboard[1]-01.png){target="_blank" rel="noopener noreferrer"}.
-
-Live de 01/06/21, com uma discussão sobre alguns métodos numéricos para determinação numérica de quantis, estruturada como equação (método Newton-Raphson e comando uniroot()) ou como um problema de otimização (comando optimize()).
-[Resolvendo numericamente a função quantílica](https://drive.google.com/file/d/1_BuluqlGGNuRZS_OkLjy8okCCoAHR2IS/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-
+Live de 01/06/21, com uma discussão sobre alguns métodos numéricos para determinação numérica de quantis, estruturada como equação (método Newton-Raphson e comando uniroot()) ou como um problema de otimização (comando optimize()). [Resolvendo numericamente a função quantílica](https://drive.google.com/file/d/1_BuluqlGGNuRZS_OkLjy8okCCoAHR2IS/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 Recuperando brevemente Cálculo de Probabilidades, apresentam-se algumas transformações importantes entre variáveis aleatórias. A ideia de eficiência dos algoritmos é sugerida e propõe-se seu estudo. [Transformação de Variáveis aleatórias](../EST066/03_geracao_transformacao.html){target="_blank" rel="noopener noreferrer"}.
 
@@ -46,12 +40,9 @@ Uso de transformações de variáveis aleatórias para construir geradores de n�
 
 [Estudo dirigido - Transformação de variáveis aleatórias](../EST066/Estudo%20dirigido%20-%20Transformação%20de%20variáveis%20aleatórias.html){target="_blank" rel="noopener noreferrer"}.
 
-Live de 08/06/21, com uma discussão sobre transformação de variáveis aleatórias e algumas relações relevantes.
-[Transformação de variáveis aleatórias](https://drive.google.com/file/d/1CsOz7bi5K6PGLVgZuqA-eGDc__qukPFP/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-
+Live de 08/06/21, com uma discussão sobre transformação de variáveis aleatórias e algumas relações relevantes. [Transformação de variáveis aleatórias](https://drive.google.com/file/d/1CsOz7bi5K6PGLVgZuqA-eGDc__qukPFP/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 Live de 15/06/21, com uma discussão sobre simulação de média de amostras aleatórias, para observação empírica do Teorema Central do Limite. Duração: 56:19. [Transformação de Box-Muller](https://drive.google.com/file/d/1tRPJMFRZqk5rZ6dl64sN8GE3vtjhLBsU/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-
 
 Live de 10/06/21, com uma discussão sobre transformação de Box-Muller e sua importância na geração de normais padrão independentes.Duração: 48:25. [Transformação de Box-Muller](https://drive.google.com/file/d/1Wkd_pf-MomQaOix3Q22by5VilIcxEidn/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
@@ -65,27 +56,21 @@ Uso do método da aceitação/rejeição para construir geradores de número ale
 
 Live de 17/06/21, com apresentação dos fundamentos do Método da Rejeição na geração de números aleatórios e exemplo de uso do método na geração de números aleatórios de uma beta.Duração: 42:16. [Método da Rejeição](https://drive.google.com/file/d/1dDT5S-qYwujDTyVubpG7qH8rSR7psMcs/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-
 Live de 29/06/21, com apresentação de rotina para geração de números aleatórios de uma normal padrão (e qualquer normal) pelo método aceitação/rejeição. A rotina deve ser aprimorada para a construção de um algoritmo para o gerador desejado. O código já está disponível.Duração: 57:34.[Geração de normal padrão pelo Método da Rejeição](https://drive.google.com/file/d/1OM95YrUkX8kwFBcHBx_Cb81WcLNdo9rC/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 Métodos para a geração de vetores aleatórios normais multivariados a partir de sequência de variáveis aleatórias padrão independentes. [Geração de normal bivariada](../EST066/04_geracao_bivariada.html){target="_blank" rel="noopener noreferrer"}.
 
 Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições. [Estudo dirigido - Normal bivariada & mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Normal%20bivariada%20e%20mistura%20de%20distribuições.html){target="_blank" rel="noopener noreferrer"}.
 
-
 Live de 08/07/21, com apresentação da fundamentação teórica para geração de vetores aleatórios normais bivariados e normais p-variados.Duração: 45:10. [Geração de vetores aleatórios normais bivariados e p-variados](https://drive.google.com/file/d/18FGDFtDt1UBkhM9bIZukpmYMLSPF6dFX/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 Live de 13/07/21, com apresentação de script com geração de vetores aleatórios normais bivariados e trivariados.Duração: 41:33. [Geração de vetores aleatórios normais bivariados](https://drive.google.com/file/d/1dWhTZWjgWSbR2pdluxbzcDWUusomRDmu/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-
-Geração de números aleatórios de misturas de distribuições. [Estudo dirigido - Mistura de distribuições](../EST066/Estudo dirigido - Mistura de distribuições.html){target="_blank" rel="noopener noreferrer"}.
-
+Geração de números aleatórios de misturas de distribuições. [Estudo dirigido - Mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Mistura%20de%20distribuições.html){target="_blank" rel="noopener noreferrer"}.
 
 Live de 20/07/21, com apresentação de script com modelos de mistura de distribuições normais e gamas e um exemplo de estimação com o conjunto de dados faithful.Duração: 1:17:48.[Modelos de mistura de distribuições](https://drive.google.com/file/d/1FXbnl5u8_YrbyVSorc0Mi9Z5sMsVrB5t/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-
 Aula de dúvidas turma 2020-1, sobre dúvidas e esclarecimentos sobre normal multivariada e mistura de normais.Duração: 41:56. [Aula sobre dúvidas - 28/10/2020](https://drive.google.com/file/d/1i9DcVe8ay4FruA3ayr6WdBiqXRMAv46-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-
 
 Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas. Geração de números aleatórios de misturas de distribuições. [Estudo dirigido - Mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Mistura%20de%20distribuicoes.html){target="_blank" rel="noopener noreferrer"}.
 
@@ -97,15 +82,13 @@ Live de 06/07/21, com apresentação da fundamentação teórica do método da r
 
 [Geração de números aleatórios discretos pelo Método da Rejeição](https://drive.google.com/file/d/1drPRjlbGNCISWz9EE4SSrahh8Gv5KZrc/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-
 ## Integração Monte Carlo
 
 Métodos de integração Monte Carlo, uni e multidimensional
 
-Notas de aula sobre estimação de integrais definidas pelo método Monte Carlo.
-[Integração Monte Carlos](../EST066/01_Integracao_Monte_Carlo.html){target="_blank" rel="noopener noreferrer"}.
+Notas de aula sobre estimação de integrais definidas pelo método Monte Carlo. [Integração Monte Carlos](../EST066/01_Integracao_Monte_Carlo.html){target="_blank" rel="noopener noreferrer"}.
 
-Estimação de integrais definidas pelo método de Monte Carlo. [Estudo dirigido - Integração Monte Carlo](../EST066/Estudo dirigido - Integração Monte Carlo.html){target="_blank" rel="noopener noreferrer"}.
+Estimação de integrais definidas pelo método de Monte Carlo. [Estudo dirigido - Integração Monte Carlo](../EST066/Estudo%20dirigido%20-%20Integração%20Monte%20Carlo.html){target="_blank" rel="noopener noreferrer"}.
 
 Live de 27/07/21, com apresentação de script sobre estimação pelo Método Monte Carlo de integrais no intervalo (0, 1).Duração: 43:57.[Integração Monte Carlo](https://drive.google.com/file/d/15LE9D1V7Hhr4UO-ihDf5IVQyVFlf9HzK/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
@@ -113,31 +96,25 @@ Live de 29/07/21, com apresentação de script sobre estimação pelo Método Mo
 
 Live de 05/08/21, com apresentação de script e material sobre generalização da integração de Monte Carlo e considerações sobre a qualidade das estimativas.Duração: 51:05. [Integral Monte Carlo - Generalização](https://drive.google.com/file/d/1euYa1HX0jPWHM8pyCBlbNHEC6ucKZoga/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-Live de 10/08/21, com apresentação de material sobre integração de Monte Carlo de funções multidimensionais.Duração: 35:32.[Integral Monte Carlo - Integrais multidimensionais](https://drive.google.com/file/d/1sOOwtdSMAMMrDyNd_WVenQTjkULBd_mW/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. 
+Live de 10/08/21, com apresentação de material sobre integração de Monte Carlo de funções multidimensionais.Duração: 35:32.[Integral Monte Carlo - Integrais multidimensionais](https://drive.google.com/file/d/1sOOwtdSMAMMrDyNd_WVenQTjkULBd_mW/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 Live de 10/08/21, com apresentação de material sobre integração de Monte Carlo de funções multidimensionais.Duração: 35:32.[Integral Monte Carlo - Integrais multidimensionais](https://drive.google.com/file/d/1dM3cZE9sbausoV3ZMVNlfvULfXhhAJBj/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-
 
 ## Simulação Monte Carlo
 
 Simulação de processo de Poisson homogêneo, não homogêneo e cadeias de Markov. Bootstrap paramétrico.
 
-Algumas propriedades probabilísticas e algoritmos envolvendo processos de Poisson e cadeias de Markov...
-[Simulação de processos estocásticos](../EST066/05.1_processos.html){target="_blank" rel="noopener noreferrer"}.
+Algumas propriedades probabilísticas e algoritmos envolvendo processos de Poisson e cadeias de Markov... [Simulação de processos estocásticos](../EST066/05.1_processos.html){target="_blank" rel="noopener noreferrer"}.
 
-Geração de realizações de processos de Poisson e cadeias de Markov.
-[Estudo dirigido - Cadeias de Markov e processo de Poisson](../EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html){target="_blank" rel="noopener noreferrer"}.
+Geração de realizações de processos de Poisson e cadeias de Markov. [Estudo dirigido - Cadeias de Markov e processo de Poisson](../EST066/Estudo%20dirigido%20-Cadeias%20de%20Markov%20e%20processo%20de%20Poisson.html){target="_blank" rel="noopener noreferrer"}.
 
-[Cadeias de Markov - Exemplos de aplicação na indústria](../EST066/Cadeias de Markov - Exemplos de aplicação na indústria.pdf){target="_blank" rel="noopener noreferrer"}.
+[Cadeias de Markov - Exemplos de aplicação na indústria](../EST066/Cadeias%20de%20Markov%20-%20Exemplos%20de%20aplicação%20na%20indústria.pdf){target="_blank" rel="noopener noreferrer"}.
 
-Geração de realizações de processos de Poisson homogêneo e não homogêneo e simulação de eventos discretos.
-[Processos estocásticos - Alguns problemas e implementações](../EST066/Processos estocásticos - Alguns problemas e implementações.pdf){target="_blank" rel="noopener noreferrer"}.
+Geração de realizações de processos de Poisson homogêneo e não homogêneo e simulação de eventos discretos. [Processos estocásticos - Alguns problemas e implementações](../EST066/Processos%20estocásticos%20-%20Alguns%20problemas%20e%20implementações.pdf){target="_blank" rel="noopener noreferrer"}.
 
-Simulações para estimação de parâmetros e intervalos de confiança.
-[Bootstrap paramétrico](../EST066/06_distribuicao_amostral.html){target="_blank" rel="noopener noreferrer"}.
+Simulações para estimação de parâmetros e intervalos de confiança. [Bootstrap paramétrico](../EST066/06_distribuicao_amostral.html){target="_blank" rel="noopener noreferrer"}.
 
 Live de 12/08/21, com apresentação de material sobre simulação de processo de Poisson e de cadeias de Markov..Duração: 44:36.[Simulação de Processos Estocásticos](https://drive.google.com/file/d/1C4e6BmISkAPYSEsSYwLE2R5WkOGcg6vL/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-
 
 ## Reamostragem
 
@@ -145,8 +122,7 @@ Reamostragem boostrap, validação cruzada e jackknife
 
 Slides sobre reamostragem para estimação de intervalos de confiança de estatísticas amostrais e coeficientes de regressão. [Reamostragem](../EST066/ERE_08_reamostragem.pdf){target="_blank" rel="noopener noreferrer"}.
 
-Uso de bootstrap não paramétrico para estimação de estatísticas amostrais e intervalos de confiança de parâmetros populacionais. [Estudo dirigido - Bootstrap](../EST066/Estudo dirigido - Bootstrap.pdf){target="_blank" rel="noopener noreferrer"}.
-
+Uso de bootstrap não paramétrico para estimação de estatísticas amostrais e intervalos de confiança de parâmetros populacionais. [Estudo dirigido - Bootstrap](../EST066/Estudo%20dirigido%20-%20Bootstrap.pdf){target="_blank" rel="noopener noreferrer"}.
 
 ## Otimização
 
@@ -158,7 +134,6 @@ Live de 02/09/21, com apresentação da introdução à otimização.Duração: 
 
 Live de 14/09/21, com apresentação do uso da função optim() em otimização. Duração: 1:02:49.[Função optim()](https://drive.google.com/file/d/1JeeLEVfzklGyKRR5Y-8g-I12fP6jzYzO/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-
 ## Suavização
 
 Métodos de suavização e de estimação de funções: núcleo estimador e spline
@@ -166,6 +141,56 @@ Métodos de suavização e de estimação de funções: núcleo estimador e spli
 ## Biblioteca.
 
 Material suplementar de apoio da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7961){target="_blank" rel="noopener noreferrer"}.
+
+===============================================================================
+
+```{=html}
+<style>
+.center {
+  text-align: center;
+}
+</style>
+```
+
+::: center
+Livros
+:::
+
+Livros
+
+O presente material bibliográfico complementar está disponibilizado de maneira excepcional, para uso exclusivamente com fins didáticos, sendo vedado seu compartilhamento fora desse ambiente de aprendizagem virtual.
+
+- O material bibliográfico complementar será disponibilizado de maneira excepcional no Moodle da disciplina, para uso exclusivamente para fins didáticos, sendo vedado seu compartilhamento fora desse ambiente.
+
+
+[Simulation](https://ead.ufjf.br/pluginfile.php/1930593/mod_resource/content/1/Ross_Simulation.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Introducing Monte Carlo methods with R](https://ead.ufjf.br/pluginfile.php/1930594/mod_resource/content/1/RobertCasella_Introducing_Monte_Carlo_Methods_with_R.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Modern optimization with R Arquivo](https://ead.ufjf.br/pluginfile.php/1930595/mod_resource/content/1/Cortez_Modern_Optimization_with_R.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Livros & Apostilas](https://ead.ufjf.br/mod/folder/view.php?id=459592){target="_blank" rel="noopener noreferrer"}.
+
+===============================================================================
+
+::: center
+Links
+:::
+
+Informações detalhadas sobre distribuições univariadas, suas propriedades e relações. [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html){target="_blank" rel="noopener noreferrer"}.
+
+
+===============================================================================
+
+::: center
+Repositório de Arquivos
+:::
+
+Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina. [Conjuntos de dados](../est066/Conjuntos de dados-20250510.zip){target="_blank" rel="noopener noreferrer"}.
+
+[Scripts de apresentações e atividades](https://drive.google.com/file/d/1FdbuZEX_TdgmZOJOhK5KWc0QGtFYdimM/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+
 
 ## Atividades.
 

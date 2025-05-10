@@ -5,16 +5,19 @@ format: html
 author: Prof. Lupércio França Bessegato
 toc: true
 ---
+
 ## Metodologia.
 
 Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7962){target="_blank" rel="noopener noreferrer"}.
 
 ## Introdução à estatística multivariada
+
 Introdução às técnicas estatísticas de exploração e sintetização de dados multivariados.
 
 [Introdução à Estatística Multivariada](../EST073/01_introducao_173.pdf){target="_blank" rel="noopener noreferrer"}.
 
 ## Álgebra matricial e vetores aleatórios
+
 Introdução aos conceitos básicos de álgebra matricial e vetores aleatórios, compreendendo interpretações geométricas e desenvolvimento algébrico de técnicas estatísticas subsequentes.
 
 ## Visualização de dados multivariados
@@ -23,50 +26,44 @@ Introdução aos conceitos básicos de álgebra matricial e vetores aleatórios,
 
 Construção de diagramas de dispersão e de suas combinações com outros tipos de dados e que ampliam as possibilidades de aplicação. os comandos para construção de diagramas de dispersão. [Visualização de Dados Bivariados](../EST073/01_visualizacao_bivariada.html){target="_blank" rel="noopener noreferrer"}.
 
-Construção de matrizes ou tabelas de diagramas de dispersão e de suas combinações e de correlogramas, que são gráficos da matriz de correlações. Ele é bastante útil para destacar as variáveis mais correlacionadas no conjunto de dados. Esses tipos de gráficos ampliam as possibilidades de exploração de dados que é fundamental na aplicação.de muitas técnicas multivariadas.
-[Scatterplot Matrix & Correlograma](../EST073/00_visualizacao_correlograma.html){target="_blank" rel="noopener noreferrer"}.
+Construção de matrizes ou tabelas de diagramas de dispersão e de suas combinações e de correlogramas, que são gráficos da matriz de correlações. Ele é bastante útil para destacar as variáveis mais correlacionadas no conjunto de dados. Esses tipos de gráficos ampliam as possibilidades de exploração de dados que é fundamental na aplicação.de muitas técnicas multivariadas. [Scatterplot Matrix & Correlograma](../EST073/00_visualizacao_correlograma.html){target="_blank" rel="noopener noreferrer"}.
 
-Material muito bom sobre visualização de dados. Discorre sobre tipos de gráficos, paletes de cores amigáveis a daltônicos, etc. Apresenta todos os códigos usando os pacotes ggplot2, para os gráficos e o dplyr, para manipular e reformatar os dados. Tem um roteiro muito bom de uma palestra com o título do post. Vale a penas conferir!
-[The Good, the Bad and the Ugly: how (not) to visualize data](https://www.r-bloggers.com/2020/10/the-good-the-bad-and-the-ugly-how-not-to-visualize-data/){target="_blank" rel="noopener noreferrer"}.
-
-
+Material muito bom sobre visualização de dados. Discorre sobre tipos de gráficos, paletes de cores amigáveis a daltônicos, etc. Apresenta todos os códigos usando os pacotes ggplot2, para os gráficos e o dplyr, para manipular e reformatar os dados. Tem um roteiro muito bom de uma palestra com o título do post. Vale a penas conferir! [The Good, the Bad and the Ugly: how (not) to visualize data](https://www.r-bloggers.com/2020/10/the-good-the-bad-and-the-ugly-how-not-to-visualize-data/){target="_blank" rel="noopener noreferrer"}.
 
 ## Distribuição normal multivariada
+
 A distribuição normal multivariada é o modelo subjacente da maioria dos métodos multivariados que estudaremos. Sua importância deve-se a seu papel como modelo populacional para certos fenômenos naturais e como aproximação da distribuição amostral de muitas estatísticas.
 
 [Slides - Distribuição normal multivariada](../EST073/04_normalidade.pdf){target="_blank" rel="noopener noreferrer"}.
 
-[Exercícios de Normalidade Multivariada](../EST073/241_At-03X_normal_multivariada.pdf){target="_blank" rel="noopener noreferrer"}.
- - Esses exercícios não precisam ser entregues.
- - Não hesite em procurar o Fórum de Dúvidas do Moodle, caso tenha alguma dúvida com relação à solução da presente lista de exercícios. Caso não resolva, agende atendimento com o professor. Acostume-se a interagir para obter sugestões de solução de suas dúvidas.
-
+[Exercícios de Normalidade Multivariada](../EST073/241_At-03X_normal_multivariada.pdf){target="_blank" rel="noopener noreferrer"}. - Esses exercícios não precisam ser entregues. - Não hesite em procurar o Fórum de Dúvidas do Moodle, caso tenha alguma dúvida com relação à solução da presente lista de exercícios. Caso não resolva, agende atendimento com o professor. Acostume-se a interagir para obter sugestões de solução de suas dúvidas.
 
 ## Análise de componentes principais
+
 Apresentação e detalhamento de técnica de análise de estrutura de covariâncias dos dados por meio de combinações lineares das variáveis, com objetivos gerais de redução de dimensionalidade dos dados e interpretação
 
-[Slides - Análise de componentes principais](../EST073/05_componentes_2016.pdf)){target="_blank" rel="noopener noreferrer"}.
+[Slides - Análise de componentes principais](../EST073/05_componentes_2016.pdf)){target="\_blank" rel="noopener noreferrer"}.
 
 Análise de componentes principais da estrutura de covariâncias do conjunto de dados iris.
 
- - Adota-se a abordagem matricial em todos os cálculos efetuados.
- - Apresentados alguns novos objetos e operações que auxiliam no entendimento do funcionamento da técnica e na análise.
- - Esses conceitos serão utilizados amplamente em Análise Fatorial.
+-   Adota-se a abordagem matricial em todos os cálculos efetuados.
+-   Apresentados alguns novos objetos e operações que auxiliam no entendimento do funcionamento da técnica e na análise.
+-   Esses conceitos serão utilizados amplamente em Análise Fatorial.
 
 [Análise de Componentes Principais - Cálculo Matricial](../EST073/02_Componentes_Principais-comandos.html){target="_blank" rel="noopener noreferrer"}.
 
 Análise de componentes principais da estrutura de covariâncias de conjunto de dados de pesquisa de percepção de marca.
 
- - Conjunto de dados: rintro-chapter8.csv.
- - Fonte: CHAPMAN, C.; FEIT, E. M. R for marketing research and analytics. Chaim, SWT: Springer, 2015.
-    - Sec. 8.1: Consumer brand rating data, pg. 195.
-    - Sec. 8.2: Principal componente analysis and perceptual maps, pg. 200.
+-   Conjunto de dados: rintro-chapter8.csv.
+-   Fonte: CHAPMAN, C.; FEIT, E. M. R for marketing research and analytics. Chaim, SWT: Springer, 2015.
+    -   Sec. 8.1: Consumer brand rating data, pg. 195.
+    -   Sec. 8.2: Principal componente analysis and perceptual maps, pg. 200.
 
 [Análise de Componentes Principais - Poluição do Ar](../EST073/05.4_pca_air-pollution.pdf){target="_blank" rel="noopener noreferrer"}.
 
 ===========================================================================
 
 Vídeoaulas - Semestre 2020/1 (ERE)
-
 
 [Vídeo-aula: Componentes Principais (1)](https://drive.google.com/file/d/11wiZWRTC8sr8E_zSeht-MEr7c7JkcRij/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
@@ -78,11 +75,7 @@ Vídeoaulas - Semestre 2020/1 (ERE)
 
 Live de 15/10/2020, 1a. parte, com apresentação das propriedades assintóticas dos componentes principais da matriz de covariâncias e da matriz de correlações. Componentes principais para matrizes com estruturas especiais. Duração: 18:34
 
-
-[Vídeo-aula: Componentes Principais (4b)](https://drive.google.com/file/d/1UF6FqC8v9EzJaafqOOZC2EBhb5yDtXZx/view){target="_blank" rel="noopener noreferrer"}.
-Live de 15/10/2020, 2a. parte, com apresentação de análise de componentes principais do conjunto de dados iris e de aplicação da técnica na construção de mapas de percepção no contexto de marketing.
-
-
+[Vídeo-aula: Componentes Principais (4b)](https://drive.google.com/file/d/1UF6FqC8v9EzJaafqOOZC2EBhb5yDtXZx/view){target="_blank" rel="noopener noreferrer"}. Live de 15/10/2020, 2a. parte, com apresentação de análise de componentes principais do conjunto de dados iris e de aplicação da técnica na construção de mapas de percepção no contexto de marketing.
 
 ## Análise fatorial
 
@@ -96,47 +89,35 @@ Apresentação e detalhamento de outra técnica de análise de estrutura de cova
 
 Vídeoaulas - Semestre 2020/1 (ERE)
 
+[Vídeo-aula: Análise fatorial (1)](https://drive.google.com/file/d/1A9Ka4VOVwj06ggDC0ZR-FCV1-BkKUAwo/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 20/10/2020, com apresentação sobre Fundamentos do modelo fatorial ortogonal. Estimação da matriz de loadings pelo método das componentes principais. Duração: 1:27:09.
 
-[Vídeo-aula: Análise fatorial (1)](https://drive.google.com/file/d/1A9Ka4VOVwj06ggDC0ZR-FCV1-BkKUAwo/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 20/10/2020, com apresentação sobre Fundamentos do modelo fatorial ortogonal. Estimação da matriz de loadings pelo método das componentes principais. Duração: 1:27:09.
+[Vídeo-aula: Análise fatorial (2)](https://drive.google.com/file/d/1P0z9-2DyfzIkFHJOXjOLB1vydS-DKGJi/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 22/10/2020, com apresentação sobre a estimação da matriz de loadings pelo método da máxima verossimilhança e sobre a rotação ortogonal.Duração: 1:49:20.
 
-
-[Vídeo-aula: Análise fatorial (2)](https://drive.google.com/file/d/1P0z9-2DyfzIkFHJOXjOLB1vydS-DKGJi/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 22/10/2020, com apresentação sobre a estimação da matriz de loadings pelo método da máxima verossimilhança e sobre a rotação ortogonal.Duração: 1:49:20.
-
-
-[Vídeo-aula: Análise fatorial (3)](https://drive.google.com/file/d/1NbRpdW9oPnWpNJEyWA296juU9dHRq2Rw/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 27/10/2020, com apresentação sobre a determinação da quantidade de fatores. Validação do modelo fatorial ortogonal e a condução de análise fatorial, no contexto aplicado. Duração: 1:49:31.
-
+[Vídeo-aula: Análise fatorial (3)](https://drive.google.com/file/d/1NbRpdW9oPnWpNJEyWA296juU9dHRq2Rw/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 27/10/2020, com apresentação sobre a determinação da quantidade de fatores. Validação do modelo fatorial ortogonal e a condução de análise fatorial, no contexto aplicado. Duração: 1:49:31.
 
 ## Análise de agrupamentos
-Métodos numéricos com o objetivo comum de identificar grupos de observações que são homogêneas entre si e separadas de outros grupos.  Essas técnicas tentam essencialmente formalizar aquilo que o ser humano observa bem em duas ou três dimensões.
+
+Métodos numéricos com o objetivo comum de identificar grupos de observações que são homogêneas entre si e separadas de outros grupos. Essas técnicas tentam essencialmente formalizar aquilo que o ser humano observa bem em duas ou três dimensões.
 
 [Slides - Análise de agrupamentos](../EST073/07_clustering_2022.pdf){target="_blank" rel="noopener noreferrer"}.
-
 
 ===========================================================================
 
 Vídeoaulas - Semestre 2020/1 (ERE)
 
-[Vídeo-aula: Clustering (1)](https://drive.google.com/file/d/13Ga4Qy0GZ5Z1o-1MAqAWvHI5cnoSJkEx/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 29/10/2020, com apresentação sobre Introdução a agrupamentos. Medidas de distância e de similaridade. Duração: 1:28:26
+[Vídeo-aula: Clustering (1)](https://drive.google.com/file/d/13Ga4Qy0GZ5Z1o-1MAqAWvHI5cnoSJkEx/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 29/10/2020, com apresentação sobre Introdução a agrupamentos. Medidas de distância e de similaridade. Duração: 1:28:26
 
+[Vídeo-aula: Clustering (2)](https://drive.google.com/file/d/1-GEkcDgEc5jzLRf0rdk9TTtqfdoFwfKW/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 03/11/2020, com apresentação sobre métodos de agrupamento hierárquicos. Duração: 1:39:11
 
-[Vídeo-aula: Clustering (2)](https://drive.google.com/file/d/1-GEkcDgEc5jzLRf0rdk9TTtqfdoFwfKW/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 03/11/2020, com apresentação sobre métodos de agrupamento hierárquicos. Duração: 1:39:11
-
-
-[Vídeo-aula: Clustering (2)](https://drive.google.com/file/d/1OzKO7JcpwQViEBOPE3shDK4fiZx8_oxK/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 05/11/2020, com apresentação sobre métodos de agrupamento não hierárquicos. Escolha da quantidade de grupos. Duração: 2:01:36
+[Vídeo-aula: Clustering (2)](https://drive.google.com/file/d/1OzKO7JcpwQViEBOPE3shDK4fiZx8_oxK/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 05/11/2020, com apresentação sobre métodos de agrupamento não hierárquicos. Escolha da quantidade de grupos. Duração: 2:01:36
 
 ## Discriminação e classificação
-Discriminação e classificação são técnicas multivariadas relativas à separação de conjuntos distintos conjuntos de objetos e com a alocação de novos objetos a grupos previamente definidos.
 
+Discriminação e classificação são técnicas multivariadas relativas à separação de conjuntos distintos conjuntos de objetos e com a alocação de novos objetos a grupos previamente definidos.
 
 Introdução
 
-Seção 11.1 - RESUMIR  + GREEN
+Seção 11.1 - RESUMIR + GREEN
 
 Fonte:
 
@@ -144,27 +125,63 @@ JOHNSON, R. A.; WICHERN, D. W. Applied multivariate statistical analysis. 6th. e
 
 [Slides - Discriminação e classificação](../EST073/09_discriminacao_2022.pdf){target="_blank" rel="noopener noreferrer"}.
 
-[Slides - Medição de Desempenho e Comparação de Modelos](../EST073/02_evaluation_2024_handout.pdf){target="_blank" rel="noopener noreferrer"}.
-Medidas de desempenho e comparação de modelos de predição para respostas categóricas
+[Slides - Medição de Desempenho e Comparação de Modelos](../EST073/02_evaluation_2024_handout.pdf){target="_blank" rel="noopener noreferrer"}. Medidas de desempenho e comparação de modelos de predição para respostas categóricas
 
 ===========================================================================
 
 Vídeoaulas - Semestre 2020/1 (ERE)
 
-[Vídeo-aula: Classificação (1)](https://drive.google.com/file/d/1FH4slRHGVW0ADJzMax5nmFli7cYjEl8d/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 10/11/2020, com apresentação sobre classificação e discriminação; análise discriminante; caso de classificação de duas populações normais. Duração: 1:11:28
+[Vídeo-aula: Classificação (1)](https://drive.google.com/file/d/1FH4slRHGVW0ADJzMax5nmFli7cYjEl8d/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 10/11/2020, com apresentação sobre classificação e discriminação; análise discriminante; caso de classificação de duas populações normais. Duração: 1:11:28
 
+[Vídeo-aula: Classificação (2)](https://drive.google.com/file/d/1Rm6AXVWu-ndvW7DjMY7p3q9mTJiZ20W4/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 12/11/2020, com apresentação sobre função discriminante de Fisher; mistura de populações normais. Duração: 1:07:04
 
-[Vídeo-aula: Classificação (2)](https://drive.google.com/file/d/1Rm6AXVWu-ndvW7DjMY7p3q9mTJiZ20W4/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 12/11/2020, com apresentação sobre função discriminante de Fisher; mistura de populações normais. Duração: 1:07:04
-
-
-[Vídeo-aula: Classificação (3)](https://drive.google.com/file/d/1UnWQrIYTJggRJRTcdUXPVHX2MdmzGEw8/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-Live de 17/11/2020, com apresentação sobre caso de classificação de g populações normais multivariadas. Duração: 0:29:33
+[Vídeo-aula: Classificação (3)](https://drive.google.com/file/d/1UnWQrIYTJggRJRTcdUXPVHX2MdmzGEw8/view?usp=sharing){target="_blank" rel="noopener noreferrer"}. Live de 17/11/2020, com apresentação sobre caso de classificação de g populações normais multivariadas. Duração: 0:29:33
 
 ## Biblioteca.
 
 Material suplementar de apoio da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/course/view.php?id=7962){target="_blank" rel="noopener noreferrer"}.
+
+===============================================================================
+
+```{=html}
+<style>
+.center {
+  text-align: center;
+}
+</style>
+```
+
+::: center
+Livros
+:::
+
+Livros
+
+O presente material bibliográfico complementar está disponibilizado de maneira excepcional, para uso exclusivamente com fins didáticos, sendo vedado seu compartilhamento fora desse ambiente de aprendizagem virtual.
+
+- O material bibliográfico complementar será disponibilizado de maneira excepcional no Moodle da disciplina, para uso exclusivamente para fins didáticos, sendo vedado seu compartilhamento fora desse ambiente.
+
+===========================================================================
+
+::: center
+Links
+:::
+
+Blogs
+
+Posts e links com material de interesse sobre temas abordados pela disciplina.
+
+
+===========================================================================
+
+::: center
+Repositório de Arquivos
+:::
+
+[Conjuntos de dados](../est073/Conjuntos de dados-20250510.zip){target="_blank" rel="noopener noreferrer"}.
+
+Scripts utilizados em algumas apresentações e atividades. [Scripts de apresentações e atividades](https://drive.google.com/file/d/1Hle8sRGxVqr2QoVZ2Tz0Eer_zyrtSEJT/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
 
 ## Atividades.
 
