@@ -248,9 +248,13 @@ O presente material bibliográfico complementar está disponibilizado de maneira
 
 [Introductory Statistics with R, 2nd. ed.](https://www.cin.ufpe.br/~maod/ESAP/R/Introductory-Statistics-With-R-2nd-Edition.pdf){target="_blank" rel="noopener noreferrer"}
 
+[R for Data Science (2e)](https://r4ds.hadley.nz/){target="_blank" rel="noopener noreferrer"}
+
 [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf){target="_blank" rel="noopener noreferrer"}.
 
 XIE, Y.; DERVIEUX, C.; RIEDERER, E. R Markdown cookbook. New York: CRC Press, 2020. [R Markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/){target="_blank" rel="noopener noreferrer"}.
+
+
 
 ===============================================================================
 
