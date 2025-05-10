@@ -4,19 +4,333 @@ lang: pt
 format: html
 author: Prof. Lupércio França Bessegato
 toc: true
+toc_depth: 2    # Profundidade do sumário.
+toc_float: 0     # Sumário flutuante na borda.
+collapsed: false
+smooth_scroll: false
+number_sections: true   # Seções numeradas.
+theme: united   # Tema usado (aparência).
+highlight: tango# Cores para o destaque de código.
+css: styles.css # Caminho para arquivo CSS.
+fig_width: 7    # Lagura das figuras.
+fig_height: 6   # Altura das figuras.
+fig_caption: true       # Exibicação de legenda.
+code_folding: hide      # Esconder/exibir bloco de código.
+# mostrar chunk: class.source = 'fold-show'
+keep_md: true   # Manter o arquivo md.
 ---
+
 ## Iniciação Científica
 
-## Extensão
+1. Carlos Sergio Santana Marques Júnior. Métodos de Aprendizagem Estatística para Discriminação e Classificação: Aplicações à Indústria 4.0. 2023. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
 
-## Outros
+2. Gabriel Faria de Paula. Planejamento Econômico e Semi-econômico de Controle On-line por Atributo, com Sistema de Classificação Imperfeito. 2023. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+3. Mateus Amorim Bastos. Ensino de Estatística e Probabilidade na Educação Básica por Projetos. 2023. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+4. Rafael D'Angelo Reis Pereira da Silva. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Gestão de Negócios. 2022. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+5. Mateus Amorim Bastos. Análise Exploratória de Dados Aplicada ao Ensino de Estatística e Probabilidade no Ensino Médio. 2022. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+6. Gabriel Faria de Paula. Abordagens Econômica e Semieconômica para Planejamento de Controle On-Line por Atributo, em Presença de Erros de Classificação. 2022. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+7. Rafael D'Angelo Reis Pereira da Silva. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Gestão de Negócios. 2021. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+8. Lucas Toshitaka Yatsugafu Longo. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Gestão de Negócios. 2020. Iniciação Científica. (Graduando em Interdisciplinar em Ciências Humanas) - Universidade Federal de Juiz de Fora.
+
+9. Lucas Teixeira Oliveira. Análise Exploratória de Dados Aplicada ao Ensino de Estatística e Probabilidade no Ensino Médio. 2020. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+10. João Pedro Junqueira Schettino. Abordagem Econômica para Planejamento de Modelo Integrado de Confiabilidade e de Controle On-Line por Atributo, com Inspeção Imperfeita. 2020. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+11. Calvin Silva Rodrigues. Análise Exploratória de Dados Aplicada ao Ensino de Estatística e Probabilidade no Ensino Médio. 2020. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+12. Lucas Teixeira Oliveira. Análise Exploratória de Dados Aplicada ao Ensino de Estatística e Probabilidade no Ensino Médio. 2020. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+13. Bernardo Hennry Alvim Soares Noel. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Gestão de Negócios. 2020. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+14. Lucas Toshitaka Yatsugafu Longo. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Gestão de Negócios. 2020. Iniciação Científica. (Graduando em Interdisciplinar em Ciências Humanas) - Universidade Federal de Juiz de Fora.
+
+15. João Pedro Junqueira Schettino. Abordagem Econômica para Planejamento de Modelo Integrado de Confiabilidade e de Controle On-Line por Atributo, com Inspeção Imperfeita. 2020. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+16. Matheus Ramos Siqueira Nunes. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Gestão de Negócios. 2019. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+17. Calvin Silva Rodrigues. Análise Exploratória de Dados Aplicada ao Ensino de Estatística e Probabilidade no Ensino Médio. 2019. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+18. João Vitor de Lima. Abordagem Econômica para Planejamento de Modelo Integrado de Confiabilidade e de Controle On-Line por Atributo, com Inspeção Imperfeita. 2018. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+19. Gabriela Theotonio dos Santos. Análise Exploratória de Dados Aplicada ao Ensino de Estatística e Probabilidade no Ensino Médio - Fase 2. 2018. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+20. Júlio Piubello da Silva Cabral. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Marketing. 2018. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+21. Calvin Silva Rodrigues. Análise Exploratória de Dados Aplicada ao Ensino de Estatística e Probabilidade no Ensino Médio. 2018. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+22. Júlio Piubello da Silva Cabral. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Gestão de Negócios. 2018. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal de Juiz de Fora.
+
+23. João Vitor de Lima. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Gestão de Negócios. 2018. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+24. Elidiane Cristina de Aguiar. Abordagem Econômica de Modelo Integrado de Confiabilidade e de Controle On-Line de Processos por Atributo - Fase 3. 2017. Iniciação Científica. (Graduando em Engenharia Elétrica - Sistemas de Potência) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pesquisa/UFJF.
+
+25. João Vitor de Lima. Abordagem Econômica para Planejamento de Modelo Integrado de Confiabilidade e de Controle On-Line por Atributo, com Inspeção Imperfeita. 2017. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+26. Thales Lacerda Arruda Rodrigues. Análise Exploratória de Dados Aplicada ao Ensino de Estatística e Probabilidade no Ensino Médio - Fase 2. 2017. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+27. Renan Augusto de Moraes. Aprendizagem Estatística para Classificação, Reconhecimento e Agrupamento: Aplicações a Modelos de Decisão em Marketing. 2017. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pós-Graduação e Pesquisa.
+
+28. Augusto dos Reis Pereira. Planejamento Econômico de Controle On-Line por Atributo em Presença de Erros de Classificação: Intervalo de Amostragem e Tamanho Amostral Variáveis - Fase 3. 2016. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Conselho Nacional de Desenvolvimento Científico e Tecnológico.
+
+29. Rafael Pedro Ribeiro Santos. Abordagem Econômica para Planejamento de Modelo Integrado de Confiabilidade e de Controle On-Line por Atributo, com Inspeção Imperfeita. 2016. Iniciação Científica. (Graduando em Engenharia Mecânica) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+30. Gabriela Martins Netto. Análise Exploratória de Dados Aplicada ao Letramento Estatístico de Alunos do Ensino Médio. 2016. Iniciação Científica. (Graduando em Ensino Médio) - Escola Estadual Fernando Lobo, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+31. João Vitor de Lima. Abordagem Econômica de Modelo Integrado de Confiabilidade e de Controle On-Line de Processos por Atributo - Fase 3. 2016. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pesquisa/UFJF.
+
+32. Tamires Mara Coelho. Métodos de Estimação em Análise Conjunta de Preferências de Consumidor: Aplicações a Processos Decisórios em Marketing. 2016. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+33. Élton Brasiliense Frade Araújo. Análise Exploratória de Dados Aplicada ao Ensino de Estatística e Probabilidade no Ensino Médio. 2016. Iniciação Científica. (Graduando em Matemática) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pesquisa/UFJF.
+
+34. Augusto dos Reis Pereira. Planejamento Econômico de Controle On-Line por Atributo em Presença de Erros de Classificação: Intervalo de Amostragem e Tamanho Amostral Variáveis - Fase 2. 2015. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Conselho Nacional de Desenvolvimento Científico e Tecnológico.
+
+35. Tamires Mara Coelho. Métodos de Estimação em Análise Conjunta de Preferências de Consumidor: Aplicações a Processos Decisórios em Marketing. 2015. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+36. Igor Duque de Amorim. Abordagem Econômica de Modelo Integrado de Confiabilidade e de Controle On-Line de Processos por Atributo - Fase 2. 2015. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pesquisa/UFJF.
+
+37. João Vitor de Lima. Modelagem Probabilística e Inferência Estatística em Análise de Riscos de Projetos: uma Abordagem por Redes Bayesianas. 2015. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pesquisa/UFJF.
+
+38. Larissa Gabriela de Abreu Toledo. Planejamento Econômico para Controle On-Line para Atributos em Presença de Erros de Classificação com Amostra Não-Unitária: Classificação Clássica e Sequencial. 2014. Iniciação Científica. (Graduando em Engenharia de Produção) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+39. Augusto dos Reis Pereira. Planejamento Econômico de Controle On-Line por Atributo em Presença de Erros de Classificação: Intervalo de Amostragem e Tamanho Amostral Variáveis - Fase 1. 2014. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora, Conselho Nacional de Desenvolvimento Científico e Tecnológico.
+
+40. Alan de Paiva Loures. Uso de Núcleos Estimadores na Construção de Gráficos de Controle de Shewhart para Medidas Individuais - Fase II. 2014. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+41. Daniel Morais de Souza. Planejamento Econômico-Estatístico no Controle On-Line por Atributo com Sistema de Inspeção Imperfeito. 2013. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+42. Augusto dos Reis Pereira. Planejamento Econômico para Controle On-Line para Atributos em Presença de Erros de Classificação com Amostra Não-Unitária: Classificação Clássica e Sequencial. 2013. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+43. Nicolas Nascimento Silva. Planejamento Econômico de Controle On-Line de Processos por Atributo com Erros de Classificação. 2013. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+44. Fernanda Ferreira de Souza. Planejamento Econômico de Controle On-Line de Processos por Atributo com Erros de Classificação. 2013. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+45. Alan de Paiva Loures. Uso de Núcleos Estimadores na Construção de Gráficos de Controle de Shewhart para Medidas Individuais. 2013. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+46. Mário Halfeld Clark Campos. Abordagem Econômica de Modelo Integrado de Confiabilidade e de Controle On-Line de Processos por Atributo, com Sistema de Classificação Imperfeito. 2013. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+47. Fernanda Ferreira de Souza. Modelagem por Cadeia de Markov do Controle On-Line de Processos por Atributo: uma Aplicação em Excel. 2012. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+48. Lucas da Silveira Mota. Planejamento Econômico-Estatístico no Controle On-Line por Atributo com Sistema de Inspeção Imperfeito. 2012. Iniciação Científica. (Graduando em Engenharia de Produção) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Pesquisa/UFJF.
+
+49. Alan de Paiva Loures. Uso de Núcleo Estimador no Planejamento de Cartas de Controle X. 2012. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+50. Israel Castro Nunes. Planejamento Econômico de Amostragem de Aceitação Retificadora em Presença de Erros de Classificação. 2012. Iniciação Científica. (Graduando em Engenharia de Produção) - Universidade Federal de Juiz de Fora.
+
+51. Valdenir da Silva Oliveira. Uso de Núcleo-Estimador na Estimação da Área sob a Curva ROC para Testes Diagnósticos Contínuos. 2012. Iniciação Científica. (Graduando em Medicina) - Universidade Federal de Juiz de Fora.
+
+52. Alan de Paiva Loures. Estudo de Desempenho de Núcleos Estimadores na Estimação da Função de Distribuição. 2011. Iniciação Científica. (Graduando em Ciências Exatas) - Universidade Federal de Juiz de Fora, Conselho Nacional de Desenvolvimento Científico e Tecnológico.
+
+53. Daniel Morais de Souza. Modelagem por cadeia de Markov no Planejamento de Cartas de Controle de X. 2011. Iniciação Científica. (Graduando em Estatística) - Universidade Federal de Juiz de Fora.
+
+54. Lucas da Silveira Mota. Amostragem Variável e Classificações Repetidas em Planejamento Econômico de Controle On-Line por Atributo com Erros de Classificação: uma Aplicação Baseada em Algoritmos Genéticos. 2011. Iniciação Científica. (Graduando em Engenharia de Produção) - Universidade Federal de Juiz de Fora.
+
+
+## Outros / Extensão
+
+1. Ivanylson Honório Gonçalves. Dinâmicas e Alternativas para Professores que Ensinam Estatística. 2024. Orientação de outra natureza. (Sistemas de Informação) - Universidade Federal de Juiz de Fora.
+
+2. João Vitor de Lima. Monitoria de Disciplinas do Departamento de Estatística. 2023. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+3. Ivanylson Honório Gonçalves. Dinâmicas e Alternativas para Professores que Ensinam Estatística. 2023. Orientação de outra natureza. (Sistemas de Informação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Extensão/UFJF.
+
+4. Arthur Marchito Leite. Monitoria de Disciplinas do Departamento de Estatística. 2023. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+5. João Vitor de Lima. Monitoria de Disciplinas de Estatística Computacional e de Inferência do Curso de Estatística. 2022. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+6. Ivanylson Honório Gonçalves. Apoio Administrativo à Coordenação do Curso de Graduação em Estatística. 2021. Orientação de outra natureza. (Sistemas de Informação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+7. Marcus Vinícius Macedo. Estruturação e Gestão das Iniciativas de Divulgação e Comunicação do Curso de Estatística. 2021. Orientação de outra natureza. (Jornalismo) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+8. Hugo França Belém. Estruturação e Gestão das Iniciativas de Divulgação e Comunicação do Curso de Estatística. 2021. Orientação de outra natureza. (Jornalismo) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+9. Ivanylson Honório Gonçalves. Encontros com a Estatística. 2021. Orientação de outra natureza. (Sistemas de Informação) - Universidade Federal de Juiz de Fora.
+
+10. João Vitor de Lima. Monitoria de Disciplinas do Departamento de Estatística. 2021. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+11. Ivanylson Honorio Gonçalves. Estruturação e Gestão do Sistema de Informações e Manutenção da Tecnologia de Informações do Departamento de Estatística. 2020. Orientação de outra natureza. (Sistemas de Informação) - Universidade Federal de Juiz de Fora.
+
+12. João Vitor de Lima. Monitoria de Disciplinas do Departamento de Estatística. 2020. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+13. Ivanylson Honorio Gonçalves. Estruturação e gestão de atividades na Coordenação Editorial do Departamento de Estatística da UFJF. 2019. Orientação de outra natureza. (Sistemas de Informação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+14. Bryan Carolino Muniz Barbosa. Estruturação e Gestão das Iniciativas de Divulgação e Comunicação do Curso de Estatística. 2019. Orientação de outra natureza. (Ciências Exatas) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+15. Lucas Toshitaka Yatsugafu Longo. Apoio Administrativo à Coordenação do Curso de Graduação em Estatística. 2019. Orientação de outra natureza. (Interdisciplinar em Ciências Humanas) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+16. Lucas Toshitaka Yatsugafu Longo. Apoio Administrativo à Coordenação do Curso de Graduação em Estatística. 2019. Orientação de outra natureza. (Interdisciplinar em Ciências Humanas) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+17. José Roberto Peres Júnior. Monitoria de Disciplinas do Departamento de Estatística. 2019. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+18. Bruno Berbert de Carvalho. Estruturação e gestão do sistema de informações e manutenção de tecnologia de informações do Departamento de Estatística da UFJF. 2018. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+19. Robson Ortz Oliveira Cunha. Estruturação e gestão de atividades na Coordenação Editorial do Departamento de Estatística da UFJF. 2018. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+20. Isabelly Coelho Evangelista. Apoio Administrativo à Coordenação do Curso de Graduação em Estatística. 2018. Orientação de outra natureza. (Engenharia de Produção) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+21. Nicolas Oliveira da Silva. Estruturação e gestão de atividades na Coordenação Editorial do Departamento de Estatística da UFJF. 2018. Orientação de outra natureza. (Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+22. Renan Augusto de Moraes. Estruturação e Gestão de Processos e Procedimentos Eletrônicos na Secretaria do Departamento de Estatística da UFJF. 2017. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+23. Júlio Piubello da Silva Cabral. Estruturação e Gestão de Processos e Procedimentos Eletrônicos na Secretaria do Departamento de Estatística da UFJF. 2017. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+24. Victor Salomão Lacerda Brandão. Estruturação e Gestão de Processos e Procedimentos Eletrônicos na Secretaria do Departamento de Estatística da UFJF. 2016. Orientação de outra natureza. (Serviço Social) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+25. Renan Augusto de Moraes. Tecnologia de Informação no Departamento de Estatística. 2016. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+26. Gabriela Ribeiro Cabral. Métodos Estatísticos Aplicados à Análise de Riscos em Gestão de Projetos. 2015. Orientação de outra natureza. (Engenharia de Produção) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Extensão/UFJF.
+
+27. Rafael Pedro Ribeiro Santos. Estruturação e Gestão de Processos e Procedimentos Eletrônicos na Secretaria do Departamento de Estatística da UFJF. 2015. Orientação de outra natureza. (Engenharia Mecânica) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+28. Thiago Caldeira dos Santos. Tecnologia da Informação no Departamento de Estatística. 2015. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+29. Álvaro Alencar Nogueira Itaborahy. Estruturação e Gestão de Atividades na Coordenação Editorial do Departamento de Estatística da UFJF. 2014. Orientação de outra natureza. (Engenharia Elétrica) - Universidade Federal de Juiz de Fora.
+
+30. Carlos Guilherme Venâncio Gonçalves. Monitoria da Disciplina de Cálculo de Probabilidades I. 2014. Orientação de outra natureza. (Engenharia Elétrica - Robótica e Automação Industrial) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+31. Thiago Carvalho de Paula. Métodos Estatísticos Aplicados à Análise de Riscos em Gestão de Projetos. 2014. Orientação de outra natureza. (Engenharia de Produção) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Extensão/UFJF.
+
+32. Hugo Costa Campbel. Métodos Estatísticos Aplicados à Análise de Riscos em Gestão de Projetos. 2013. Orientação de outra natureza. (Engenharia de Produção) - Universidade Federal de Juiz de Fora.
+
+33. João Vitor Reis Mattos. Métodos Estatísticos Aplicados à Análise de Riscos em Gestão de Projetos. 2013. Orientação de outra natureza. (Engenharia de Produção) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Extensão/UFJF.
+
+34. Álvaro Alencar Nogueira Itaborahy. Estruturação e Gestão de Atividades da Comissão Orientadora de Estágios do Curso de Estatística da UFJF. 2013. Orientação de outra natureza. (Engenharia Elétrica) - Universidade Federal de Juiz de Fora.
+
+35. Bruno Sabadini Vicente. Monitoria da Disciplina de Cálculo de Probabilidades I. 2013. Orientação de outra natureza. (Engenharia Mecânica) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+36. Geferson Felipe de Souza. Monitoria da Disciplina de Cálculo de Probabilidades I. 2013. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+37. Mário Halfeld Clark Campos. Monitoria da Disciplina de Cálculo de Probabilidades I. 2013. Orientação de outra natureza. (Ciências Exatas) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+38. Victor Silveira Gomes. Monitoria da Disciplina de Cálculo de Probabilidades I. 2013. Orientação de outra natureza. (Ciências Exatas) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+39. Mateus Correa Lima Pereira. Monitoria da Disciplina de Cálculo de Probabilidades I. 2013. Orientação de outra natureza. (Engenharia Elétrica - Robótica e Automação Industrial) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+40. Carlos Guilherme Venancio Gonçalves. Monitoria da Disciplina de Cálculo de Probabilidades I. 2013. Orientação de outra natureza. (Engenharia Elétrica - Robótica e Automação Industrial) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+41. Laís Cristina Barbosa Costa. Monitoria da Disciplina de Cálculo de Probabilidades I. 2013. Orientação de outra natureza. (Engenharia Civil) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+42. Felipe Lage Farah. Monitoria da Disciplina de Cálculo de Probabilidades I. 2013. Orientação de outra natureza. (Engenharia Civil) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+43. Augusto dos Reis Pereira. Estruturação e Gestão de Atividades da Comissão Orientadora de Estágios do Curso de Estatística da UFJF. 2012. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora.
+
+44. Camila Pereira do Reis. Monitoria da Disciplina de Cálculo de Probabilidades I. 2012. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora.
+
+45. Mayra Hilel Tavares Demian. Monitoria da Disciplina de Cálculo de Probabilidades I. 2012. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora.
+
+46. Eduardo Luiz dos Santos Silva. Monitoria da Disciplina de Cálculo de Probabilidades I. 2012. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora.
+
+47. Amanda Romanelli Dias. Monitoria da Disciplina de Cálculo de Probabilidades II. 2012. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora.
+
+48. Kinn Belarmino Batista Dias. Monitoria da Disciplina de Cálculo de Probabilidades I. 2012. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora.
+
+49. Gabriel Mendes Cordeiro. Monitoria da Disciplina de Cálculo de Probabilidades I. 2012. Orientação de outra natureza. (Engenharia Mecânica) - Universidade Federal de Juiz de Fora, Pró-Reitoria de Graduação-UFJF.
+
+50. Priscila Gregório Bernardo. Treinamento Profissional no Laboratório de Ensino de Estatística. 2011. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora.
+
+51. Daniel Morais de Souza. Treinamento Profissional na Comissão Orientadora de Estágios do Curso de Estatística. 2011. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora.
+
+52. Augusto dos Reis Pereira. Treinamento Profissional na Comissão Orientadora de Estágios do Curso de Estatística. 2011. Orientação de outra natureza. (Estatística) - Universidade Federal de Juiz de Fora.
+
 
 ## Orientações
 
 ### TCC
 
+1. João Vitor de Lima. Abordagem econômica-estatística para planejamento de controle on-line por atributo. 2023. Trabalho de Conclusão de Curso. (Graduação em Estatística) - Universidade Federal de Juiz de Fora.
+
+2. José Roberto Peres Júnior. Aplicação de modelo de regressão logística multinomial em predição. 2021. Trabalho de Conclusão de Curso. (Graduação em Estatística) - Universidade Federal de Juiz de Fora.
+
+3. Lucas Toshitaka Yatsugafu Longo. Redes Sociais na Modernidade Líquida: Análise de Sentimentos em Publicações de Políticos Brasileiros e sobre Eles no Twitter. 2021. Trabalho de Conclusão de Curso. (Graduação em Interdisciplinar em Ciências Humanas) - Universidade Federal de Juiz de Fora.
+
+4. Calvin Silva Rodrigues. Técnicas e visualização de agrupamentos em aprendizagem não supervisionada com aplicações. 2021. Trabalho de Conclusão de Curso. (Graduação em Estatística) - Universidade Federal de Juiz de Fora.
+
+5. Rafael Pedro Ribeiro Santos. Monitoramento de Processos de Alta Capacidade com Gráficos de Contagem Acumulada de Conformidades. 2018. Trabalho de Conclusão de Curso. (Graduação em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+6. Augusto dos Reis Pereira. Planejamento Econômico de Controle On-Line por Atributo. 2016. Trabalho de Conclusão de Curso. (Graduação em Estatística) - Universidade Federal de Juiz de Fora.
+
+7. Alan de Paiva Loures. Abordagens Paramétricas e Não Paramétricas para Monitoramento de Parâmetro de Locação - Caso Univariado. 2015. Trabalho de Conclusão de Curso. (Graduação em Estatística) - Universidade Federal de Juiz de Fora.
+
+8. Mário Halfeld Clark Campos. Simulação em R para Análise de Desempenho de Gráficos de Controle de X_barra. 2014. Trabalho de Conclusão de Curso. (Graduação em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+9. Augusto dos Reis Pereira. Planejamento Econômico para Controle On-Line para Atributos em Presença de Erros de Classificação com Amostra Não-Unitária: Classificação Clássica e Sequencial. 2014. Trabalho de Conclusão de Curso. (Graduação em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+10. Daniel Morais de Souza. Modelos Ocultos de Markov: Uma Abordagem em Controle de Processos. 2013. Trabalho de Conclusão de Curso. (Graduação em Estatística) - Universidade Federal de Juiz de Fora.
+
+11. Alan de Paiva Loures. Abordagem Não Paramétrica no Planejamento Estatístico de Cartas de Controle por Variável: um Estudo Comparativo do Desempenho Bootstrap. 2013. Trabalho de Conclusão de Curso. (Graduação em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+12. Daniel Morais de Souza. Uso de Cadeia de Markov na Modelagem Estocástica de Planejamento Econômico de Cartas de Controle X-barrra para Processo Markoviano. 2012. Trabalho de Conclusão de Curso. (Graduação em Ciências Exatas) - Universidade Federal de Juiz de Fora.
+
+13. Priscila Bernardo Gregório. Planejamento Econômico de Gráficos de Controle X com Modelo de Falha de Poisson. 2011. Trabalho de Conclusão de Curso. (Graduação em Estatística) - Universidade Federal de Juiz de Fora.
+
+14. Thiago Otoni Matos. Conjoint Analysis: uma Aplicação em Marketing. 2011. Trabalho de Conclusão de Curso. (Graduação em Estatística) - Universidade Federal de Juiz de Fora.
+
+15. Rildo de Miranda Alves. Implementação de Controle Estatístico do Processo: um Estudo de Caso na Indústria Siderúrgica. 2008. Trabalho de Conclusão de Curso. (Graduação em Engenharia Mecânica) - Universidade Federal de Minas Gerais.
+
+16. Fernanda Vieira Marçal. Aplicação do Método de Linha de Balanço segundo a Filosofia de 'Lean Construction': um Estudo Comparativo entre os Métodos de Linha de Balanço (LOB) e PERT/CPM. 2007. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Produção) - Universidade Federal de Minas Gerais.
+
+17. Bruno Vilasboas Passos Dornelas e Paulo Antunes Ferreira. Aplicação de Técnicas de 'Scheduling' em Projetos 'Turn-Key' de Montagem Industrial. 2007. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Produção) - Universidade Federal de Minas Gerais.
+
+18. Eduardo Lopes Carvalho da Silva e Isabel Nogueira Carneiro. Aplicação de Técnicas de Julgamento de Especialistas na Geração e Análise de Estimativas de Esforços em Projetos. 2007. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Produção) - Universidade Federal de Minas Gerais.
+
+19. Felippe Elias de Melo Lima Isaac. Risco Financeiro em Entidade Fechada de Previdência Complementar e Método de Composição de Carteiras avaliando o Risco x Retorno. 2006. Trabalho de Conclusão de Curso. (Graduação em Ciências Atuariais) - Universidade Federal de Minas Gerais.
+
+20. Henrique Tuyama Sallero e Gustavo Augusto Silva Avelar. Aplicação de Métodos de Gerenciamento de Projetos em um Projeto de Implantação de um ERP e em um Programa de Eletrificação Rural. 2006. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Produção) - Universidade Federal de Minas Gerais.
+
+21. Rodolfo de Ávila Lemos Neto. O Risco e a Composição de Portfólios. 2006. Trabalho de Conclusão de Curso. (Graduação em Ciências Atuariais) - Universidade Federal de Minas Gerais.
+
+22. Marceli Regina Costa. Índice de Satisfação do Cliente: um Estudo de Caso sobre sua Adição na Montele, Indústria de Elevadores e Monta-cargas. 2006. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Produção) - Universidade Federal de Minas Gerais.
+
+23. Fábio Rodrigues de Oliveira. Simulação de Modelos de Filas M/M/1 e M/G/1: Implementação, Análise e Aplicações. 2004. Trabalho de Conclusão de Curso. (Graduação em Estatística) - Universidade Federal de Minas Gerais.
+
+24. Wuberdan Gonçalves Pereira. A Informatização do Sistema de Informação nas Escolas Estaduais de Belo Horizonte. 2003. 103 f. Trabalho de Conclusão de Curso. (Graduação em Curso Superior de Administração Pública) - Fundação João Pinheiro.
+
+
 ### Monografia
 
+1. Eduardo Roberto P. Vaz de Magalhães. O Uso do Programa 6 Sigma para a Melhoria da Confiabilidade em Locomotivas. 2013. Monografia. (Aperfeiçoamento/Especialização em Métodos Estatísticos Computacionais) - Universidade Federal de Juiz de Fora.
+
+2. Christiano Alvim Furtado Gomes. Programa Seis Sigma em Empresas de Médio Porte: um Estudo de Caso. 2010. Monografia. (Aperfeiçoamento/Especialização em Estatística) - Universidade Federal de Minas Gerais.
+
+3. Lucas Villas Boas Givisiez. A Gestão dos Regimes Próprios de Previdência Social: Um Estudo de Caso do Fundo de Previdência do Estado de Minas Gerais. 2005. Monografia. (Aperfeiçoamento/Especialização em Economia Empresarial) - Instituto de Educação Continuada da PUC Minas.
+
+4. Adriana Kuhl Sonoff e Rodrigues e Leonardo Roberto Santos. Transferência dos Vôos do Aeroporto de Belo Horizonte para o Aeroporto Internacional Tancredo Neves: uma Análise de Cenários e Perspectivas. 2005. Monografia. (Aperfeiçoamento/Especialização em Economia Empresarial) - Instituto de Educação Continuada da PUC Minas.
+
+
 ### Dissertação
+1. Vinicius Junior Damasceno. Dissertação não concluída: Comportamento do e-consumidor varejista: um estudo aplicado com Market Basket Analysis. 2023. Dissertação (Mestrado em Administração) - Universidade Federal de Juiz de Fora.
+
+2. Walter Soares Antonio Júnior. Dissertação não concluída: Contribuições do uso de um Aplicativo Web para o Ensino de Estatística por meio de projetos. 2023. Dissertação (Mestrado em Educação Matemática) - Universidade Federal de Juiz de Fora.
+
+3. Alcimar Honorio. A contribuição da gestão de projetos na gestão de contratos de construção: um estudo em duas universidades públicas federais. 2023. Dissertação (Mestrado em Administração Pública) - Universidade Federal de Juiz de Fora.
+
+4. Rodrigo Pereira de Carvalho. Dissertação não concluída: Abordagem para alinhamento da segurança da informação ao planejamento estratégico no âmbito da Administração Pública. 2022. Dissertação (Mestrado em Administração) - Universidade Federal de Juiz de Fora.
+
+5. Derkian Geraldo Damasceno de Oliveira. O processo inovativo nas empresas participantes do Projeto ALI - Agentes Locais de Inovação 2019/2020, nas regionais de Juiz de Fora e Cataguases: características, fatores facilitadores e dificultadores. 2021. Dissertação (Mestrado em Administração) - Universidade Federal de Juiz de Fora, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.
+
+6. Albertino Ribeiro Novaes Netto. Educação Estatística no ensino médio: a leitura de gráficos. 2021. Dissertação (Mestrado em Educação Matemática (32005016027P1)) - Universidade Federal de Juiz de Fora.
+
+7. Ramon Freitas Mendes. Metodologias de gerenciamento de projetos aplicadas à renovação de linha ferroviária. 2021. Dissertação (Mestrado em Engenharia de Produção) - Pontifícia Universidade Católica do Rio de Janeiro.
+
+8. Mônica Vasconcellos Barral Campos. O processo de institucionalização do bitcoin e as forças que atuam em suas fases de adoção. 2020. Dissertação (Mestrado em Administração) - Universidade Federal de Juiz de Fora.
+
+9. Frederico Ribeiro Rosas. Análise das ações de desenvolvimento sustentável implementadas na Universidade Federal de Juiz de Fora – Um estudo de caso. 2020. Dissertação (Mestrado em Administração) - Universidade Federal de Juiz de Fora.
+
+10. Lucas Costa Correia. Fatores de influência na compra de criptomoedas no Brasil. 2019. Dissertação (Mestrado em Administração) - Universidade Federal de Juiz de Fora.
+
+11. Gustavo dos Santos Leal. Avaliação de Microregiões do Sudeste Brasileiro Quanto à Eficiência de Hospitais Operacionalizados pelo SUS. 2018. Dissertação (Mestrado em Administração) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
+
+12. Gleice Santana Morais. Fatores que influenciam a associação em cooperativas de crédito. 2018. Dissertação (Mestrado em Administração) - Universidade Federal de Juiz de Fora, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.
+
+13. Ricardo da Silveira Coelho. Perfil do sonegador: um olhar sobre contribuintes inabilitados do Cadastro do ICMS. 2018. Dissertação (Mestrado em Administração Pública) - Universidade Federal de Juiz de Fora.
+
+14. Marcelo Gaio Mancio. Educação Empreendedora no Ensino Superior: Proposta de um Programa Adequado ao Contexto Brasileiro. 2018. Dissertação (Mestrado em Administração) - Universidade Federal de Juiz de Fora, Fundação de Amparo à Pesquisa do Estado de Minas Gerais.
 
 ### Tese
+
+1. Márcio de Oliveira. Limnologia da Paisagem com uso de regressão geograficamente ponderada: estudo da bacia de contribuição da represa de Chapéu D'Uvas. 2018. Tese (Doutorado em Biodiversidade e Conservação da Natureza) - Universidade Federal de Juiz de Fora.
