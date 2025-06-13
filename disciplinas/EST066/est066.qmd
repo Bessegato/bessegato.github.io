@@ -106,7 +106,9 @@ Simulação de processo de Poisson homogêneo, não homogêneo e cadeias de Mark
 
 Algumas propriedades probabilísticas e algoritmos envolvendo processos de Poisson e cadeias de Markov... [Simulação de processos estocásticos](../EST066/05.1_processos.html){target="_blank" rel="noopener noreferrer"}.
 
-Geração de realizações de processos de Poisson e cadeias de Markov. [Estudo dirigido - Cadeias de Markov e processo de Poisson](../EST066/Estudo%20dirigido%20-Cadeias%20de%20Markov%20e%20processo%20de%20Poisson.html){target="_blank" rel="noopener noreferrer"}.
+Geração de realizações de processos de Poisson e cadeias de Markov.
+
+[Estudo dirigido - Cadeias de Markov e processo de Poisson](../EST066/Estudo%20dirigido%20-Cadeias%20de%20Markov%20e%20processo%20de%20Poisson.html){target="_blank" rel="noopener noreferrer"}.
 
 [Cadeias de Markov - Exemplos de aplicação na indústria](../EST066/Cadeias%20de%20Markov%20-%20Exemplos%20de%20aplicação%20na%20indústria.pdf){target="_blank" rel="noopener noreferrer"}.
 
@@ -130,7 +132,7 @@ Métodos e algoritmos de otimização em R
 
 Introdução à otimização com o R, apresentando uma introdução aos métodos modernos de otimização e a função optim(). [Otimização](../EST066/09_otimizacao.html){target="_blank" rel="noopener noreferrer"}.
 
-Live de 02/09/21, com apresentação da introdução à otimização.Duração: 33:19.[Otimização](https://drive.google.com/file/d/1IM7B-sa4pRoPXswThnXdMTMcfbPurmnA/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+Live de 02/09/21, com apresentação da introdução à otimização.Duração: 33:19. [Otimização](https://drive.google.com/file/d/1IM7B-sa4pRoPXswThnXdMTMcfbPurmnA/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 Live de 14/09/21, com apresentação do uso da função optim() em otimização. Duração: 1:02:49.[Função optim()](https://drive.google.com/file/d/1JeeLEVfzklGyKRR5Y-8g-I12fP6jzYzO/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
@@ -160,8 +162,7 @@ Livros
 
 O presente material bibliográfico complementar está disponibilizado de maneira excepcional, para uso exclusivamente com fins didáticos, sendo vedado seu compartilhamento fora desse ambiente de aprendizagem virtual.
 
-- O material bibliográfico complementar será disponibilizado de maneira excepcional no Moodle da disciplina, para uso exclusivamente para fins didáticos, sendo vedado seu compartilhamento fora desse ambiente.
-
+-   O material bibliográfico complementar será disponibilizado de maneira excepcional no Moodle da disciplina, para uso exclusivamente para fins didáticos, sendo vedado seu compartilhamento fora desse ambiente.
 
 [Simulation](https://ead.ufjf.br/pluginfile.php/1930593/mod_resource/content/1/Ross_Simulation.pdf){target="_blank" rel="noopener noreferrer"}.
 
@@ -179,18 +180,15 @@ Links
 
 Informações detalhadas sobre distribuições univariadas, suas propriedades e relações. [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html){target="_blank" rel="noopener noreferrer"}.
 
-
 ===============================================================================
 
 ::: center
 Repositório de Arquivos
 :::
 
-Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina. [Conjuntos de dados](../est066/Conjuntos de dados-20250510.zip){target="_blank" rel="noopener noreferrer"}.
+Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina. [Conjuntos de dados](../est066/Conjuntos%20de%20dados-20250510.zip){target="_blank" rel="noopener noreferrer"}.
 
 [Scripts de apresentações e atividades](https://drive.google.com/file/d/1FdbuZEX_TdgmZOJOhK5KWc0QGtFYdimM/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-
-
 
 ## Atividades.
 
