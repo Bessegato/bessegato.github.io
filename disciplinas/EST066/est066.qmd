@@ -54,25 +54,39 @@ Uso do método da aceitação/rejeição para construir geradores de número ale
 
 [Estudo dirigido - Método da Aceitação/Rejeição](../EST066/Estudo%20dirigido%20-%20Método%20da%20Aceitação_Rejeição.html){target="_blank" rel="noopener noreferrer"}.
 
-Live de 17/06/21, com apresentação dos fundamentos do Método da Rejeição na geração de números aleatórios e exemplo de uso do método na geração de números aleatórios de uma beta.Duração: 42:16. [Método da Rejeição](https://drive.google.com/file/d/1dDT5S-qYwujDTyVubpG7qH8rSR7psMcs/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+Live de 17/06/21, com apresentação dos fundamentos do Método da Rejeição na geração de números aleatórios e exemplo de uso do método na geração de números aleatórios de uma beta.Duração: 42:16.
 
-Live de 29/06/21, com apresentação de rotina para geração de números aleatórios de uma normal padrão (e qualquer normal) pelo método aceitação/rejeição. A rotina deve ser aprimorada para a construção de um algoritmo para o gerador desejado. O código já está disponível.Duração: 57:34.[Geração de normal padrão pelo Método da Rejeição](https://drive.google.com/file/d/1OM95YrUkX8kwFBcHBx_Cb81WcLNdo9rC/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+[Método da Rejeição](https://drive.google.com/file/d/1dDT5S-qYwujDTyVubpG7qH8rSR7psMcs/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Live de 29/06/21, com apresentação de rotina para geração de números aleatórios de uma normal padrão (e qualquer normal) pelo método aceitação/rejeição. A rotina deve ser aprimorada para a construção de um algoritmo para o gerador desejado. O código já está disponível.Duração: 57:34.
+
+[Geração de normal padrão pelo Método da Rejeição](https://drive.google.com/file/d/1OM95YrUkX8kwFBcHBx_Cb81WcLNdo9rC/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 Métodos para a geração de vetores aleatórios normais multivariados a partir de sequência de variáveis aleatórias padrão independentes. [Geração de normal bivariada](../EST066/04_geracao_bivariada.html){target="_blank" rel="noopener noreferrer"}.
 
-Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições. [Estudo dirigido - Normal bivariada & mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Normal%20bivariada%20e%20mistura%20de%20distribuições.html){target="_blank" rel="noopener noreferrer"}.
+Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.
 
-Live de 08/07/21, com apresentação da fundamentação teórica para geração de vetores aleatórios normais bivariados e normais p-variados.Duração: 45:10. [Geração de vetores aleatórios normais bivariados e p-variados](https://drive.google.com/file/d/18FGDFtDt1UBkhM9bIZukpmYMLSPF6dFX/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+[Estudo dirigido - Normal bivariada & mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Normal%20bivariada%20e%20mistura%20de%20distribuições.html){target="_blank" rel="noopener noreferrer"}.
+
+Live de 08/07/21, com apresentação da fundamentação teórica para geração de vetores aleatórios normais bivariados e normais p-variados.Duração: 45:10.
+
+[Geração de vetores aleatórios normais bivariados e p-variados](https://drive.google.com/file/d/18FGDFtDt1UBkhM9bIZukpmYMLSPF6dFX/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 Live de 13/07/21, com apresentação de script com geração de vetores aleatórios normais bivariados e trivariados.Duração: 41:33. [Geração de vetores aleatórios normais bivariados](https://drive.google.com/file/d/1dWhTZWjgWSbR2pdluxbzcDWUusomRDmu/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-Geração de números aleatórios de misturas de distribuições. [Estudo dirigido - Mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Mistura%20de%20distribuições.html){target="_blank" rel="noopener noreferrer"}.
+Geração de números aleatórios de misturas de distribuições.
+
+[Estudo dirigido - Mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Mistura%20de%20distribuições.html){target="_blank" rel="noopener noreferrer"}.
 
 Live de 20/07/21, com apresentação de script com modelos de mistura de distribuições normais e gamas e um exemplo de estimação com o conjunto de dados faithful.Duração: 1:17:48.[Modelos de mistura de distribuições](https://drive.google.com/file/d/1FXbnl5u8_YrbyVSorc0Mi9Z5sMsVrB5t/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-Aula de dúvidas turma 2020-1, sobre dúvidas e esclarecimentos sobre normal multivariada e mistura de normais.Duração: 41:56. [Aula sobre dúvidas - 28/10/2020](https://drive.google.com/file/d/1i9DcVe8ay4FruA3ayr6WdBiqXRMAv46-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+Aula de dúvidas turma 2020-1, sobre dúvidas e esclarecimentos sobre normal multivariada e mistura de normais.Duração: 41:56.
 
-Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas. Geração de números aleatórios de misturas de distribuições. [Estudo dirigido - Mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Mistura%20de%20distribuicoes.html){target="_blank" rel="noopener noreferrer"}.
+[Aula sobre dúvidas - 28/10/2020](https://drive.google.com/file/d/1i9DcVe8ay4FruA3ayr6WdBiqXRMAv46-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas. Geração de números aleatórios de misturas de distribuições.
+
+[Estudo dirigido - Mistura de distribuições](../EST066/Estudo%20dirigido%20-%20Mistura%20de%20distribuicoes.html){target="_blank" rel="noopener noreferrer"}.
 
 Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas.[Variáveis aleatórias discretas](../EST066/02.5_geracao_discretas.html){target="_blank" rel="noopener noreferrer"}.
 
@@ -108,7 +122,6 @@ Algumas propriedades probabilísticas e algoritmos envolvendo processos de Poiss
 
 Geração de realizações de processos de Poisson e cadeias de Markov.
 
-
 [Estudo dirigido - Cadeias de Markov e processo de Poisson](../EST066/Estudo%20dirigido%20-Cadeias%20de%20Markov%20e%20processo%20de%20Poisson.html){target="_blank" rel="noopener noreferrer"}.
 
 [Cadeias de Markov - Exemplos de aplicação na indústria](../EST066/Cadeias%20de%20Markov%20-%20Exemplos%20de%20aplicação%20na%20indústria.pdf){target="_blank" rel="noopener noreferrer"}.
@@ -123,9 +136,13 @@ Live de 12/08/21, com apresentação de material sobre simulação de processo d
 
 Reamostragem boostrap, validação cruzada e jackknife
 
-Slides sobre reamostragem para estimação de intervalos de confiança de estatísticas amostrais e coeficientes de regressão. [Reamostragem](../EST066/ERE_08_reamostragem.pdf){target="_blank" rel="noopener noreferrer"}.
+Slides sobre reamostragem para estimação de intervalos de confiança de estatísticas amostrais e coeficientes de regressão.
 
-Uso de bootstrap não paramétrico para estimação de estatísticas amostrais e intervalos de confiança de parâmetros populacionais. [Estudo dirigido - Bootstrap](../EST066/Estudo%20dirigido%20-%20Bootstrap.pdf){target="_blank" rel="noopener noreferrer"}.
+[Reamostragem](../EST066/ERE_08_reamostragem.pdf){target="_blank" rel="noopener noreferrer"}.
+
+Uso de bootstrap não paramétrico para estimação de estatísticas amostrais e intervalos de confiança de parâmetros populacionais.
+
+[Estudo dirigido - Bootstrap](../EST066/Estudo%20dirigido%20-%20Bootstrap.pdf){target="_blank" rel="noopener noreferrer"}.
 
 ## Otimização
 
@@ -179,7 +196,9 @@ O presente material bibliográfico complementar está disponibilizado de maneira
 Links
 :::
 
-Informações detalhadas sobre distribuições univariadas, suas propriedades e relações. [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html){target="_blank" rel="noopener noreferrer"}.
+Informações detalhadas sobre distribuições univariadas, suas propriedades e relações.
+
+[Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html){target="_blank" rel="noopener noreferrer"}.
 
 ===============================================================================
 
@@ -187,7 +206,9 @@ Informações detalhadas sobre distribuições univariadas, suas propriedades e 
 Repositório de Arquivos
 :::
 
-Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina. [Conjuntos de dados](../est066/Conjuntos%20de%20dados-20250510.zip){target="_blank" rel="noopener noreferrer"}.
+Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina.
+
+[Conjuntos de dados](../est066/Conjuntos%20de%20dados-20250510.zip){target="_blank" rel="noopener noreferrer"}.
 
 [Scripts de apresentações e atividades](https://drive.google.com/file/d/1FdbuZEX_TdgmZOJOhK5KWc0QGtFYdimM/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
