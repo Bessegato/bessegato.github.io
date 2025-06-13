@@ -108,6 +108,7 @@ Algumas propriedades probabilísticas e algoritmos envolvendo processos de Poiss
 
 Geração de realizações de processos de Poisson e cadeias de Markov.
 
+
 [Estudo dirigido - Cadeias de Markov e processo de Poisson](../EST066/Estudo%20dirigido%20-Cadeias%20de%20Markov%20e%20processo%20de%20Poisson.html){target="_blank" rel="noopener noreferrer"}.
 
 [Cadeias de Markov - Exemplos de aplicação na indústria](../EST066/Cadeias%20de%20Markov%20-%20Exemplos%20de%20aplicação%20na%20indústria.pdf){target="_blank" rel="noopener noreferrer"}.
