@@ -139,7 +139,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#metodologia." id="toc-metodologia." class="nav-link active" data-scroll-target="#metodologia.">Metodologia.</a></li>
   <li><a href="#introdução-à-linguagem-r." id="toc-introdução-à-linguagem-r." class="nav-link" data-scroll-target="#introdução-à-linguagem-r.">Introdução à linguagem R.</a></li>
   <li><a href="#tipos-e-classes-de-dados-em-r." id="toc-tipos-e-classes-de-dados-em-r." class="nav-link" data-scroll-target="#tipos-e-classes-de-dados-em-r.">Tipos e classes de dados em R.</a></li>
-  <li><a href="#estruturas-de-dados-em-r." id="toc-estruturas-de-dados-em-r." class="nav-link" data-scroll-target="#estruturas-de-dados-em-r.">Estruturas de dados em R.</a></li>
+  <li><a href="#estruturas-de-dados-em-r." id="toc-estruturas-de-dados-em-r." class="nav-link" data-scroll-target="#estruturas-de-dados-em-r.">Estruturas de dados em R.</a>
+  <ul class="collapse">
+  <li><a href="#apresentações-em-sala" id="toc-apresentações-em-sala" class="nav-link" data-scroll-target="#apresentações-em-sala">Apresentações em sala</a></li>
+  <li><a href="#material-de-apoio-estudos-dirigidos" id="toc-material-de-apoio-estudos-dirigidos" class="nav-link" data-scroll-target="#material-de-apoio-estudos-dirigidos">Material de Apoio &amp; Estudos Dirigidos</a></li>
+  <li><a href="#lives" id="toc-lives" class="nav-link" data-scroll-target="#lives">Lives</a></li>
+  </ul></li>
   <li><a href="#organização-colaboração-e-reprodução." id="toc-organização-colaboração-e-reprodução." class="nav-link" data-scroll-target="#organização-colaboração-e-reprodução.">Organização, colaboração e reprodução.</a>
   <ul class="collapse">
   <li><a href="#funcionalidades-do-r-markdown" id="toc-funcionalidades-do-r-markdown" class="nav-link" data-scroll-target="#funcionalidades-do-r-markdown">Funcionalidades do R Markdown</a></li>
@@ -203,29 +208,43 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="estruturas-de-dados-em-r." class="level2">
 <h2 class="anchored" data-anchor-id="estruturas-de-dados-em-r.">Estruturas de dados em R.</h2>
-<p><a href="../EST064/00_nomenclaturas.html" target="_blank" rel="noopener noreferrer">Nomenclatura de objetos</a>.</p>
-<p><a href="../EST064/01.2_introducao_vetores.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com vetores</a>.</p>
-<p><a href="../EST064/Estudo dirigido - Vetores no R.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Vetores no R</a>.</p>
-<p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. <a href="https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Live: Manipulação e operação com vetores (ERE)</a>.</p>
-<p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. <a href="https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing" target="_blank" rel="noopener noreferrer">Live: Vetorização (ERE)</a>.</p>
-<p><a href="../EST064/00_operadores_basicos.html" target="_blank" rel="noopener noreferrer">Operadores básicos</a>.</p>
-<p>Leituras e estudos recomendados sobre operadores lógicos e funções relacionadas.</p>
-<p><a href="../EST064/OperadoresLogicos.html" target="_blank" rel="noopener noreferrer">Operadores básicos</a>.</p>
-<p>Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. <a href="https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing" target="_blank" rel="noopener noreferrer">Live: Operadores Lógicos</a>.</p>
-<p><a href="../EST064/01.3_introducao_matfatlis.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com matrizes, fatores e listas</a>.</p>
-<p><a href="../EST064/Estudo dirigido - matrizes fatores e listas no R.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - matrizes fatores e listas no R</a>.</p>
-<p>Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. <a href="https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Matrizes em R</a>.</p>
-<p>Slides sobre data frames em R. <a href="../EST064/01.4_introducao_data-frames.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com data frames</a>.</p>
+<section id="apresentações-em-sala" class="level3">
+<h3 class="anchored" data-anchor-id="apresentações-em-sala">Apresentações em sala</h3>
+<ul>
+<li><p><a href="../EST064/00_nomenclaturas.html" target="_blank" rel="noopener noreferrer">Nomenclatura de objetos</a>.</p></li>
+<li><p><a href="../EST064/01.2_introducao_vetores.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com vetores</a>.</p></li>
+<li><p>Slides sobre data frames em R. <a href="../EST064/01.4_introducao_data-frames.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com data frames</a>.</p>
 <ul>
 <li><p>Repetir cuidadosamente cada exemplo em um script.</p></li>
 <li><p>se errar, descubra o erro, repita e deixe no script apenas os comandos corretos.</p></li>
 <li><p>Organize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.</p></li>
 <li><p>Para documentar, inicie a linha com #. O R não irá executar a partir deste caractere</p></li>
 <li><p>Não se restrinja a esse material. Estude o material indicado e faça a atividade proposta!</p></li>
+</ul></li>
 </ul>
-<p><a href="../EST064/Estudo dirigido - Data frames.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Data frames</a>.</p>
-<p><a href="../EST064/01.5_import.pdf" target="_blank" rel="noopener noreferrer">Importação e exportação de data frames</a>.</p>
-<p><a href="../EST064/Estudo dirigido - Mais sobre data frames.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Mais sobre data frames</a>.</p>
+</section>
+<section id="material-de-apoio-estudos-dirigidos" class="level3">
+<h3 class="anchored" data-anchor-id="material-de-apoio-estudos-dirigidos">Material de Apoio &amp; Estudos Dirigidos</h3>
+<ul>
+<li><p><a href="../EST064/Estudo dirigido - Vetores no R.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Vetores no R</a>.</p></li>
+<li><p><a href="../EST064/00_operadores_basicos.html" target="_blank" rel="noopener noreferrer">Operadores básicos</a>.</p></li>
+<li><p>Leituras e estudos recomendados sobre operadores lógicos e funções relacionadas. <a href="../EST064/OperadoresLogicos.html" target="_blank" rel="noopener noreferrer">Operadores básicos</a>.</p></li>
+<li><p><a href="../EST064/01.3_introducao_matfatlis.pdf" target="_blank" rel="noopener noreferrer">Trabalhando com matrizes, fatores e listas</a>.</p></li>
+<li><p><a href="../EST064/Estudo dirigido - matrizes fatores e listas no R.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - matrizes fatores e listas no R</a>.</p></li>
+<li><p><a href="../EST064/Estudo dirigido - Data frames.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Data frames</a>.</p></li>
+<li><p><a href="../EST064/01.5_import.pdf" target="_blank" rel="noopener noreferrer">Importação e exportação de data frames</a>.</p></li>
+<li><p><a href="../EST064/Estudo dirigido - Mais sobre data frames.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Mais sobre data frames</a>.</p></li>
+</ul>
+</section>
+<section id="lives" class="level3">
+<h3 class="anchored" data-anchor-id="lives">Lives</h3>
+<ul>
+<li><p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. <a href="https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Live: Manipulação e operação com vetores (ERE)</a>.</p></li>
+<li><p>Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. <a href="https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing" target="_blank" rel="noopener noreferrer">Live: Vetorização (ERE)</a>.</p></li>
+<li><p>Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. <a href="https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing" target="_blank" rel="noopener noreferrer">Live: Operadores Lógicos</a>.</p></li>
+<li><p>Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. <a href="https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Matrizes em R</a>.</p></li>
+</ul>
+</section>
 </section>
 <section id="organização-colaboração-e-reprodução." class="level2">
 <h2 class="anchored" data-anchor-id="organização-colaboração-e-reprodução.">Organização, colaboração e reprodução.</h2>

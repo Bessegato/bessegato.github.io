@@ -50,47 +50,58 @@ Categorias baseadas em características compartilhadas pelos dados.
 
 ## Estruturas de dados em R.
 
-[Nomenclatura de objetos](../EST064/00_nomenclaturas.html){target="_blank" rel="noopener noreferrer"}.
+### Apresentações em sala
 
-[Trabalhando com vetores](../EST064/01.2_introducao_vetores.pdf){target="_blank" rel="noopener noreferrer"}.
+- [Nomenclatura de objetos](../EST064/00_nomenclaturas.html){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - Vetores no R](../EST064/Estudo%20dirigido%20-%20Vetores%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
+- [Trabalhando com vetores](../EST064/01.2_introducao_vetores.pdf){target="_blank" rel="noopener noreferrer"}.
 
-Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. [Live: Manipulação e operação com vetores (ERE)](https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+- Slides sobre data frames em R. [Trabalhando com data frames](../EST064/01.4_introducao_data-frames.pdf){target="_blank" rel="noopener noreferrer"}.
 
-Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. [Live: Vetorização (ERE)](https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+   - Repetir cuidadosamente cada exemplo em um script.
 
-[Operadores básicos](../EST064/00_operadores_basicos.html){target="_blank" rel="noopener noreferrer"}.
+   - se errar, descubra o erro, repita e deixe no script apenas os comandos corretos.
 
-Leituras e estudos recomendados sobre operadores lógicos e funções relacionadas.
+   - Organize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.
 
+   - Para documentar, inicie a linha com #. O R não irá executar a partir deste caractere
+
+   - Não se restrinja a esse material. Estude o material indicado e faça a atividade proposta!
+
+
+### Material de Apoio & Estudos Dirigidos
+
+- [Estudo dirigido - Vetores no R](../EST064/Estudo%20dirigido%20-%20Vetores%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
+
+- [Operadores básicos](../EST064/00_operadores_basicos.html){target="_blank" rel="noopener noreferrer"}.
+
+- Leituras e estudos recomendados sobre operadores lógicos e funções relacionadas.
 [Operadores básicos](../EST064/OperadoresLogicos.html){target="_blank" rel="noopener noreferrer"}.
 
-Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. [Live: Operadores Lógicos](https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+- [Trabalhando com matrizes, fatores e listas](../EST064/01.3_introducao_matfatlis.pdf){target="_blank" rel="noopener noreferrer"}.
 
-[Trabalhando com matrizes, fatores e listas](../EST064/01.3_introducao_matfatlis.pdf){target="_blank" rel="noopener noreferrer"}.
+- [Estudo dirigido - matrizes fatores e listas no R](../EST064/Estudo%20dirigido%20-%20matrizes%20fatores%20e%20listas%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - matrizes fatores e listas no R](../EST064/Estudo%20dirigido%20-%20matrizes%20fatores%20e%20listas%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
+- [Estudo dirigido - Data frames](../EST064/Estudo%20dirigido%20-%20Data%20frames.html){target="_blank" rel="noopener noreferrer"}.
 
-Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. [Matrizes em R](https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+- [Importação e exportação de data frames](../EST064/01.5_import.pdf){target="_blank" rel="noopener noreferrer"}.
 
-Slides sobre data frames em R. [Trabalhando com data frames](../EST064/01.4_introducao_data-frames.pdf){target="_blank" rel="noopener noreferrer"}.
+- [Estudo dirigido - Mais sobre data frames](../EST064/Estudo%20dirigido%20-%20Mais%20sobre%20data%20frames.html){target="_blank" rel="noopener noreferrer"}.
 
--   Repetir cuidadosamente cada exemplo em um script.
 
--   se errar, descubra o erro, repita e deixe no script apenas os comandos corretos.
+### Lives
 
--   Organize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.
+- Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. [Live: Manipulação e operação com vetores (ERE)](https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
--   Para documentar, inicie a linha com #. O R não irá executar a partir deste caractere
+- Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. [Live: Vetorização (ERE)](https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
--   Não se restrinja a esse material. Estude o material indicado e faça a atividade proposta!
+- Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. [Live: Operadores Lógicos](https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - Data frames](../EST064/Estudo%20dirigido%20-%20Data%20frames.html){target="_blank" rel="noopener noreferrer"}.
 
-[Importação e exportação de data frames](../EST064/01.5_import.pdf){target="_blank" rel="noopener noreferrer"}.
+- Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. [Matrizes em R](https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-[Estudo dirigido - Mais sobre data frames](../EST064/Estudo%20dirigido%20-%20Mais%20sobre%20data%20frames.html){target="_blank" rel="noopener noreferrer"}.
+
+
 
 ## Organização, colaboração e reprodução.
 
@@ -253,8 +264,6 @@ O presente material bibliográfico complementar está disponibilizado de maneira
 [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf){target="_blank" rel="noopener noreferrer"}.
 
 XIE, Y.; DERVIEUX, C.; RIEDERER, E. R Markdown cookbook. New York: CRC Press, 2020. [R Markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/){target="_blank" rel="noopener noreferrer"}.
-
-
 
 ===============================================================================
 
