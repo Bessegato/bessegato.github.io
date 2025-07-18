@@ -4,7 +4,6 @@ lang: pt
 format: html
 author: Prof. Lupércio França Bessegato
 toc: true
-
 ---
 
 ## Metodologia.
@@ -12,11 +11,10 @@ toc: true
 Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.3 está no [Moodle da Disciplina](https://ead.ufjf.br/){target="_blank" rel="noopener noreferrer"}.
 
 ## Introdução.
+
 Introdução à qualidade no contexto da empresa moderna.
 
-[Introdução](../EST081/01_introducao_2020.pdf){target="_blank" rel="noopener noreferrer"}.
-Notas de aula referentes a conceitos de qualidade e de melhoria da qualidade na empresa moderna.
-
+[Introdução](../EST081/01_introducao_2020.pdf){target="_blank" rel="noopener noreferrer"}. Notas de aula referentes a conceitos de qualidade e de melhoria da qualidade na empresa moderna.
 
 [Vídeo aula - Qualidade na empresa (Semestre 2021/3)](https://drive.google.com/file/d/1n-8UPAgjUmyTyIzPtvjC_f_W-m7TXON3/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
@@ -24,11 +22,12 @@ Live de 22/10/2021, com apresentação dos conceitos sobre qualidade na empresa 
 
 Duração: 1:04:05
 
-
-[Estudo dirigido: Melhoria da Qualidade na Empresa Moderna](../EST081/EST081-2024.3-A_ Estudo dirigido_ Melhoria da Qualidade na Empresa Moderna.pdf){target="_blank" rel="noopener noreferrer"}.
-
+[Estudo dirigido: Melhoria da Qualidade na Empresa Moderna](../EST081/EST081-2024.3-A_%20Estudo%20dirigido_%20Melhoria%20da%20Qualidade%20na%20Empresa%20Moderna.pdf){target="_blank" rel="noopener noreferrer"}.
 
 ## Gestão da qualidade.
+Gestão de melhoria da qualidade no contexto da empresa moderna e o processo DMAMC para resolução de problemas
+
+
 
 ## Ferramentas estatísticas da qualidade.
 
