@@ -1,0 +1,301 @@
+---
+title: "EST065 - ESTATÍSTICA COMPUTACIONAL I"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+---
+
+## Metodologia.
+
+Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.3 está no [Moodle da Disciplina](https://ead.ufjf.br){target="_blank" rel="noopener noreferrer"}.
+
+## Estruturas de Controle.
+Estruturas de controle e vetorização no R Base.
+
+
+[Estruturas de Controle em R Arquivo](../EST065/04.1_coding-EstruturasControle.pdf){target="_blank" rel="noopener noreferrer"}.
+
+Slides sobre estruturas de controle em R. Refazer cuidadosamente os exemplos e compreender cada passo.
+
+
+[Vídeo aula - Estruturas de controle (Semestre 2021/3)](https://drive.google.com/file/d/13biTAfYKCroCo7Nx4o8J5L9PQOX8R10L/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Live de 22/10/2021, com apresentação sobre estruturas de controle e vetorização no R. 
+
+
+
+[Vídeo aula - Estrutura de controle (2020/3)](https://drive.google.com/file/d/1PHVCAgCLURRatK2SYUaxO-QfpT0KF98B/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona sobre estruturas de controle na linguagem R, em 08/01/21
+
+
+
+[Estudo Dirigido - Estruturas de Controle em R](../EST065/Estudo Dirigido - Estruturas de Controle em R.pdf){target="_blank" rel="noopener noreferrer"}.
+
+## Família apply.
+
+Apresentação extensiva e aplicação das funções da importante família apply
+
+[Família apply](../EST065/04.1_coding-FamiliaApply.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Vídeo aula - Família apply - 1 (2021/3)](https://drive.google.com/file/d/1s2dW-AzrGv8DGwpPdFu1JNQo7e3uE585/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 27/10/2021, sobre loops em while() e sobre a família apply, com conceitos e aplicações do comando apply(). Duração: 1:08:05
+
+
+[Vídeo aula - Família apply - 1 (2020/3)](https://drive.google.com/file/d/1MAWteFWqSif0hEo98hpOHzaGxK8XMyty/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 13/01/2021, sobre a família apply, com os conceitos e aplicações dos comandos: apply(), lapply() e tapply()
+
+
+[Vídeo aula - Família apply - 2 (2021/3)](https://drive.google.com/file/d/1I2nz6ZNRHmuu6Ss-jyhFV-kIp7ZhayAX/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 03/11/2021, continuando com a apresentação da família apply, com conceitos e aplicações dos comandos lapply() e sapply().
+
+Duração: 0:57:09
+
+[Vídeo aula - Família apply - 2 (2020/3)](https://drive.google.com/file/d/1GYemrgq0H8KG7cC0Jfth-VTAQEyxJsf2/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 15/01/2021, sobre a família apply, com os conceitos e aplicações dos comandos: by(), do.call() e aggregate()
+
+[Vídeo aula - Função de Carta de Contrle](https://drive.google.com/file/d/1yacvshXz3Skxbg_UUEz6iMulwcPiitTT/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 05/11/2021, com estruturação de função para construção de gráfico de controle da média amostral. Duração: 0:26:46
+
+
+[Vídeo aula - Família apply - 3 (2021/3)](https://drive.google.com/file/d/1swoH7lutEfuPAG4uDmEouGNyQgv9zi9v/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 10/11/2021, continuando com a apresentação da família apply, com conceitos e aplicações dos comandos tapply() e by(). Duração: 0:58:19
+
+[Vídeo aula - Família apply - 3 (2020/3)](https://drive.google.com/file/d/1pEv8LJqHk7r5I4dQQKZZSYA-mp0H6iT6/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 20/01/2021, sobre a família apply, com os conceitos e aplicações dos comandos: rapply(), vapply(), mapply() e sweep().
+
+[Vídeo aula - Família apply - 4 (2021/3)](https://drive.google.com/file/d/1SN2ASmKpRHi-l4COedfwfsNunoKDOxzn/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 12/11/2021, continuando com a apresentação da família apply, com conceitos e aplicações do comando aggregate(). Duração: 1:09:49
+
+[Vídeo aula - Família apply - 5 (2021/3)](https://drive.google.com/file/d/15_Iei7sbK2U4lQUZO1NK6iXMeoBaRAJq/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 17/11/2021, continuando com a apresentação da família apply, com conceitos e aplicações do comando rapply(), vapply() e mapply(). Duração: 1:06:46
+
+
+## Funções em R.
+Conceitos relacionados com vetorização e procedimentos para codificação de funções.
+
+
+[Vetorização e comandos auxiliares](../EST065/04.3_coding-comandos-auxiliares.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Vídeo aula - Vetorização e tempo de processamento (2021/3)](https://drive.google.com/file/d/1UYCPCuG_69ocM-dJTbrwVPEFEelqGezK/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 19/11/2021, detalhando os conceitos relacionados com vetorização. Apresentação do comando Vectorize() e de pacote e comandos relacionados com medição de tempo de processamento. Duração: 1:11:09
+
+[Funções](../EST065/04.4_coding_funcoes.pdf){target="_blank" rel="noopener noreferrer"}. 
+
+[Vídeo aula - Funções (1) (2021/3)](https://drive.google.com/file/d/1gJmxbyq8Q_YMcfrrc6iCLnHSX6d9f-Bf/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 24/11/2021, apresentando comandos usados na manipulação, armazenamento e carregamento de funções. Duração: 1:05:46
+
+[Vídeo aula - Funções (1) (2020/3)](https://drive.google.com/file/d/1wKHPIIXogCBV_BE7kz-NMUAUQssM4RfC/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 27/01/2021, sobre a funções, com os conceitos e exemplos sobre sua criação, argumentos e comandos utilizados em suas saídas.
+
+
+[Vídeo aula - Funções: saídas (2021/3)](https://drive.google.com/file/d/142viMsPf6WntWRJjMCKyxYhcqWYLb1nm/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 26/11/2021, apresentando configurações e comandos usados na saída de funções.Duração: 00:56:54
+
+
+[Vídeo aula - Funções: entradas (2021/3)](https://ead.ufjf.br/mod/url/view.php?id=428756){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 01/12/2021, apresentando configurações e comandos usados na verificação da entrada de funções. Duração: 01:05:05
+
+[Vídeo aula - Funções - 2 (2020/3)](https://drive.google.com/file/d/1wKHPIIXogCBV_BE7kz-NMUAUQssM4RfC/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 29/01/2021, sobre a funções e o suo dos comandos: eval(), parse(), deparse(), source(); operador %o%; verificação de argumentos; documentação.. Duração: 1:23:31
+
+[Funções Recursivas](../EST065/03.4_Recursivas.html){target="_blank" rel="noopener noreferrer"}.
+
+[Vídeo aula - Funções recursivas](https://drive.google.com/file/d/1d02ZDAD-E0MWIHQ1HVfzfb-eGC-mt27-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 03/12/2021, apresentando funções recursivas. e alguns argumentos formais de funções.Duração: 01:10:32
+
+
+[Codificação](../EST065/04.5_coding_codificacao.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Exemplo de Codificação - Estimação de Máxima Verossimilhança](../EST065/065-233_231006-Likelihood.html){target="_blank" rel="noopener noreferrer"}.
+
+Construção de função na linguagem R para calcular a log-verossimilhança de uma amostra, com otimização numérica para obtenção das estimativas dos parâmetros que maximizam a verossimilhança da amostra.
+
+
+[Vídeo aula - Codificação (2021/3)](https://drive.google.com/file/d/1-RZittspo17g6PPgk_hHxSn_fuLvtYwl/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 08/12/2021, apresentando recomendações para codificação e procedimentos para debug de códigos. Duração: 01:16:44
+
+[Vídeo aula - Codificação (2020/3)](https://drive.google.com/file/d/1D8IVlp2cRgFRlwvKyuUfzIVAhXBfkB-l/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 03/02/2021, sobre a funções recursivas, exemplo para estimação de probabilidade de cobertura de ICs, recomendações para codificação de depuração do código. Duração: 1:07:19
+
+[Simulação](../EST065/04.6_coding_simulacao.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Vídeo aula - Simulação (2021/3)](https://drive.google.com/file/d/1JOIkoktrwiOffs8ppEUm51jgSm4qRi0Q/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 10/12/2021, apresentando fundamentos de simulação Monte Carlo e o uso da função replicate(). Duração: 00:57:24
+
+
+## Gráficos em R.
+Sistema gráfico em R Base (pacote graphics): funções high level e low level; argumentos; customização.
+
+
+[Gráficos em R base: introdução](../EST065/05.1_graphics_intro.pdf){target="_blank" rel="noopener noreferrer"}. 
+
+[Vídeo aula - Sistema gráfico em R (2021/3)](https://drive.google.com/file/d/1EdpAkAwxPcU24L-7E8TTmh5DOJk0qjVl/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 15/12/2021, introduzindo o sistema gráfico em R Base (pacote graphics). Duração: 01:03:00
+
+
+[Vídeo aula - Gráficos em R: Introdução (2020/3)](https://drive.google.com/file/d/1stSrtwlV60I2QQcPX1IlY5Yo96ci2TnB/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 10/02/2021, introduzindo o sistema gráfico em R; tipos de gráficos; dispositivos gráficos; sistemas gráfico: R base e grid. Duração: 0:51:40
+
+[Gráficos em R base e seus argumentos](../EST065/05.2_high_level.pdf){target="_blank" rel="noopener noreferrer"}. 
+
+[Vídeo aula - Funções high level (2021/3)](https://drive.google.com/file/d/1MFxs_ZppWGmdBm6-IqZbI4942nKZz_zj/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 22/12/2021, apresentando algumas funções high level do sistema gráfico em R Base (pacote graphics) e seus argumentos. Duração: 01:08:01
+
+[Vídeo aula - Gráficos em R: Funções high level (2020/3)](https://drive.google.com/file/d/1VEEhRyh2cbPjzmLnoIebP4eTAz5ov4UQ/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 12/02/2021, apresentando os principais gráficos high level do RBase e seus argumentos. Recomenda-se repetir todos os códigos, entendendo o funcionamento de cada função.
+Duração: 0:58:40
+
+[Gráficos em R base: Argumentos padrão](../EST065/05.3_argumentos-padrao.pdf){target="_blank" rel="noopener noreferrer"}. 
+
+[Vídeo aula - Argumentos padrão (2021/3)](https://drive.google.com/file/d/1sNF2sDNCHGlwB-SSzLE2CCkO-h0BlTsD/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 05/01/2022, apresentando algumas funções high level do sistema gráfico em R Base (pacote graphics) para gráficos multivariados e configurações do dispositivo para múltiplos gráficos.Duração: 00:55:52
+
+[Vídeo aula - Argumentos padrão (2021/3)](https://drive.google.com/file/d/15-SUJYgRZOU4TZZUjbPvktWypqMrEZ05/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 07/01/2022, apresentando procedimentos para personalização das várias regiões, principalmente por meio da função par().
+
+Duração: 01:06:51
+
+[Videoaula - Gráficos em R: Argumentos padrão (2020/3)](https://drive.google.com/file/d/1I6N1x2JOKWRar7bhPeBUGwn_rPhc0-bt/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 19/02/2021, apresentando os argumentos padrão das principais funções high level do sistema gráficop tradicional do R. Recomenda-se repetir todos os códigos, entendendo o funcionamento de cada função.
+Duração: 0:54:48
+
+
+[Gráficos em R base: Personalização de gráficos tradicionais](../EST065/05.4_personalizacao.pdf){target="_blank" rel="noopener noreferrer"}. 
+
+[Videoaula - Gráficos em R: Personalização gráficos tradicionais (2020/3)](https://drive.google.com/file/d/1G77tJitYEg4-q1uIGg3XXDKfuYIxm3M0/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 24/02/2021, apresentando os argumentos para personalização das várias regiões do gráfico, principalmente por meio da função par().
+Duração: 0:44:47
+
+[Gráficos em R base: Controle da aparência de gráficos tradicionais](../EST065/05.5_aparencia.pdf){target="_blank" rel="noopener noreferrer"}. 
+
+[Cores - Paletas](../EST065/EST065-2024.3-A_ Cores - Paletas.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Vídeo aula - Cores & linhas (2021/3)](https://drive.google.com/file/d/1gNqqJMdzAAOOnLWLYTVk-QKR28ffc7Wh/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 12/01/2022, apresentando os argumentos para personalização de cores e linhas em gráficos do sistema gráfico tradicional.
+
+Duração: 00:50:32
+
+[Videoaula - Gráficos em R: Controle da aparência dos gráficos - 1 (2020/3)](https://drive.google.com/file/d/1K62nIiLZn8AUbNNRq3Rgbpwkah13B67Y/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 26/02/2021, apresentando os argumentos para personalização de cores em gráficos do sistema gráfico tradicional.
+Duração: 0:42:29
+
+
+[Videoaula - Gráficos em R: Controle da aparência dos gráficos - 3 (2020/3)](https://drive.google.com/file/d/1KzfOGYW9Azt4FI-TFnfRftWqwCIk9Zor/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 05/03/2021, apresentados os argumentos para personalização de caracteres e eixos em gráficos do sistema gráfico tradicional.
+Duração: 0:56:01
+
+[Vídeo aula - Textos, caracteres & eixos (2021/3)](https://drive.google.com/file/d/1FRFjq5cjNZBzv4EetL8642Jdy8mrKe5g/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 14/01/2022, apresentando os argumentos para personalização de textos, caracteres e eixos em gráficos do sistema gráfico tradicional.
+
+Duração: 00:56:25
+
+
+[Videoaula - Gráficos em R: Controle da aparência dos gráficos - 2 (2020/3)](https://drive.google.com/file/d/1K62nIiLZn8AUbNNRq3Rgbpwkah13B67Y/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 03/03/2021, apresentados os argumentos para personalização de linhas e textos em gráficos do sistema gráfico tradicional.
+Duração: 1:01:19
+
+[Vídeo aula - Controle das dimensões das regiões do gráfico (2021/3)](https://drive.google.com/file/d/1qeth4UqLuNB0ZVz_fgqgOaBCbgEL3Hmp/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+
+[Gráficos em R base: Arranjos de múltiplos gráficos](../EST065/05.6_arranjos.pdf){target="_blank" rel="noopener noreferrer"}. 
+
+[Vídeo-aula: Arranjos de múltiplos gráficos em R Base (2021/3)](https://drive.google.com/file/d/1EMf51gHUgCZZ8u4lCDkKt1aWPSEgCrwd/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 21/01/2022, apresentando procedimentos para arranjos de múltiplos gráficos, por meio das funções par() e layout(). Anotação em área de plotagem usando as funções rect() e polygon().
+
+Duração: 01:14:19
+
+[Videoaula - Gráficos em R: Arranjo de mútliplos gráficos (2020/3)](https://drive.google.com/file/d/1FpyMQDytlh-AlFi3AtIergyHcBussZm6/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 10/03/2021, apresentados os argumentos para arranjo de múltiplos gráficos no mesmo dispositivo gráfico: argumentos fig, mfrow, mcol e mfg da função par() e função layout(). Configurações das dimensões das áreas da figura, do plot e das margens externas do dispositivo gráfico.
+
+
+Duração: 1:07:51
+
+
+[Gráficos em R base: Anotações em gráficos](../EST065/05.7_anotacao.pdf){target="_blank" rel="noopener noreferrer"}. 
+
+[Vídeo-aula: Anotações em gráficos em R Base](https://drive.google.com/file/d/1qEdx1lsl3af_LfnSzj4jFeIxKtEBgdjq/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 26/01/2022, apresentando procedimentos para anotação nas margens e nos eixos de gráficos em R Base, além de construção de legendas e anotação matemática.
+
+Duração: 01:02:23
+
+[Videoaula - Gráficos em R: Anotação em gráficos (2020/3)](https://drive.google.com/file/d/1tPwS_I53dpxhSER1rOqINkBBqnWfOaDX/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 17/03/2021, apresentados as funções para anotação de elementos gráficos em dispositivos gráficos, em especial, a anotação matemática. Apresentado alguns pacotes para construção de gráficos interativos e dinâmicos.
+
+
+Duração: 1:06:26
+
+[Vídeo-aula: Sistemas de coordenadas em gráficos tradicionais (2021/3)](https://drive.google.com/file/d/1fwsLPrRTgwtnzQoxEOJmusld89x3Azir/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 28/01/2022, apresentando procedimentos para configurações e personalização de sistemas de coordenadas em gráficos tradicionais, com aplicações em sobreposição de saídas gráficas.
+
+Duração: 01:12:43
+
+[Vídeo-aula: Casos especiais de anotações no sistema gráfico tradicional (2021/3)](https://drive.google.com/file/d/1vgxHk9cW4krG3oMmYlyQm3VliiJ0fYjv/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 02/02/2022, apresentando procedimentos para alguns casos especiais de anotações de saídas gráficas. Aplicações de função painel como argumento da função pairs().
+
+Duração: 01:09:37
+
+[Gráficos em R base: Criação de novas funções gráficas](../EST065/05.8_novos_graficos.pdf){target="_blank" rel="noopener noreferrer"}. 
+
+[Vídeo-aula: Criação de novas funções gráficas (2021/3)](https://drive.google.com/file/d/1tC18zhuCjeD4kQhJt_CNWoJUk7GYdWKx/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Vídeo da aula síncrona em 04/02/2022, apresentando alguns procedimentos para criação de novas funções gráficas no sistema gráfico tradicional.
+
+Duração: 01:12:58
+
+[Animação](){target="_blank" rel="noopener noreferrer"}.
+FUTURO ESTUDO DIRIGIDO
+- GG ANIMATE
+
+LINKS
+
+Visualising people flows : An interactive introduction to Census 2021 origin-destination data
+This is an interactive guide to some of the origin-destination data published for Census 2021, in UK.
+Origin-destination data show the movement of people from one location to another, such as migration and commuting patterns. It is sometimes known as "flow data".
+https://www.ons.gov.uk/visualisations/censusorigindestination/
+
+
+## Biblioteca.
+Material suplementar de apoio da disciplina do semestre 2025.3 está no [Moodle da Disciplina](https://ead.ufjf.br/){target="_blank" rel="noopener noreferrer"}.
+
+## Atividades.
+Atividades avaliativas da disciplina do semestre 2025.1 está no [Moodle da Disciplina](https://ead.ufjf.br/){target="_blank" rel="noopener noreferrer"}.

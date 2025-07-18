@@ -1,0 +1,12 @@
+---
+title: "EST081 - CONTROLE ESTATÍSTICA DA QUALIDADE"
+lang: pt
+format: html
+author: Prof. Lupércio França Bessegato
+toc: true
+
+---
+
+## Metodologia.
+
+Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.3 está no [Moodle da Disciplina](https://ead.ufjf.br/){target="_blank" rel="noopener noreferrer"}.

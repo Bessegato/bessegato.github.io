@@ -5,6 +5,15 @@ format: html
 toc: true # Isso atribui o contéudo a direita
 ---
 
+## 2025.3
+
+-   [EST065 - ESTATÍSTICA COMPUTACIONAL I](../disciplinas/EST065/est065.html)
+
+-   [EST081 - CONTROLE ESTATÍSTICA DA QUALIDADE](../disciplinas/EST081/est081.html)
+
+
+
+
 ## 2025.1
 
 -   [EST064 - LABORATÓRIO DE ESTATÍSTICA](../disciplinas/EST064/est064.html)

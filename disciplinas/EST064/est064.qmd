@@ -4,20 +4,6 @@ lang: pt
 format: html
 author: Prof. Lupércio França Bessegato
 toc: true
-toc_depth: 2    # Profundidade do sumário.
-toc_float: 0      # Sumário flutuante na borda.
-collapsed: false
-smooth_scroll: false
-number_sections: true   # Seções numeradas.
-theme: united   # Tema usado (aparência).
-highlight: tango# Cores para o destaque de código.
-css: styles.css # Caminho para arquivo CSS.
-fig_width: 7    # Lagura das figuras.
-fig_height: 6   # Altura das figuras.
-fig_caption: true       # Exibicação de legenda.
-code_folding: hide      # Esconder/exibir bloco de código.
-# mostrar chunk: class.source = 'fold-show'
-keep_md: true   # Manter o arquivo md.
 ---
 
 ## Metodologia.
@@ -30,27 +16,25 @@ Plano de curso e informações sobre horários e acessos da disciplina no semest
 
 [Slides - Introdução à Linguagem R](../EST064/01.1_introducao_fundamentos.pdf){target="_blank" rel="noopener noreferrer"}.
 
-
 ### Material de Apoio & Estudos Dirigidos
 
-   Material e links importantes para estudo dos Fundamentos da linguagem estatística R e da interface gráfica RStudio. Sugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos.
+Material e links importantes para estudo dos Fundamentos da linguagem estatística R e da interface gráfica RStudio. Sugiro que leiam este material e refaçam seus exemplos para entender os fundamentos da linguagem em termos de estrutura de objetos e dos tipos possíveis de elementos desses objetos.
 
-- [Interessando-se pela linguagem R](../EST064/Interessando-se%20pela%20linguagem%20R.html){target="_blank" rel="noopener noreferrer"}.
+-   [Interessando-se pela linguagem R](../EST064/Interessando-se%20pela%20linguagem%20R.html){target="_blank" rel="noopener noreferrer"}.
 
-- "Top Tips for Learning R from Africa R’s Shelmith Kariuki", dicas do [R Bloggers](https://tinyurl.com/y6zw5blb){target="_blank" rel="noopener noreferrer"}.
+-   "Top Tips for Learning R from Africa R’s Shelmith Kariuki", dicas do [R Bloggers](https://tinyurl.com/y6zw5blb){target="_blank" rel="noopener noreferrer"}.
 
-- [Ajuda no R](../EST064/Ajuda%20no%20R.html){target="_blank" rel="noopener noreferrer"}. Esse é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem).
+-   [Ajuda no R](../EST064/Ajuda%20no%20R.html){target="_blank" rel="noopener noreferrer"}. Esse é uma passo fundamental para aprender a usar a linguagem R (e qualquer outra linguagem).
 
-- [Uma revisão de fundamentos da linguagem R](../EST064/Uma%20revisão%20de%20fundamentos%20da%20linguagem%20R.html){target="_blank" rel="noopener noreferrer"}.
+-   [Uma revisão de fundamentos da linguagem R](../EST064/Uma%20revisão%20de%20fundamentos%20da%20linguagem%20R.html){target="_blank" rel="noopener noreferrer"}.
 
-- [Uso inicial do R (1)](../EST064/Uso%20inicial%20do%20R%20(1).html){target="_blank" rel="noopener noreferrer"}. Alguns comandos e exercícios desse contato inicial com a linguagem R.
+-   [Uso inicial do R (1)](../EST064/Uso%20inicial%20do%20R%20(1).html){target="_blank" rel="noopener noreferrer"}. Alguns comandos e exercícios desse contato inicial com a linguagem R.
 
-- 
+-   
 
 ### Lives
 
-- [Live: Uso inicial do R (ERE)](https://drive.google.com/file/d/1qm59WYfAFXgJ8UB_MCX-kZgraGN0VjLD/view?usp=sharing). Live apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, com apresentação de: uso inicial do R: tipo de dados, ajuda no R, operações aritméticas. 
-
+-   [Live: Uso inicial do R (ERE)](https://drive.google.com/file/d/1qm59WYfAFXgJ8UB_MCX-kZgraGN0VjLD/view?usp=sharing). Live apresentada durante o ERE, para a turma do semestre 2021/1, em 26/05/2021, com apresentação de: uso inicial do R: tipo de dados, ajuda no R, operações aritméticas.
 
 ## Tipos e classes de dados em R.
 
@@ -60,55 +44,49 @@ Categorias baseadas em características compartilhadas pelos dados.
 
 ### Apresentações em sala
 
-- [Nomenclatura de objetos](../EST064/00_nomenclaturas.html){target="_blank" rel="noopener noreferrer"}.
+-   [Nomenclatura de objetos](../EST064/00_nomenclaturas.html){target="_blank" rel="noopener noreferrer"}.
 
-- [Trabalhando com vetores](../EST064/01.2_introducao_vetores.pdf){target="_blank" rel="noopener noreferrer"}.
+-   [Trabalhando com vetores](../EST064/01.2_introducao_vetores.pdf){target="_blank" rel="noopener noreferrer"}.
 
-- Slides sobre data frames em R. [Trabalhando com data frames](../EST064/01.4_introducao_data-frames.pdf){target="_blank" rel="noopener noreferrer"}.
+-   Slides sobre data frames em R. [Trabalhando com data frames](../EST064/01.4_introducao_data-frames.pdf){target="_blank" rel="noopener noreferrer"}.
 
-   - Repetir cuidadosamente cada exemplo em um script.
+    -   Repetir cuidadosamente cada exemplo em um script.
 
-   - se errar, descubra o erro, repita e deixe no script apenas os comandos corretos.
+    -   se errar, descubra o erro, repita e deixe no script apenas os comandos corretos.
 
-   - Organize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.
+    -   Organize-se e guarde seus estudos em um script (extensão .R), documentado com seus comentários.
 
-   - Para documentar, inicie a linha com #. O R não irá executar a partir deste caractere
+    -   Para documentar, inicie a linha com #. O R não irá executar a partir deste caractere
 
-   - Não se restrinja a esse material. Estude o material indicado e faça a atividade proposta!
-
+    -   Não se restrinja a esse material. Estude o material indicado e faça a atividade proposta!
 
 ### Material de Apoio & Estudos Dirigidos
 
-- [Estudo dirigido - Vetores no R](../EST064/Estudo%20dirigido%20-%20Vetores%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
+-   [Estudo dirigido - Vetores no R](../EST064/Estudo%20dirigido%20-%20Vetores%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
 
-- [Operadores básicos](../EST064/00_operadores_basicos.html){target="_blank" rel="noopener noreferrer"}.
+-   [Operadores básicos](../EST064/00_operadores_basicos.html){target="_blank" rel="noopener noreferrer"}.
 
-- Leituras e estudos recomendados sobre operadores lógicos e funções relacionadas.
-[Operadores básicos](../EST064/OperadoresLogicos.html){target="_blank" rel="noopener noreferrer"}.
+-   Leituras e estudos recomendados sobre operadores lógicos e funções relacionadas. [Operadores básicos](../EST064/OperadoresLogicos.html){target="_blank" rel="noopener noreferrer"}.
 
-- [Trabalhando com matrizes, fatores e listas](../EST064/01.3_introducao_matfatlis.pdf){target="_blank" rel="noopener noreferrer"}.
+-   [Trabalhando com matrizes, fatores e listas](../EST064/01.3_introducao_matfatlis.pdf){target="_blank" rel="noopener noreferrer"}.
 
-- [Estudo dirigido - matrizes fatores e listas no R](../EST064/Estudo%20dirigido%20-%20matrizes%20fatores%20e%20listas%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
+-   [Estudo dirigido - matrizes fatores e listas no R](../EST064/Estudo%20dirigido%20-%20matrizes%20fatores%20e%20listas%20no%20R.html){target="_blank" rel="noopener noreferrer"}.
 
-- [Estudo dirigido - Data frames](../EST064/Estudo%20dirigido%20-%20Data%20frames.html){target="_blank" rel="noopener noreferrer"}.
+-   [Estudo dirigido - Data frames](../EST064/Estudo%20dirigido%20-%20Data%20frames.html){target="_blank" rel="noopener noreferrer"}.
 
-- [Importação e exportação de data frames](../EST064/01.5_import.pdf){target="_blank" rel="noopener noreferrer"}.
+-   [Importação e exportação de data frames](../EST064/01.5_import.pdf){target="_blank" rel="noopener noreferrer"}.
 
-- [Estudo dirigido - Mais sobre data frames](../EST064/Estudo%20dirigido%20-%20Mais%20sobre%20data%20frames.html){target="_blank" rel="noopener noreferrer"}.
-
+-   [Estudo dirigido - Mais sobre data frames](../EST064/Estudo%20dirigido%20-%20Mais%20sobre%20data%20frames.html){target="_blank" rel="noopener noreferrer"}.
 
 ### Lives
 
-- Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. [Live: Manipulação e operação com vetores (ERE)](https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+-   Live apresentada durante o ERE, para a turma do semestre 2021/1, em 01/06/2021, com apresentação de vetores no R: comandos para criação de vetores: c(), seq(), rep(); indexação de vetores. [Live: Manipulação e operação com vetores (ERE)](https://drive.google.com/file/d/1RYCGy1_KXOpDAfnQ_3M-aX1PgVOOrcl-/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-- Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. [Live: Vetorização (ERE)](https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+-   Live apresentada durante o ERE, para a turma do semestre 2021/1, em 09/06/2021, com apresentação de cálculos vetorizados, vetores lógicos e criação de vetores aleatórios.Duração: 56:55. [Live: Vetorização (ERE)](https://drive.google.com/file/d/1M45qhDXxQ3ITUsri6-PngsNEVsiAIHVl/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-- Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. [Live: Operadores Lógicos](https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+-   Clipe disponibilizado durante o ERE, para a turma do semestre 2021/1, com apresentação de operadores relacionais e lógicos e de funções que atuam com valores lógicos (TRUE/FALSE). Duração: 1:06:34. [Live: Operadores Lógicos](https://drive.google.com/file/d/1W_gyvyJl5kSEAE7HdeNnfxqHrtTpA3pR/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
-
-- Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. [Matrizes em R](https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
-
-
+-   Live realizada durante o ERE, para a turma do semestre 2021/1, em 16/06/2021, com apresentação dos importantes valores especiais no R (NA, NaN, Inf) e as características e as propriedades do objeto da classe matrix.Duração: 1:15:33. [Matrizes em R](https://drive.google.com/file/d/1OoehnR2fduLF7OuwvpK-7bmMYNKKcwNS/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
 
 ## Organização, colaboração e reprodução.
 

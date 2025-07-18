@@ -8,7 +8,7 @@
 
 <meta name="author" content="Prof.&nbsp;Lupércio França Bessegato">
 
-<title>EST066 - ESTATÍSTICA COMPUTACIONAL II – Prof.&nbsp;Lupércio França Bessegato</title>
+<title>EST065 - ESTATÍSTICA COMPUTACIONAL I – Prof.&nbsp;Lupércio França Bessegato</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -136,13 +136,10 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#metodologia." id="toc-metodologia." class="nav-link active" data-scroll-target="#metodologia.">Metodologia.</a></li>
-  <li><a href="#números-pseudoaleatórios." id="toc-números-pseudoaleatórios." class="nav-link" data-scroll-target="#números-pseudoaleatórios.">Números pseudoaleatórios.</a></li>
-  <li><a href="#geração-de-números-pseudoaleatórios." id="toc-geração-de-números-pseudoaleatórios." class="nav-link" data-scroll-target="#geração-de-números-pseudoaleatórios.">Geração de números pseudoaleatórios.</a></li>
-  <li><a href="#integração-monte-carlo" id="toc-integração-monte-carlo" class="nav-link" data-scroll-target="#integração-monte-carlo">Integração Monte Carlo</a></li>
-  <li><a href="#simulação-monte-carlo" id="toc-simulação-monte-carlo" class="nav-link" data-scroll-target="#simulação-monte-carlo">Simulação Monte Carlo</a></li>
-  <li><a href="#reamostragem" id="toc-reamostragem" class="nav-link" data-scroll-target="#reamostragem">Reamostragem</a></li>
-  <li><a href="#otimização" id="toc-otimização" class="nav-link" data-scroll-target="#otimização">Otimização</a></li>
-  <li><a href="#suavização" id="toc-suavização" class="nav-link" data-scroll-target="#suavização">Suavização</a></li>
+  <li><a href="#estruturas-de-controle." id="toc-estruturas-de-controle." class="nav-link" data-scroll-target="#estruturas-de-controle.">Estruturas de Controle.</a></li>
+  <li><a href="#família-apply." id="toc-família-apply." class="nav-link" data-scroll-target="#família-apply.">Família apply.</a></li>
+  <li><a href="#funções-em-r." id="toc-funções-em-r." class="nav-link" data-scroll-target="#funções-em-r.">Funções em R.</a></li>
+  <li><a href="#gráficos-em-r." id="toc-gráficos-em-r." class="nav-link" data-scroll-target="#gráficos-em-r.">Gráficos em R.</a></li>
   <li><a href="#biblioteca." id="toc-biblioteca." class="nav-link" data-scroll-target="#biblioteca.">Biblioteca.</a></li>
   <li><a href="#atividades." id="toc-atividades." class="nav-link" data-scroll-target="#atividades.">Atividades.</a></li>
   </ul>
@@ -153,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">EST066 - ESTATÍSTICA COMPUTACIONAL II</h1>
+<h1 class="title">EST065 - ESTATÍSTICA COMPUTACIONAL I</h1>
 </div>
 
 
@@ -178,134 +175,148 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="metodologia." class="level2">
 <h2 class="anchored" data-anchor-id="metodologia.">Metodologia.</h2>
-<p>Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7961" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
+<p>Plano de curso e informações sobre horários e acessos da disciplina no semestre 2025.3 está no <a href="https://ead.ufjf.br" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
 </section>
-<section id="números-pseudoaleatórios." class="level2">
-<h2 class="anchored" data-anchor-id="números-pseudoaleatórios.">Números pseudoaleatórios.</h2>
-<p>Algoritmos para geração de números pseudo-aleatórios e avaliação de sua qualidade.</p>
-<p>Live de 25/05/21, com uma discussão sobre a geração de números aleatórios a partir da distribuição uniforme. <a href="https://drive.google.com/file/d/1eWW0CpSGLwI4YRx-RPmQq1ra4RU9zBWy/view?usp=sharing" target="_blank" rel="noopener noreferrer">A geração de números aleatórios</a>.</p>
+<section id="estruturas-de-controle." class="level2">
+<h2 class="anchored" data-anchor-id="estruturas-de-controle.">Estruturas de Controle.</h2>
+<p>Estruturas de controle e vetorização no R Base.</p>
+<p><a href="../EST065/04.1_coding-EstruturasControle.pdf" target="_blank" rel="noopener noreferrer">Estruturas de Controle em R Arquivo</a>.</p>
+<p>Slides sobre estruturas de controle em R. Refazer cuidadosamente os exemplos e compreender cada passo.</p>
+<p><a href="https://drive.google.com/file/d/13biTAfYKCroCo7Nx4o8J5L9PQOX8R10L/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Estruturas de controle (Semestre 2021/3)</a>.</p>
+<p>Live de 22/10/2021, com apresentação sobre estruturas de controle e vetorização no R.</p>
+<p><a href="https://drive.google.com/file/d/1PHVCAgCLURRatK2SYUaxO-QfpT0KF98B/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Estrutura de controle (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona sobre estruturas de controle na linguagem R, em 08/01/21</p>
+<p><a href="../EST065/Estudo Dirigido - Estruturas de Controle em R.pdf" target="_blank" rel="noopener noreferrer">Estudo Dirigido - Estruturas de Controle em R</a>.</p>
 </section>
-<section id="geração-de-números-pseudoaleatórios." class="level2">
-<h2 class="anchored" data-anchor-id="geração-de-números-pseudoaleatórios.">Geração de números pseudoaleatórios.</h2>
-<p>Métodos para geração de números e vetores aleatórios</p>
-<p>Apresenta-se um singelo, mas importante, teorema de probabilidade e a maneira pela qual ele pode ser usado para gerar números aleatórios por meio de transformações determinísticas de números aleatórios com distribuição uniforme entre 0 e 1, Esse teorema vai ser a base do estudo desta semana.</p>
-<p><a href="../EST066/02_gercao_variaveis.html" target="_blank" rel="noopener noreferrer">Método da inversa</a>.</p>
-<p>Geração de sequência de números aleatórios a partir da distribuição uniforme.</p>
-<p><a href="../EST066/Estudo dirigido - Uso do método da inversa.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Uso do método da inversa</a>.</p>
-<p><a href="https://drive.google.com/file/d/1caJNTtT73ilLzfHtIdyyi3iA0bc4-xpU/view?usp=sharing" target="_blank" rel="noopener noreferrer">A geração de números aleatórios de uma triangular</a>. Live de 27/05/21, com uma discussão sobre a geração de números aleatórios de uma distribuição triangular a partir da distribuição uniforme.</p>
-<p>Whiteboard das anotações efetuadas no decorrer da apresentação do dia 27/05/21. <a href="../EST066/Whiteboard[1]-01.png" target="_blank" rel="noopener noreferrer">Whiteboard - aula de 27/05/21</a>.</p>
-<p>Live de 01/06/21, com uma discussão sobre alguns métodos numéricos para determinação numérica de quantis, estruturada como equação (método Newton-Raphson e comando uniroot()) ou como um problema de otimização (comando optimize()). <a href="https://drive.google.com/file/d/1_BuluqlGGNuRZS_OkLjy8okCCoAHR2IS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resolvendo numericamente a função quantílica</a>.</p>
-<p>Recuperando brevemente Cálculo de Probabilidades, apresentam-se algumas transformações importantes entre variáveis aleatórias. A ideia de eficiência dos algoritmos é sugerida e propõe-se seu estudo. <a href="../EST066/03_geracao_transformacao.html" target="_blank" rel="noopener noreferrer">Transformação de Variáveis aleatórias</a>.</p>
-<p>Uso de transformações de variáveis aleatórias para construir geradores de número aleatórios</p>
-<p><a href="../EST066/Estudo dirigido - Transformação de variáveis aleatórias.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Transformação de variáveis aleatórias</a>.</p>
-<p>Live de 08/06/21, com uma discussão sobre transformação de variáveis aleatórias e algumas relações relevantes. <a href="https://drive.google.com/file/d/1CsOz7bi5K6PGLVgZuqA-eGDc__qukPFP/view?usp=sharing" target="_blank" rel="noopener noreferrer">Transformação de variáveis aleatórias</a>.</p>
-<p>Live de 15/06/21, com uma discussão sobre simulação de média de amostras aleatórias, para observação empírica do Teorema Central do Limite. Duração: 56:19. <a href="https://drive.google.com/file/d/1tRPJMFRZqk5rZ6dl64sN8GE3vtjhLBsU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Transformação de Box-Muller</a>.</p>
-<p>Live de 10/06/21, com uma discussão sobre transformação de Box-Muller e sua importância na geração de normais padrão independentes.Duração: 48:25. <a href="https://drive.google.com/file/d/1Wkd_pf-MomQaOix3Q22by5VilIcxEidn/view?usp=sharing" target="_blank" rel="noopener noreferrer">Transformação de Box-Muller</a>.</p>
-<p>O método da Aceitação/Rejeição é um ferramenta poderosa na geração de números aleatórios, principalmente quando o método da inversa ou as transformações de variáveis aleatórias não podem ser facilmente aplicados</p>
-<p><a href="../EST066/04_geracao_rejeicao.html" target="_blank" rel="noopener noreferrer">Método da Aceitação/Rejeição</a>.</p>
-<p>Uso do método da aceitação/rejeição para construir geradores de número aleatórios</p>
-<p><a href="../EST066/Estudo dirigido - Método da Aceitação_Rejeição.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Método da Aceitação/Rejeição</a>.</p>
-<p>Live de 17/06/21, com apresentação dos fundamentos do Método da Rejeição na geração de números aleatórios e exemplo de uso do método na geração de números aleatórios de uma beta.Duração: 42:16.</p>
-<p><a href="https://drive.google.com/file/d/1dDT5S-qYwujDTyVubpG7qH8rSR7psMcs/view?usp=sharing" target="_blank" rel="noopener noreferrer">Método da Rejeição</a>.</p>
-<p>Live de 29/06/21, com apresentação de rotina para geração de números aleatórios de uma normal padrão (e qualquer normal) pelo método aceitação/rejeição. A rotina deve ser aprimorada para a construção de um algoritmo para o gerador desejado. O código já está disponível.Duração: 57:34.</p>
-<p><a href="https://drive.google.com/file/d/1OM95YrUkX8kwFBcHBx_Cb81WcLNdo9rC/view?usp=sharing" target="_blank" rel="noopener noreferrer">Geração de normal padrão pelo Método da Rejeição</a>.</p>
-<p>Métodos para a geração de vetores aleatórios normais multivariados a partir de sequência de variáveis aleatórias padrão independentes. <a href="../EST066/04_geracao_bivariada.html" target="_blank" rel="noopener noreferrer">Geração de normal bivariada</a>.</p>
-<p>Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições.</p>
-<p><a href="../EST066/Estudo dirigido - Normal bivariada e mistura de distribuições.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Normal bivariada &amp; mistura de distribuições</a>.</p>
-<p>Live de 08/07/21, com apresentação da fundamentação teórica para geração de vetores aleatórios normais bivariados e normais p-variados.Duração: 45:10.</p>
-<p><a href="https://drive.google.com/file/d/18FGDFtDt1UBkhM9bIZukpmYMLSPF6dFX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Geração de vetores aleatórios normais bivariados e p-variados</a>.</p>
-<p>Live de 13/07/21, com apresentação de script com geração de vetores aleatórios normais bivariados e trivariados.Duração: 41:33. <a href="https://drive.google.com/file/d/1dWhTZWjgWSbR2pdluxbzcDWUusomRDmu/view?usp=sharing" target="_blank" rel="noopener noreferrer">Geração de vetores aleatórios normais bivariados</a>.</p>
-<p>Geração de números aleatórios de misturas de distribuições.</p>
-<p><a href="../EST066/Estudo dirigido - Mistura de distribuições.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Mistura de distribuições</a>.</p>
-<p>Live de 20/07/21, com apresentação de script com modelos de mistura de distribuições normais e gamas e um exemplo de estimação com o conjunto de dados faithful.Duração: 1:17:48.<a href="https://drive.google.com/file/d/1FXbnl5u8_YrbyVSorc0Mi9Z5sMsVrB5t/view?usp=sharing" target="_blank" rel="noopener noreferrer">Modelos de mistura de distribuições</a>.</p>
-<p>Aula de dúvidas turma 2020-1, sobre dúvidas e esclarecimentos sobre normal multivariada e mistura de normais.Duração: 41:56.</p>
-<p><a href="https://drive.google.com/file/d/1i9DcVe8ay4FruA3ayr6WdBiqXRMAv46-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Aula sobre dúvidas - 28/10/2020</a>.</p>
-<p>Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas. Geração de números aleatórios de misturas de distribuições.</p>
-<p><a href="../EST066/Estudo dirigido - Mistura de distribuicoes.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Mistura de distribuições</a>.</p>
-<p>Métodos da transformação inversa e da Aceitação/Rejeição aplicados no contexto da geração de valores aleatórios de variáveis discretas, com apresentação de algoritmos relacionados com as principais variáveis aleatórias discretas.<a href="../EST066/02.5_geracao_discretas.html" target="_blank" rel="noopener noreferrer">Variáveis aleatórias discretas</a>.</p>
-<p>Geração de vetores aleatórios de normal bivariada e de números aleatórios de misturas de distribuições. <a href="../EST066/Estudo dirigido - Variaveis Aleatorias Discretas.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Variáveis Aleatórias Discretas</a>.</p>
-<p>Live de 06/07/21, com apresentação da fundamentação teórica do método da rejeição e de rotina para geração de números aleatórios de uma variável aleatória discreta por meio desse método. A rotina deve ser aprimorada para a construção de um algoritmo para o gerador desejado. Há uma interrupção do compartilhamento do R entre os instantes 23:29 e 28:11. É possível acompanhar o som com o código que já se encontra disponível.Duração: 42:45.</p>
-<p><a href="https://drive.google.com/file/d/1drPRjlbGNCISWz9EE4SSrahh8Gv5KZrc/view?usp=sharing" target="_blank" rel="noopener noreferrer">Geração de números aleatórios discretos pelo Método da Rejeição</a>.</p>
+<section id="família-apply." class="level2">
+<h2 class="anchored" data-anchor-id="família-apply.">Família apply.</h2>
+<p>Apresentação extensiva e aplicação das funções da importante família apply</p>
+<p><a href="../EST065/04.1_coding-FamiliaApply.pdf" target="_blank" rel="noopener noreferrer">Família apply</a>.</p>
+<p><a href="https://drive.google.com/file/d/1s2dW-AzrGv8DGwpPdFu1JNQo7e3uE585/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Família apply - 1 (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 27/10/2021, sobre loops em while() e sobre a família apply, com conceitos e aplicações do comando apply(). Duração: 1:08:05</p>
+<p><a href="https://drive.google.com/file/d/1MAWteFWqSif0hEo98hpOHzaGxK8XMyty/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Família apply - 1 (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 13/01/2021, sobre a família apply, com os conceitos e aplicações dos comandos: apply(), lapply() e tapply()</p>
+<p><a href="https://drive.google.com/file/d/1I2nz6ZNRHmuu6Ss-jyhFV-kIp7ZhayAX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Família apply - 2 (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 03/11/2021, continuando com a apresentação da família apply, com conceitos e aplicações dos comandos lapply() e sapply().</p>
+<p>Duração: 0:57:09</p>
+<p><a href="https://drive.google.com/file/d/1GYemrgq0H8KG7cC0Jfth-VTAQEyxJsf2/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Família apply - 2 (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 15/01/2021, sobre a família apply, com os conceitos e aplicações dos comandos: by(), do.call() e aggregate()</p>
+<p><a href="https://drive.google.com/file/d/1yacvshXz3Skxbg_UUEz6iMulwcPiitTT/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Função de Carta de Contrle</a>.</p>
+<p>Vídeo da aula síncrona em 05/11/2021, com estruturação de função para construção de gráfico de controle da média amostral. Duração: 0:26:46</p>
+<p><a href="https://drive.google.com/file/d/1swoH7lutEfuPAG4uDmEouGNyQgv9zi9v/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Família apply - 3 (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 10/11/2021, continuando com a apresentação da família apply, com conceitos e aplicações dos comandos tapply() e by(). Duração: 0:58:19</p>
+<p><a href="https://drive.google.com/file/d/1pEv8LJqHk7r5I4dQQKZZSYA-mp0H6iT6/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Família apply - 3 (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 20/01/2021, sobre a família apply, com os conceitos e aplicações dos comandos: rapply(), vapply(), mapply() e sweep().</p>
+<p><a href="https://drive.google.com/file/d/1SN2ASmKpRHi-l4COedfwfsNunoKDOxzn/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Família apply - 4 (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 12/11/2021, continuando com a apresentação da família apply, com conceitos e aplicações do comando aggregate(). Duração: 1:09:49</p>
+<p><a href="https://drive.google.com/file/d/15_Iei7sbK2U4lQUZO1NK6iXMeoBaRAJq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Família apply - 5 (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 17/11/2021, continuando com a apresentação da família apply, com conceitos e aplicações do comando rapply(), vapply() e mapply(). Duração: 1:06:46</p>
 </section>
-<section id="integração-monte-carlo" class="level2">
-<h2 class="anchored" data-anchor-id="integração-monte-carlo">Integração Monte Carlo</h2>
-<p>Métodos de integração Monte Carlo, uni e multidimensional</p>
-<p>Notas de aula sobre estimação de integrais definidas pelo método Monte Carlo. <a href="../EST066/01_Integracao_Monte_Carlo.html" target="_blank" rel="noopener noreferrer">Integração Monte Carlos</a>.</p>
-<p>Estimação de integrais definidas pelo método de Monte Carlo. <a href="../EST066/Estudo dirigido - Integração Monte Carlo.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Integração Monte Carlo</a>.</p>
-<p>Live de 27/07/21, com apresentação de script sobre estimação pelo Método Monte Carlo de integrais no intervalo (0, 1).Duração: 43:57.<a href="https://drive.google.com/file/d/15LE9D1V7Hhr4UO-ihDf5IVQyVFlf9HzK/view?usp=sharing" target="_blank" rel="noopener noreferrer">Integração Monte Carlo</a>.</p>
-<p>Live de 29/07/21, com apresentação de script sobre estimação pelo Método Monte Carlo de integrais nos intervalos (a, b) e (0, ).Duração: 54:04. <a href="https://drive.google.com/file/d/13vjXDEK93967fQrag-07v9ieGfZVGQvY/view?usp=sharing" target="_blank" rel="noopener noreferrer">Integral Monte Carlo - Transformação</a>.</p>
-<p>Live de 05/08/21, com apresentação de script e material sobre generalização da integração de Monte Carlo e considerações sobre a qualidade das estimativas.Duração: 51:05. <a href="https://drive.google.com/file/d/1euYa1HX0jPWHM8pyCBlbNHEC6ucKZoga/view?usp=sharing" target="_blank" rel="noopener noreferrer">Integral Monte Carlo - Generalização</a>.</p>
-<p>Live de 10/08/21, com apresentação de material sobre integração de Monte Carlo de funções multidimensionais.Duração: 35:32.<a href="https://drive.google.com/file/d/1sOOwtdSMAMMrDyNd_WVenQTjkULBd_mW/view?usp=sharing" target="_blank" rel="noopener noreferrer">Integral Monte Carlo - Integrais multidimensionais</a>.</p>
-<p>Live de 10/08/21, com apresentação de material sobre integração de Monte Carlo de funções multidimensionais.Duração: 35:32.<a href="https://drive.google.com/file/d/1dM3cZE9sbausoV3ZMVNlfvULfXhhAJBj/view?usp=sharing" target="_blank" rel="noopener noreferrer">Integral Monte Carlo - Integrais multidimensionais</a>.</p>
+<section id="funções-em-r." class="level2">
+<h2 class="anchored" data-anchor-id="funções-em-r.">Funções em R.</h2>
+<p>Conceitos relacionados com vetorização e procedimentos para codificação de funções.</p>
+<p><a href="../EST065/04.3_coding-comandos-auxiliares.pdf" target="_blank" rel="noopener noreferrer">Vetorização e comandos auxiliares</a>.</p>
+<p><a href="https://drive.google.com/file/d/1UYCPCuG_69ocM-dJTbrwVPEFEelqGezK/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Vetorização e tempo de processamento (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 19/11/2021, detalhando os conceitos relacionados com vetorização. Apresentação do comando Vectorize() e de pacote e comandos relacionados com medição de tempo de processamento. Duração: 1:11:09</p>
+<p><a href="../EST065/04.4_coding_funcoes.pdf" target="_blank" rel="noopener noreferrer">Funções</a>.</p>
+<p><a href="https://drive.google.com/file/d/1gJmxbyq8Q_YMcfrrc6iCLnHSX6d9f-Bf/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Funções (1) (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 24/11/2021, apresentando comandos usados na manipulação, armazenamento e carregamento de funções. Duração: 1:05:46</p>
+<p><a href="https://drive.google.com/file/d/1wKHPIIXogCBV_BE7kz-NMUAUQssM4RfC/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Funções (1) (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 27/01/2021, sobre a funções, com os conceitos e exemplos sobre sua criação, argumentos e comandos utilizados em suas saídas.</p>
+<p><a href="https://drive.google.com/file/d/142viMsPf6WntWRJjMCKyxYhcqWYLb1nm/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Funções: saídas (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 26/11/2021, apresentando configurações e comandos usados na saída de funções.Duração: 00:56:54</p>
+<p><a href="https://ead.ufjf.br/mod/url/view.php?id=428756" target="_blank" rel="noopener noreferrer">Vídeo aula - Funções: entradas (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 01/12/2021, apresentando configurações e comandos usados na verificação da entrada de funções. Duração: 01:05:05</p>
+<p><a href="https://drive.google.com/file/d/1wKHPIIXogCBV_BE7kz-NMUAUQssM4RfC/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Funções - 2 (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 29/01/2021, sobre a funções e o suo dos comandos: eval(), parse(), deparse(), source(); operador %o%; verificação de argumentos; documentação.. Duração: 1:23:31</p>
+<p><a href="../EST065/03.4_Recursivas.html" target="_blank" rel="noopener noreferrer">Funções Recursivas</a>.</p>
+<p><a href="https://drive.google.com/file/d/1d02ZDAD-E0MWIHQ1HVfzfb-eGC-mt27-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Funções recursivas</a>.</p>
+<p>Vídeo da aula síncrona em 03/12/2021, apresentando funções recursivas. e alguns argumentos formais de funções.Duração: 01:10:32</p>
+<p><a href="../EST065/04.5_coding_codificacao.pdf" target="_blank" rel="noopener noreferrer">Codificação</a>.</p>
+<p><a href="../EST065/065-233_231006-Likelihood.html" target="_blank" rel="noopener noreferrer">Exemplo de Codificação - Estimação de Máxima Verossimilhança</a>.</p>
+<p>Construção de função na linguagem R para calcular a log-verossimilhança de uma amostra, com otimização numérica para obtenção das estimativas dos parâmetros que maximizam a verossimilhança da amostra.</p>
+<p><a href="https://drive.google.com/file/d/1-RZittspo17g6PPgk_hHxSn_fuLvtYwl/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Codificação (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 08/12/2021, apresentando recomendações para codificação e procedimentos para debug de códigos. Duração: 01:16:44</p>
+<p><a href="https://drive.google.com/file/d/1D8IVlp2cRgFRlwvKyuUfzIVAhXBfkB-l/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Codificação (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 03/02/2021, sobre a funções recursivas, exemplo para estimação de probabilidade de cobertura de ICs, recomendações para codificação de depuração do código. Duração: 1:07:19</p>
+<p><a href="../EST065/04.6_coding_simulacao.pdf" target="_blank" rel="noopener noreferrer">Simulação</a>.</p>
+<p><a href="https://drive.google.com/file/d/1JOIkoktrwiOffs8ppEUm51jgSm4qRi0Q/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Simulação (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 10/12/2021, apresentando fundamentos de simulação Monte Carlo e o uso da função replicate(). Duração: 00:57:24</p>
 </section>
-<section id="simulação-monte-carlo" class="level2">
-<h2 class="anchored" data-anchor-id="simulação-monte-carlo">Simulação Monte Carlo</h2>
-<p>Simulação de processo de Poisson homogêneo, não homogêneo e cadeias de Markov. Bootstrap paramétrico.</p>
-<p>Algumas propriedades probabilísticas e algoritmos envolvendo processos de Poisson e cadeias de Markov… <a href="../EST066/05.1_processos.html" target="_blank" rel="noopener noreferrer">Simulação de processos estocásticos</a>.</p>
-<p>Geração de realizações de processos de Poisson e cadeias de Markov.</p>
-<p><a href="../EST066/Estudo dirigido -Cadeias de Markov e processo de Poisson.html" target="_blank" rel="noopener noreferrer">Estudo dirigido - Cadeias de Markov e processo de Poisson</a>.</p>
-<p><a href="../EST066/Cadeias de Markov - Exemplos de aplicação na indústria.pdf" target="_blank" rel="noopener noreferrer">Cadeias de Markov - Exemplos de aplicação na indústria</a>.</p>
-<p>Geração de realizações de processos de Poisson homogêneo e não homogêneo e simulação de eventos discretos. <a href="../EST066/Processos estocásticos - Alguns problemas e implementações.pdf" target="_blank" rel="noopener noreferrer">Processos estocásticos - Alguns problemas e implementações</a>.</p>
-<p>Simulações para estimação de parâmetros e intervalos de confiança. <a href="../EST066/06_distribuicao_amostral.html" target="_blank" rel="noopener noreferrer">Bootstrap paramétrico</a>.</p>
-<p>Live de 12/08/21, com apresentação de material sobre simulação de processo de Poisson e de cadeias de Markov..Duração: 44:36.<a href="https://drive.google.com/file/d/1C4e6BmISkAPYSEsSYwLE2R5WkOGcg6vL/view?usp=sharing" target="_blank" rel="noopener noreferrer">Simulação de Processos Estocásticos</a>.</p>
-</section>
-<section id="reamostragem" class="level2">
-<h2 class="anchored" data-anchor-id="reamostragem">Reamostragem</h2>
-<p>Reamostragem boostrap, validação cruzada e jackknife</p>
-<p>Slides sobre reamostragem para estimação de intervalos de confiança de estatísticas amostrais e coeficientes de regressão.</p>
-<p><a href="../EST066/ERE_08_reamostragem.pdf" target="_blank" rel="noopener noreferrer">Reamostragem</a>.</p>
-<p>Uso de bootstrap não paramétrico para estimação de estatísticas amostrais e intervalos de confiança de parâmetros populacionais.</p>
-<p><a href="../EST066/Estudo dirigido - Bootstrap.pdf" target="_blank" rel="noopener noreferrer">Estudo dirigido - Bootstrap</a>.</p>
-</section>
-<section id="otimização" class="level2">
-<h2 class="anchored" data-anchor-id="otimização">Otimização</h2>
-<p>Métodos e algoritmos de otimização em R</p>
-<p>Introdução à otimização com o R, apresentando uma introdução aos métodos modernos de otimização e a função optim(). <a href="../EST066/09_otimizacao.html" target="_blank" rel="noopener noreferrer">Otimização</a>.</p>
-<p>Live de 02/09/21, com apresentação da introdução à otimização.Duração: 33:19. <a href="https://drive.google.com/file/d/1IM7B-sa4pRoPXswThnXdMTMcfbPurmnA/view?usp=sharing" target="_blank" rel="noopener noreferrer">Otimização</a>.</p>
-<p>Live de 14/09/21, com apresentação do uso da função optim() em otimização. Duração: 1:02:49.<a href="https://drive.google.com/file/d/1JeeLEVfzklGyKRR5Y-8g-I12fP6jzYzO/view?usp=sharing" target="_blank" rel="noopener noreferrer">Função optim()</a>.</p>
-</section>
-<section id="suavização" class="level2">
-<h2 class="anchored" data-anchor-id="suavização">Suavização</h2>
-<p>Métodos de suavização e de estimação de funções: núcleo estimador e spline</p>
+<section id="gráficos-em-r." class="level2">
+<h2 class="anchored" data-anchor-id="gráficos-em-r.">Gráficos em R.</h2>
+<p>Sistema gráfico em R Base (pacote graphics): funções high level e low level; argumentos; customização.</p>
+<p><a href="../EST065/05.1_graphics_intro.pdf" target="_blank" rel="noopener noreferrer">Gráficos em R base: introdução</a>.</p>
+<p><a href="https://drive.google.com/file/d/1EdpAkAwxPcU24L-7E8TTmh5DOJk0qjVl/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Sistema gráfico em R (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 15/12/2021, introduzindo o sistema gráfico em R Base (pacote graphics). Duração: 01:03:00</p>
+<p><a href="https://drive.google.com/file/d/1stSrtwlV60I2QQcPX1IlY5Yo96ci2TnB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Gráficos em R: Introdução (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 10/02/2021, introduzindo o sistema gráfico em R; tipos de gráficos; dispositivos gráficos; sistemas gráfico: R base e grid. Duração: 0:51:40</p>
+<p><a href="../EST065/05.2_high_level.pdf" target="_blank" rel="noopener noreferrer">Gráficos em R base e seus argumentos</a>.</p>
+<p><a href="https://drive.google.com/file/d/1MFxs_ZppWGmdBm6-IqZbI4942nKZz_zj/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Funções high level (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 22/12/2021, apresentando algumas funções high level do sistema gráfico em R Base (pacote graphics) e seus argumentos. Duração: 01:08:01</p>
+<p><a href="https://drive.google.com/file/d/1VEEhRyh2cbPjzmLnoIebP4eTAz5ov4UQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Gráficos em R: Funções high level (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 12/02/2021, apresentando os principais gráficos high level do RBase e seus argumentos. Recomenda-se repetir todos os códigos, entendendo o funcionamento de cada função. Duração: 0:58:40</p>
+<p><a href="../EST065/05.3_argumentos-padrao.pdf" target="_blank" rel="noopener noreferrer">Gráficos em R base: Argumentos padrão</a>.</p>
+<p><a href="https://drive.google.com/file/d/1sNF2sDNCHGlwB-SSzLE2CCkO-h0BlTsD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Argumentos padrão (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 05/01/2022, apresentando algumas funções high level do sistema gráfico em R Base (pacote graphics) para gráficos multivariados e configurações do dispositivo para múltiplos gráficos.Duração: 00:55:52</p>
+<p><a href="https://drive.google.com/file/d/15-SUJYgRZOU4TZZUjbPvktWypqMrEZ05/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Argumentos padrão (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 07/01/2022, apresentando procedimentos para personalização das várias regiões, principalmente por meio da função par().</p>
+<p>Duração: 01:06:51</p>
+<p><a href="https://drive.google.com/file/d/1I6N1x2JOKWRar7bhPeBUGwn_rPhc0-bt/view?usp=sharing" target="_blank" rel="noopener noreferrer">Videoaula - Gráficos em R: Argumentos padrão (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 19/02/2021, apresentando os argumentos padrão das principais funções high level do sistema gráficop tradicional do R. Recomenda-se repetir todos os códigos, entendendo o funcionamento de cada função. Duração: 0:54:48</p>
+<p><a href="../EST065/05.4_personalizacao.pdf" target="_blank" rel="noopener noreferrer">Gráficos em R base: Personalização de gráficos tradicionais</a>.</p>
+<p><a href="https://drive.google.com/file/d/1G77tJitYEg4-q1uIGg3XXDKfuYIxm3M0/view?usp=sharing" target="_blank" rel="noopener noreferrer">Videoaula - Gráficos em R: Personalização gráficos tradicionais (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 24/02/2021, apresentando os argumentos para personalização das várias regiões do gráfico, principalmente por meio da função par(). Duração: 0:44:47</p>
+<p><a href="../EST065/05.5_aparencia.pdf" target="_blank" rel="noopener noreferrer">Gráficos em R base: Controle da aparência de gráficos tradicionais</a>.</p>
+<p><a href="../EST065/EST065-2024.3-A_ Cores - Paletas.pdf" target="_blank" rel="noopener noreferrer">Cores - Paletas</a>.</p>
+<p><a href="https://drive.google.com/file/d/1gNqqJMdzAAOOnLWLYTVk-QKR28ffc7Wh/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Cores &amp; linhas (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 12/01/2022, apresentando os argumentos para personalização de cores e linhas em gráficos do sistema gráfico tradicional.</p>
+<p>Duração: 00:50:32</p>
+<p><a href="https://drive.google.com/file/d/1K62nIiLZn8AUbNNRq3Rgbpwkah13B67Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">Videoaula - Gráficos em R: Controle da aparência dos gráficos - 1 (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 26/02/2021, apresentando os argumentos para personalização de cores em gráficos do sistema gráfico tradicional. Duração: 0:42:29</p>
+<p><a href="https://drive.google.com/file/d/1KzfOGYW9Azt4FI-TFnfRftWqwCIk9Zor/view?usp=sharing" target="_blank" rel="noopener noreferrer">Videoaula - Gráficos em R: Controle da aparência dos gráficos - 3 (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 05/03/2021, apresentados os argumentos para personalização de caracteres e eixos em gráficos do sistema gráfico tradicional. Duração: 0:56:01</p>
+<p><a href="https://drive.google.com/file/d/1FRFjq5cjNZBzv4EetL8642Jdy8mrKe5g/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Textos, caracteres &amp; eixos (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 14/01/2022, apresentando os argumentos para personalização de textos, caracteres e eixos em gráficos do sistema gráfico tradicional.</p>
+<p>Duração: 00:56:25</p>
+<p><a href="https://drive.google.com/file/d/1K62nIiLZn8AUbNNRq3Rgbpwkah13B67Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">Videoaula - Gráficos em R: Controle da aparência dos gráficos - 2 (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 03/03/2021, apresentados os argumentos para personalização de linhas e textos em gráficos do sistema gráfico tradicional. Duração: 1:01:19</p>
+<p><a href="https://drive.google.com/file/d/1qeth4UqLuNB0ZVz_fgqgOaBCbgEL3Hmp/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo aula - Controle das dimensões das regiões do gráfico (2021/3)</a>.</p>
+<p><a href="../EST065/05.6_arranjos.pdf" target="_blank" rel="noopener noreferrer">Gráficos em R base: Arranjos de múltiplos gráficos</a>.</p>
+<p><a href="https://drive.google.com/file/d/1EMf51gHUgCZZ8u4lCDkKt1aWPSEgCrwd/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Arranjos de múltiplos gráficos em R Base (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 21/01/2022, apresentando procedimentos para arranjos de múltiplos gráficos, por meio das funções par() e layout(). Anotação em área de plotagem usando as funções rect() e polygon().</p>
+<p>Duração: 01:14:19</p>
+<p><a href="https://drive.google.com/file/d/1FpyMQDytlh-AlFi3AtIergyHcBussZm6/view?usp=sharing" target="_blank" rel="noopener noreferrer">Videoaula - Gráficos em R: Arranjo de mútliplos gráficos (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 10/03/2021, apresentados os argumentos para arranjo de múltiplos gráficos no mesmo dispositivo gráfico: argumentos fig, mfrow, mcol e mfg da função par() e função layout(). Configurações das dimensões das áreas da figura, do plot e das margens externas do dispositivo gráfico.</p>
+<p>Duração: 1:07:51</p>
+<p><a href="../EST065/05.7_anotacao.pdf" target="_blank" rel="noopener noreferrer">Gráficos em R base: Anotações em gráficos</a>.</p>
+<p><a href="https://drive.google.com/file/d/1qEdx1lsl3af_LfnSzj4jFeIxKtEBgdjq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Anotações em gráficos em R Base</a>.</p>
+<p>Vídeo da aula síncrona em 26/01/2022, apresentando procedimentos para anotação nas margens e nos eixos de gráficos em R Base, além de construção de legendas e anotação matemática.</p>
+<p>Duração: 01:02:23</p>
+<p><a href="https://drive.google.com/file/d/1tPwS_I53dpxhSER1rOqINkBBqnWfOaDX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Videoaula - Gráficos em R: Anotação em gráficos (2020/3)</a>.</p>
+<p>Vídeo da aula síncrona em 17/03/2021, apresentados as funções para anotação de elementos gráficos em dispositivos gráficos, em especial, a anotação matemática. Apresentado alguns pacotes para construção de gráficos interativos e dinâmicos.</p>
+<p>Duração: 1:06:26</p>
+<p><a href="https://drive.google.com/file/d/1fwsLPrRTgwtnzQoxEOJmusld89x3Azir/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Sistemas de coordenadas em gráficos tradicionais (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 28/01/2022, apresentando procedimentos para configurações e personalização de sistemas de coordenadas em gráficos tradicionais, com aplicações em sobreposição de saídas gráficas.</p>
+<p>Duração: 01:12:43</p>
+<p><a href="https://drive.google.com/file/d/1vgxHk9cW4krG3oMmYlyQm3VliiJ0fYjv/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Casos especiais de anotações no sistema gráfico tradicional (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 02/02/2022, apresentando procedimentos para alguns casos especiais de anotações de saídas gráficas. Aplicações de função painel como argumento da função pairs().</p>
+<p>Duração: 01:09:37</p>
+<p><a href="../EST065/05.8_novos_graficos.pdf" target="_blank" rel="noopener noreferrer">Gráficos em R base: Criação de novas funções gráficas</a>.</p>
+<p><a href="https://drive.google.com/file/d/1tC18zhuCjeD4kQhJt_CNWoJUk7GYdWKx/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo-aula: Criação de novas funções gráficas (2021/3)</a>.</p>
+<p>Vídeo da aula síncrona em 04/02/2022, apresentando alguns procedimentos para criação de novas funções gráficas no sistema gráfico tradicional.</p>
+<p>Duração: 01:12:58</p>
+<p><a href="" target="_blank" rel="noopener noreferrer">Animação</a>. FUTURO ESTUDO DIRIGIDO - GG ANIMATE</p>
+<p>LINKS</p>
+<p>Visualising people flows : An interactive introduction to Census 2021 origin-destination data This is an interactive guide to some of the origin-destination data published for Census 2021, in UK. Origin-destination data show the movement of people from one location to another, such as migration and commuting patterns. It is sometimes known as “flow data”. https://www.ons.gov.uk/visualisations/censusorigindestination/</p>
 </section>
 <section id="biblioteca." class="level2">
 <h2 class="anchored" data-anchor-id="biblioteca.">Biblioteca.</h2>
-<p>Material suplementar de apoio da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7961" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
-<p>===============================================================================</p>
-<style>
-.center {
-  text-align: center;
-}
-</style>
-<div class="center">
-<p>Livros</p>
-</div>
-<p>Livros</p>
-<p>O presente material bibliográfico complementar está disponibilizado de maneira excepcional, para uso exclusivamente com fins didáticos, sendo vedado seu compartilhamento fora desse ambiente de aprendizagem virtual.</p>
-<ul>
-<li>O material bibliográfico complementar será disponibilizado de maneira excepcional no Moodle da disciplina, para uso exclusivamente para fins didáticos, sendo vedado seu compartilhamento fora desse ambiente.</li>
-</ul>
-<p><a href="https://ead.ufjf.br/pluginfile.php/1930593/mod_resource/content/1/Ross_Simulation.pdf" target="_blank" rel="noopener noreferrer">Simulation</a>.</p>
-<p><a href="https://ead.ufjf.br/pluginfile.php/1930594/mod_resource/content/1/RobertCasella_Introducing_Monte_Carlo_Methods_with_R.pdf" target="_blank" rel="noopener noreferrer">Introducing Monte Carlo methods with R</a>.</p>
-<p><a href="https://ead.ufjf.br/pluginfile.php/1930595/mod_resource/content/1/Cortez_Modern_Optimization_with_R.pdf" target="_blank" rel="noopener noreferrer">Modern optimization with R Arquivo</a>.</p>
-<p><a href="https://ead.ufjf.br/mod/folder/view.php?id=459592" target="_blank" rel="noopener noreferrer">Livros &amp; Apostilas</a>.</p>
-<p>===============================================================================</p>
-<div class="center">
-<p>Links</p>
-</div>
-<p>Informações detalhadas sobre distribuições univariadas, suas propriedades e relações.</p>
-<p><a href="http://www.math.wm.edu/~leemis/chart/UDR/UDR.html" target="_blank" rel="noopener noreferrer">Univariate Distribution Relationships</a>.</p>
-<p>===============================================================================</p>
-<div class="center">
-<p>Repositório de Arquivos</p>
-</div>
-<p>Conjuntos de dados usados nas apresentações, atividades e listas de exercícios da disciplina.</p>
-<p><a href="../est066/Conjuntos de dados-20250510.zip" target="_blank" rel="noopener noreferrer">Conjuntos de dados</a>.</p>
-<p><a href="https://drive.google.com/file/d/1FdbuZEX_TdgmZOJOhK5KWc0QGtFYdimM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Scripts de apresentações e atividades</a>.</p>
+<p>Material suplementar de apoio da disciplina do semestre 2025.3 está no <a href="https://ead.ufjf.br/" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
 </section>
 <section id="atividades." class="level2">
 <h2 class="anchored" data-anchor-id="atividades.">Atividades.</h2>
-<p>Atividades avaliativas da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/course/view.php?id=7961" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
+<p>Atividades avaliativas da disciplina do semestre 2025.1 está no <a href="https://ead.ufjf.br/" target="_blank" rel="noopener noreferrer">Moodle da Disciplina</a>.</p>
 
 
 </section>
