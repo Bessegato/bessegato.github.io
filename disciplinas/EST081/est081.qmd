@@ -27,6 +27,47 @@ Duração: 1:04:05
 ## Gestão da qualidade.
 Gestão de melhoria da qualidade no contexto da empresa moderna e o processo DMAMC para resolução de problemas
 
+[Gestão da Qualidade](../EST081/02.1_gestao.pdf){target="_blank" rel="noopener noreferrer"}.
+
+Notas de aulas sobre a evolução do conceito de qualidade no contexto da empresa e metodologias de gestão da qualidade de produto e serviço.
+
+[Vídeo aula - Gestão da qualidade (Semestre 2021/3)](https://drive.google.com/file/d/1WgDQbYn2ICJec2snApBOCESewqyD6LYb/view?usp=sharing){target="_blank" rel="noopener noreferrer"}.
+
+Live de 27/10/2021, com apresentação de conceitos e aspectos da gestão da qualidade no contexto das empresas. Duração: 1:04:03
+
+
+[Gestão da qualidade total](../EST081/cep_Leitura_02_qualidade_total.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Vídeo aula - Gestão da qualidade (Semestre 2021/3)](https://drive.google.com/file/d/1Ak2TPRW3guHzrY7QLkUlEkzyHHOPW-a0/view?usp=sharing)
+
+Live de 03/11/2021, com apresentação dos fundamentos sobre a gestão da qualidade total e de conceitos sobre a metodologia PDCA. Duração: 59:13
+
+
+[Os 14 pontos de Deming](../EST081/cep_Leitura_01_Deming.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Estudo Dirigido - Gestão da Qualidade](../EST081/EST081-2024.3-A_ Estudo Dirigido - Gestão da Qualidade.pdf){target="_blank" rel="noopener noreferrer"}.
+
+[Vídeo aula - Ferramentas de gerenciamento (Semestre 2021/3)](){target="_blank" rel="noopener noreferrer"}.
+
+Live de 05/11/2021, com apresentação do diagrama-de-causa-e-efeito e de uso do PDCA em uma aplicação industrual.Duração: 59:13
+
+[Estudo Dirigido - Metodologias e ferramentas da qualidade](){target="_blank" rel="noopener noreferrer"}.
+
+[Gestão da qualidade: PDCA & 6 sigma](){target="_blank" rel="noopener noreferrer"}.
+
+Notas de aula sobre o ciclo PDCA, ferramentas de gerenciamento de qualidade e programa 6 sigma.
+
+[Estudo de caso: Aplicação de PDCA em cervejaria](){target="_blank" rel="noopener noreferrer"}.
+
+Slides de apresentação síncrona de estudo de caso de uso do método PDCA para melhoria de qualidade em cervejaria
+
+[Vídeo aula - Programa 6 sigma (Semestre 2021/3)](){target="_blank" rel="noopener noreferrer"}.
+
+[Estudo Dirigido - Programa Seis Sigma](){target="_blank" rel="noopener noreferrer"}.
+
+[Vídeo aula - DMAIC (Semestre 2021/3)](){target="_blank" rel="noopener noreferrer"}.
+
+[Estudo Dirigido - DMAIC](){target="_blank" rel="noopener noreferrer"}.
 
 
 ## Ferramentas estatísticas da qualidade.
